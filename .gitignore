@@ -1,0 +1,28 @@
+# Datos: se regeneran íntegramente con los scripts de R/ y no se versionan.
+# Los crudos pesan ~385 MB y los procesados ~323 MB.
+datos/crudos/
+datos/procesados/*
+# Excepción: el inventario depurado y los diccionarios de categorías son
+# pequeños y son el insumo que otros pueden querer reutilizar directamente.
+!datos/procesados/ocurrencias_final.csv
+!datos/procesados/dic_*.csv
+
+# Registros de ejecución
+salidas/*.log
+
+# Sistema y ofimática
+.DS_Store
+~$*
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv: se versiona el lockfile, no la biblioteca
+renv/library/
+renv/local/
+renv/cellar/
+renv/staging/
+
+# Respaldos locales de resultados anteriores
+respaldo_*/
+respaldo_v4_2026-09-24/

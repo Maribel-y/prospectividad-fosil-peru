@@ -1,0 +1,6 @@
+escenario,valor_vias_km,cor_con_adoptado,solapamiento_1pct,cor_con_dist_vias
+Cero (acceso inmediato),0,0.868,68.3,0.045
+Percentil 25 de las presencias,0,0.874,77.2,0.079
+Mediana de las presencias,2,1,100,-0.12
+Percentil 75 de las presencias,6.3,0.902,90.2,0.146
+Mediana del territorio,12.7,0.948,86.6,0.064

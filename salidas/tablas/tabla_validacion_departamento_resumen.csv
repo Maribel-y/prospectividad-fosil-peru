@@ -1,0 +1,8 @@
+indicador,valor
+departments,13
+median AUC baseline,0.621112081985522
+median AUC observational,0.770321960130362
+median AUC neutralised,0.673838577092602
+departments neutralised > baseline,11
+rho density vs neutralised AUC,0.120879120879121
+rho density vs neutralised PR-AUC,0.774725274725275

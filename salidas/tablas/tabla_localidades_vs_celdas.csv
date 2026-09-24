@@ -1,0 +1,16 @@
+paso,valor
+Occurrences in the inventory,10904
+Unique coordinates,918
+"Independent localities (complete linkage, 2 km)",655
+Occurrences with a valid land cell (after snapping),10600
+Independent localities among those occurrences,630
+Presence cells (2 km grid),699
+Localities split across 2 cells,71
+Localities split across 3-4 cells,11
+Cells shared by 2 or more localities,23
+Net difference cells - localities,69
+Split cells added,93
+Cells merged,24
+Mesozoic localities,104
+Mesozoic presence cells,114
+Occurrences at integer-degree coordinates,0

@@ -1,0 +1,877 @@
+fuente,id,lon,lat,sitio,precision,formacion,max_ma,dist_km,pais,rango
+PBDB,338740,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338741,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338742,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338743,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338744,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338745,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338746,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338747,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338748,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338749,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338750,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338751,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338752,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,338753,-80,-3,"",degrees,"",23.04,54.06,,20-100 km
+PBDB,426885,-76.345276,-13.800556,Pisco,seconds,Otuma,33.9,0.31,PER,< 1 km (borde)
+PBDB,426886,-76.345276,-13.800556,Pisco,seconds,Otuma,33.9,0.31,PER,< 1 km (borde)
+PBDB,426887,-76.345276,-13.800556,Pisco,seconds,Otuma,33.9,0.31,PER,< 1 km (borde)
+PBDB,426888,-76.345276,-13.800556,"",seconds,Otuma,33.9,0.31,PER,< 1 km (borde)
+PBDB,426889,-76.345276,-13.800556,"",seconds,Otuma,33.9,0.31,PER,< 1 km (borde)
+PBDB,426890,-76.345276,-13.800556,"",seconds,Otuma,33.9,0.31,PER,< 1 km (borde)
+PBDB,426891,-76.345276,-13.800556,"",seconds,Otuma,33.9,0.31,PER,< 1 km (borde)
+PBDB,426892,-76.345276,-13.800556,"",seconds,Otuma,33.9,0.31,PER,< 1 km (borde)
+PBDB,437995,-78.077782,-11.065,"",seconds,"",2.58,44.34,,20-100 km
+PBDB,437996,-78.077782,-11.065,"",seconds,"",2.58,44.34,,20-100 km
+PBDB,437997,-79.90583,-8.993056,"",seconds,"",2.58,113.1,,100-500 km
+PBDB,437998,-79.90583,-8.993056,"",seconds,"",2.58,113.1,,100-500 km
+PBDB,437999,-79.90583,-8.993056,"",seconds,"",2.58,113.1,,100-500 km
+PBDB,438000,-76.891388,-13.480278,"",seconds,"",2.58,55.32,,20-100 km
+PBDB,438001,-76.891388,-13.480278,"",seconds,"",2.58,55.32,,20-100 km
+PBDB,438002,-76.891388,-13.480278,"",seconds,"",2.58,55.32,,20-100 km
+PBDB,438006,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438007,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438008,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438009,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438010,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438011,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438012,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438013,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438014,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438015,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438016,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438017,-78.94278,-11.537778,"",seconds,"",56,131.42,,100-500 km
+PBDB,438018,-78.077782,-11.065,"",seconds,"",2.58,44.34,,20-100 km
+PBDB,438019,-79.90583,-8.993056,"",seconds,"",2.58,113.1,,100-500 km
+PBDB,438020,-76.891388,-13.480278,"",seconds,"",2.58,55.32,,20-100 km
+PBDB,517777,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517778,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517779,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517780,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517781,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517782,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517783,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517784,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517785,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517786,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517787,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517788,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517789,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517790,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517791,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517792,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517793,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517794,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517795,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517796,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517797,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517798,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517799,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517800,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517801,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517802,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517803,-81.297501,-4.7425,"",seconds,Verdun,41.03,1.75,,1-5 km
+PBDB,517943,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517944,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517945,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517946,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517947,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517948,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517949,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517950,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517951,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517952,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517954,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517955,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517956,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517957,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517958,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517959,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517960,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517961,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517962,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,517967,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517968,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517969,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517970,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517971,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517972,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517973,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517974,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517975,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517976,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517980,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517981,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517982,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517983,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517984,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517985,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517986,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517987,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517993,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517994,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517995,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,517996,-81.297501,-4.517222,"",seconds,Talara,41.03,0.23,,< 1 km (borde)
+PBDB,615595,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615596,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615597,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615598,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615599,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615600,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615601,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615602,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615603,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615604,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615605,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615606,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615607,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615608,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615609,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615610,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615611,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615612,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615613,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615614,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615615,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615616,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615617,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615618,-80.65583,-3.660556,"",seconds,Zorritos,23.04,0.73,,< 1 km (borde)
+PBDB,615619,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615620,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615621,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615622,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615623,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615624,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615625,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615626,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615627,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615628,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615629,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615630,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615631,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615632,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615633,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615634,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615635,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615636,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615637,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615638,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615639,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615640,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615641,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615642,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615643,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615644,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615645,-80.660004,-3.660556,"",seconds,Zorritos,23.04,0.81,,< 1 km (borde)
+PBDB,615646,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615647,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615648,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615649,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615650,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615651,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615652,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615653,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615654,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615655,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615656,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615657,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615658,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615659,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615660,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615661,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615662,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615663,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615664,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615665,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615666,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615667,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615668,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615669,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615670,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615671,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,615672,-80.660004,-3.660556,"",seconds,Cardalitos,15.98,0.81,,< 1 km (borde)
+PBDB,715005,-74.75,-30.333332,"",seconds,Lomas Terrace,0.129,1405.11,,> 500 km
+PBDB,715006,-74.75,-30.333332,"",seconds,Lomas Terrace,0.129,1405.11,,> 500 km
+PBDB,715007,-74.75,-30.333332,"",seconds,Lomas Terrace,0.129,1405.11,,> 500 km
+PBDB,715008,-74.75,-30.333332,"",seconds,Lomas Terrace,0.129,1405.11,,> 500 km
+PBDB,715009,-74.75,-30.333332,"",seconds,Lomas Terrace,0.129,1405.11,,> 500 km
+PBDB,715010,-74.75,-30.333332,"",seconds,Lomas Terrace,0.129,1405.11,,> 500 km
+PBDB,715011,-74.75,-30.333332,"",seconds,Lomas Terrace,0.129,1405.11,,> 500 km
+PBDB,715012,-74.75,-30.333332,"",seconds,Lomas Terrace,0.129,1405.11,,> 500 km
+PBDB,715022,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715023,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715024,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715025,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715026,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715027,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715028,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715029,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715030,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715031,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715032,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715033,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715034,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715035,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715036,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715037,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715038,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715039,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715040,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715041,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715042,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715043,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715044,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715045,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715046,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715047,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715048,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715049,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715050,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715051,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715052,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715053,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715054,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715055,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715056,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715057,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715058,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715059,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,715060,-75.166664,-15.333333,"",seconds,San Juan Terrace,0.129,1.46,,1-5 km
+PBDB,751359,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751360,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751361,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751362,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751363,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751364,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751365,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751366,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751367,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751368,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751369,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751370,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751371,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751372,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751373,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751374,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751544,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751545,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751546,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751547,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751548,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751549,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751550,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751551,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751552,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751553,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751554,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751555,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751556,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751557,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751558,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751559,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751562,-75.731392,-15.541389,"",seconds,Pisco,7.246,57.96,,20-100 km
+PBDB,751567,-75.530556,-15.663611,"",seconds,Pisco,7.246,48.71,,20-100 km
+PBDB,751569,-75.731392,-15.541389,"",seconds,Pisco,7.246,57.96,,20-100 km
+PBDB,751603,-76.345276,-13.800556,"",seconds,Paracas,33.9,0.31,PER,< 1 km (borde)
+PBDB,751620,-76.316109,-13.908889,"",seconds,Paracas,37.71,0.06,PER,< 1 km (borde)
+PBDB,751719,-75,-15.573611,"",seconds,Pisco,5.333,9.27,,5-20 km
+PBDB,751725,-75.5,-15.083333,"",seconds,Caballas,27.3,9.46,,5-20 km
+PBDB,751726,-75.5,-15,"",seconds,Caballas,27.3,2.69,,1-5 km
+PBDB,751727,-75.5,-15,"",seconds,Caballas,27.3,2.69,,1-5 km
+PBDB,751729,-75.5,-15.083333,"",seconds,Caballas,27.3,9.46,,5-20 km
+PBDB,751730,-75.5,-15.083333,"",seconds,Caballas,27.3,9.46,,5-20 km
+PBDB,751736,-75.5,-15.25,"",seconds,Caballas,23.04,17.51,,5-20 km
+PBDB,751737,-75.5,-15.25,"",seconds,Caballas,23.04,17.51,,5-20 km
+PBDB,751738,-75.5,-15.25,"",seconds,Caballas,23.04,17.51,,5-20 km
+PBDB,751825,-75.816666,-15.483333,"",seconds,Pisco,11.63,60.29,,20-100 km
+PBDB,751836,-75,-15.573611,"",seconds,Pisco,5.333,9.27,,5-20 km
+PBDB,751848,-75.530556,-15.663611,"",seconds,Pisco,7.246,48.71,,20-100 km
+PBDB,751849,-75.731392,-15.541389,"",seconds,Pisco,5.333,57.96,,20-100 km
+PBDB,751858,-75,-15.573611,"",seconds,Pisco,5.333,9.27,,5-20 km
+PBDB,751884,-75.731392,-15.541389,"",seconds,Pisco,5.333,57.96,,20-100 km
+PBDB,751885,-75.731392,-15.541389,"",seconds,Pisco,5.333,57.96,,20-100 km
+PBDB,751886,-75.731392,-15.541389,"",seconds,Pisco,5.333,57.96,,20-100 km
+PBDB,751887,-75.731392,-15.541389,"",seconds,Pisco,5.333,57.96,,20-100 km
+PBDB,751888,-75.731392,-15.541389,"",seconds,Pisco,5.333,57.96,,20-100 km
+PBDB,751889,-75.731392,-15.541389,"",seconds,Pisco,5.333,57.96,,20-100 km
+PBDB,751906,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751933,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,751954,-75.816666,-15.483333,"",seconds,Pisco,11.63,60.29,,20-100 km
+PBDB,767054,-81.297501,-4.7425,"",seconds,Talara,41.03,1.75,,1-5 km
+PBDB,785664,-76.296669,-13.911111,"",seconds,Paracas,48.07,0.66,PER,< 1 km (borde)
+PBDB,785690,-76.296669,-13.911111,"",seconds,Paracas,48.07,0.66,PER,< 1 km (borde)
+PBDB,785696,-76.296669,-13.911111,"",seconds,Paracas,48.07,0.66,PER,< 1 km (borde)
+PBDB,808543,-81.26667,-4.3,"",seconds,Pale Greda,48.07,0.9,,< 1 km (borde)
+PBDB,808544,-81.26667,-4.3,"",seconds,Restin,41.03,0.9,,< 1 km (borde)
+PBDB,808585,-81.26667,-4.3,"",seconds,Pale Greda,48.07,0.9,,< 1 km (borde)
+PBDB,808588,-81.26667,-4.3,"",seconds,Restin,41.03,0.9,,< 1 km (borde)
+PBDB,808589,-81.26667,-4.3,"",seconds,Restin,41.03,0.9,,< 1 km (borde)
+PBDB,808601,-81.26667,-4.3,"",seconds,Pale Greda,48.07,0.9,,< 1 km (borde)
+PBDB,808616,-81.297501,-4.7425,"",seconds,Saman,37.71,1.75,,1-5 km
+PBDB,808617,-81.297501,-4.7425,"",seconds,Saman,37.71,1.75,,1-5 km
+PBDB,808623,-81.297501,-4.7425,"",seconds,Saman,37.71,1.75,,1-5 km
+PBDB,808624,-81.297501,-4.7425,"",seconds,Saman,37.71,1.75,,1-5 km
+PBDB,808625,-81.297501,-4.7425,"",seconds,Saman,37.71,1.75,,1-5 km
+PBDB,808628,-81.297501,-4.7425,"",seconds,Saman,37.71,1.75,,1-5 km
+PBDB,808629,-81.297501,-4.7425,"",seconds,Saman,37.71,1.75,,1-5 km
+PBDB,808630,-81.297501,-4.7425,"",seconds,Saman,37.71,1.75,,1-5 km
+PBDB,808642,-81.26667,-4.3,"",seconds,Restin,41.03,0.9,,< 1 km (borde)
+PBDB,811866,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,811867,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,811868,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,811869,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,811870,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,811871,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,811912,-75.581665,-15.659167,"",seconds,Pisco,11.63,52.6,,20-100 km
+PBDB,811913,-75.581665,-15.659167,"",seconds,Pisco,11.63,52.6,,20-100 km
+PBDB,811914,-75.581665,-15.659167,"",seconds,Pisco,11.63,52.6,,20-100 km
+PBDB,811915,-75.581665,-15.659167,"",seconds,Pisco,11.63,52.6,,20-100 km
+PBDB,811916,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811917,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811918,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811919,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811920,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811921,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811922,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811923,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811924,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811925,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811926,-75.581665,-15.659167,"",seconds,Pisco,5.333,52.6,,20-100 km
+PBDB,811931,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,811935,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,811936,-74.166664,-15.9,"",seconds,Huacllaco,3.6,0.08,,< 1 km (borde)
+PBDB,843636,-80.733612,-3.706667,"",seconds,Negritos,56,0.49,,< 1 km (borde)
+PBDB,843639,-80.962776,-3.957778,"",seconds,Negritos,56,0.05,,< 1 km (borde)
+PBDB,843642,-80.733612,-3.706667,"",seconds,Negritos,56,0.49,,< 1 km (borde)
+PBDB,843644,-80.962776,-3.957778,"",seconds,Zorritos,23.04,0.05,,< 1 km (borde)
+PBDB,843646,-80.733612,-3.706667,"",seconds,Negritos,56,0.49,,< 1 km (borde)
+PBDB,843653,-80.962776,-3.957778,"",seconds,Negritos,56,0.05,,< 1 km (borde)
+PBDB,843655,-80.733612,-3.706667,"",seconds,Negritos,56,0.49,,< 1 km (borde)
+PBDB,843657,-80.733612,-3.706667,"",seconds,Negritos,56,0.49,,< 1 km (borde)
+PBDB,843664,-80.858055,-3.895278,"",seconds,Zorritos,23.04,0.02,PER,< 1 km (borde)
+PBDB,843665,-80.858055,-3.895278,"",seconds,"",56,0.02,PER,< 1 km (borde)
+PBDB,843666,-80.858055,-3.895278,"",seconds,Zorritos,23.04,0.02,PER,< 1 km (borde)
+PBDB,843667,-80.304726,-4.046389,"",seconds,"",41.03,3.3,ECU,1-5 km
+PBDB,843668,-80.304726,-4.046389,"",seconds,"",41.03,3.3,ECU,1-5 km
+PBDB,843672,-80.733612,-3.706667,"",seconds,Negritos,56,0.49,,< 1 km (borde)
+PBDB,843675,-80.304726,-4.046389,"",seconds,Negritos,56,3.3,ECU,1-5 km
+PBDB,843676,-80.304726,-4.046389,"",seconds,Negritos,56,3.3,ECU,1-5 km
+PBDB,843677,-80.962776,-3.957778,"",seconds,Zorritos,23.04,0.05,,< 1 km (borde)
+PBDB,843679,-80.858055,-3.895278,"",seconds,Zorritos,23.04,0.02,PER,< 1 km (borde)
+PBDB,843764,-80.733612,-3.706667,"",seconds,Heath,27.3,0.49,,< 1 km (borde)
+PBDB,843765,-80.733612,-3.706667,"",seconds,"",33.9,0.49,,< 1 km (borde)
+PBDB,843766,-80.849998,-3.866667,"",seconds,"",66,1.87,,1-5 km
+PBDB,843768,-80.849998,-3.866667,"",seconds,"",66,1.87,,1-5 km
+PBDB,869924,-81.018608,-5.821944,"",seconds,Montera,23.04,0.78,,< 1 km (borde)
+PBDB,869925,-81.018608,-5.821944,"",seconds,Montera,23.04,0.78,,< 1 km (borde)
+PBDB,869926,-81.018608,-5.821944,"",seconds,Montera,23.04,0.78,,< 1 km (borde)
+PBDB,1062791,-80.659164,-3.668611,"",seconds,Tumbes,11.63,0.02,,< 1 km (borde)
+PBDB,1119327,-71.216667,-4.4,"",minutes,Pebas,15.98,0.2,BRA,< 1 km (borde)
+PBDB,1119328,-71.216667,-4.4,"",minutes,Pebas,15.98,0.2,BRA,< 1 km (borde)
+PBDB,1127270,-70.349998,-3.716667,"",minutes,Pebas,15.98,10.44,COL,5-20 km
+PBDB,1264531,-76.586945,-12.807778,"",seconds,"",0.0117,1.66,,1-5 km
+PBDB,1266015,-76.28833,-13.402778,"",seconds,"",0.0117,8.59,,5-20 km
+PBDB,1266082,-76.569725,-13.118333,"",seconds,"",0.0117,12.71,,5-20 km
+PBDB,1266247,-77.79583,-11.169722,"",seconds,"",0.0117,16.96,,5-20 km
+PBDB,1266819,-78.310837,-9.767222,"",seconds,"",0.0117,4,,1-5 km
+PBDB,1266887,-80.706108,-6.419444,"",seconds,"",0.0117,8.48,,5-20 km
+PBDB,1330173,-81.297501,-4.7425,"",seconds,Saman,37.71,1.75,,1-5 km
+PBDB,1436950,-76.241096,-13.7889,"",4,Paracas,48.07,0.02,PER,< 1 km (borde)
+PBDB,1639722,-70.444443,-8.303611,"",seconds,Solimões,11.63,124.75,BRA,100-500 km
+PBDB,1639723,-70.444443,-8.303611,"",seconds,Solimões,11.63,124.75,BRA,100-500 km
+PBDB,1639724,-70.444443,-8.303611,"",seconds,Solimões,11.63,124.75,BRA,100-500 km
+PBDB,1639725,-70.444443,-8.303611,"",seconds,Solimões,11.63,124.75,BRA,100-500 km
+GBIF,9.45432795698467e-315,-74.35,-15.85,[redacted],,,,0.7,,< 1 km (borde)
+GBIF,9.45432812990765e-315,-74.35,-15.85,[redacted],,,,0.7,,< 1 km (borde)
+GBIF,9.45432814967027e-315,-74.35,-15.85,[redacted],,,,0.7,,< 1 km (borde)
+GBIF,9.63354750818662e-315,-74.35,-15.85,[redacted],,,,0.7,,< 1 km (borde)
+GBIF,9.45432788287482e-315,-74.35,-15.85,[redacted],,,,0.7,,< 1 km (borde)
+GBIF,9.45432789769679e-315,-74.35,-15.85,[redacted],,,,0.7,,< 1 km (borde)
+GBIF,5.60043119321863e-315,-74.81,-15.62,SUD-SACACO WEST,,,,4.57,,1-5 km
+GBIF,5.6005217109856e-315,-74.81,-15.62,SUD-SACACO WEST,,,,4.57,,1-5 km
+GBIF,5.60052175545151e-315,-74.81,-15.62,SUD-SACACO WEST,,,,4.57,,1-5 km
+GBIF,5.60052177521413e-315,-74.81,-15.62,SUD-SACACO WEST,,,,4.57,,1-5 km
+GBIF,5.60052182956135e-315,-74.81,-15.62,SUD-SACACO WEST,,,,4.57,,1-5 km
+GBIF,5.60052186414595e-315,-74.81,-15.62,SUD-SACACO WEST,,,,4.57,,1-5 km
+GBIF,5.60052187896792e-315,-74.81,-15.62,SUD-SACACO WEST,,,,4.57,,1-5 km
+GBIF,9.9091353936402e-315,-81.3,-4.6,591,,,,0.6,,< 1 km (borde)
+GBIF,9.90913561596974e-315,-81.3,-4.6,592,,,,0.6,,< 1 km (borde)
+GBIF,9.9091356653763e-315,-81.3,-4.6,592,,,,0.6,,< 1 km (borde)
+GBIF,3.31149643369998e-316,-79,-70,Peru; San Miguel,,,,5779.23,,> 500 km
+GBIF,1.73584541307728e-315,-77.142447,-12.041653,Callas [Callao],,,,0.07,,< 1 km (borde)
+GBIF,2.18660409540023e-315,-73.583333,-7.9,"",,,,12.67,BRA,5-20 km
+GBIF,2.21085197762389e-315,-81.333,-7.883,"",,,,123.37,,100-500 km
+GBIF,2.21085198256455e-315,-80.5,-7.883,"",,,,105.89,,100-500 km
+GBIF,2.21085198750521e-315,-80.5,-7.883,"",,,,105.89,,100-500 km
+GBIF,5.24271614895936e-315,-81.25,-5,Region del los Organos Chicos,,,,12.64,,5-20 km
+GBIF,6.50499317317849e-315,-76.908,-13.511,Peruvian Margin.,,,,55.92,,20-100 km
+GBIF,6.50528892581475e-315,-77.866,-12.0032,Peruvian margin.,,,,67.28,,20-100 km
+GBIF,6.50532550643517e-315,-78.2722,-11.0139,Offshore Peru; Lima Basin; 112-679d-3h-Cc,,,,60.28,,20-100 km
+GBIF,6.50559040467184e-315,-81.4133,-7.4067,"Peru-Chile Trench, Surface Sediment From",,,,90.99,,20-100 km
+GBIF,6.50592817265062e-315,-79.2467,-11.6417,"Peru-Chile Trench, Surface Sediment From",,,,165.92,,100-500 km
+GBIF,6.50598381432366e-315,-78.2722,-11.0639,Offshore Peru; Lima Basin; 112-679d-3h-Cc,,,,63.06,,20-100 km
+GBIF,6.50600327062879e-315,-77.13,-14.18,"Eltanin Sta.48, Depth 4000m, Off Coast Of Peru",,,,80.37,,20-100 km
+GBIF,6.50607156038236e-315,-79.2467,-11.6417,"Peru-Chile Trench, Surface Sediment From",,,,165.92,,100-500 km
+GBIF,6.50705596641907e-315,-78.2722,-11.0639,Offshore Peru; Lima Basin; 112-679d-3h-Cc,,,,63.06,,20-100 km
+GBIF,6.50711329779662e-315,-82.2217,-8.6983,Western Margin Of The Peru-Chile Trench,,,,254.86,,100-500 km
+GBIF,6.50718474957032e-315,-78.2722,-11.0639,"Offshore Peru, Lima Basin; 112-679d-2h-Cc",,,,63.06,,20-100 km
+GBIF,6.50752054622717e-315,-78.2722,-11.0639,"Offshore Peru, Lima Basin; 112-679d-2h-Cc",,,,63.06,,20-100 km
+GBIF,6.50783131845906e-315,-78.2722,-11.0639,"Offshore Peru; Lima Basin; 112-679d-3h-2, 130-135",,,,63.06,,20-100 km
+GBIF,6.50783175817749e-315,-78.2722,-11.0639,Offshore Peru; Lima Basin; 112-679d-3h-Cc,,,,63.06,,20-100 km
+GBIF,7.20220769373889e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220769867955e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220771350151e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.2022077382048e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220774808611e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220776290808e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220777278939e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220777773005e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220779255202e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220780243333e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220780737399e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220781231464e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.2022078172553e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220782219596e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220782713661e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220783207727e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.2022078518399e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220785678055e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220786172121e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220788148383e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220795065302e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,7.20220797535631e-315,-79.166667,-3.916667,"Heath Formation (Miocene) Progresso Basin, Peru",,,,67.18,ECU,20-100 km
+GBIF,9.11858784594538e-315,-75.25,-15.25,[redacted],,,,0.38,,< 1 km (borde)
+GBIF,9.11858800898704e-315,-75.85,-15.55,[redacted],,,,67.74,,20-100 km
+GBIF,9.11858802874967e-315,-75.85,-15.55,[redacted],,,,67.74,,20-100 km
+GBIF,9.11858803369032e-315,-75.85,-15.55,[redacted],,,,67.74,,20-100 km
+GBIF,9.11858804851229e-315,-81.15,-5.05,[redacted],,,,2.66,,1-5 km
+GBIF,9.11858827084183e-315,-76.35,-13.95,[redacted],,,,3.08,,1-5 km
+GBIF,9.11858835483299e-315,-75.85,-15.55,[redacted],,,,67.74,,20-100 km
+GBIF,9.11858840918021e-315,-76.35,-13.95,[redacted],,,,3.08,,1-5 km
+GBIF,9.11858848823072e-315,-76.35,-13.95,[redacted],,,,3.08,,1-5 km
+GBIF,9.11858854751859e-315,-76.35,-13.95,[redacted],,,,3.08,,1-5 km
+GBIF,9.11858855245925e-315,-76.35,-13.95,[redacted],,,,3.08,,1-5 km
+GBIF,9.11858855739991e-315,-74.35,-15.85,[redacted],,,,0.7,,< 1 km (borde)
+GBIF,9.11858862162844e-315,-73.15,-16.45,[redacted],,,,1.17,,1-5 km
+GBIF,9.13694319495604e-315,-73.15,-16.45,[redacted],,,,1.17,,1-5 km
+GBIF,9.13694319989669e-315,-73.15,-16.45,[redacted],,,,1.17,,1-5 km
+GBIF,9.13694320977801e-315,-73.15,-16.45,[redacted],,,,1.17,,1-5 km
+GBIF,9.13694323448129e-315,-73.15,-16.45,[redacted],,,,1.17,,1-5 km
+GBIF,9.13694388170729e-315,-73.15,-16.45,[redacted],,,,1.17,,1-5 km
+GBIF,9.1369438915886e-315,-73.15,-16.45,[redacted],,,,1.17,,1-5 km
+GBIF,9.13694390146991e-315,-73.15,-16.45,[redacted],,,,1.17,,1-5 km
+GBIF,9.13694390641057e-315,-73.15,-16.45,[redacted],,,,1.17,,1-5 km
+GBIF,9.13694424237521e-315,-73.15,-16.45,[redacted],,,,1.17,,1-5 km
+GBIF,9.90910221713208e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910256791869e-315,-81,-4,2627,,,,0.02,,< 1 km (borde)
+GBIF,9.90910261732525e-315,-81,-4,2627,,,,0.02,,< 1 km (borde)
+GBIF,9.9091026568505e-315,-81,-4,2627,,,,0.02,,< 1 km (borde)
+GBIF,9.90910266673182e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910276554494e-315,-80.6,-3.6,2727,,,,4.01,,1-5 km
+GBIF,9.90910279024823e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910280012954e-315,-80.6,-3.6,2727,,,,4.01,,1-5 km
+GBIF,9.90910283471413e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910292364595e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910295823055e-315,-80.6,-3.6,2727,,,,4.01,,1-5 km
+GBIF,9.9091029631712e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910298787448e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910304716236e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910309162827e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910310150958e-315,-81,-4,2612,,,,0.02,,< 1 km (borde)
+GBIF,9.90910310645024e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910313609418e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910317067877e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910318550074e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.9091031904414e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910321514468e-315,-80.6,-3.6,2736,,,,4.01,,1-5 km
+GBIF,9.90910324972928e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910327937322e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910328431387e-315,-80.6,-3.6,2736,,,,4.01,,1-5 km
+GBIF,9.90910329419519e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910329913584e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910334360175e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910335348306e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910335842372e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910336336438e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910337818635e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.909103383127e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910343253357e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910346711816e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910347699947e-315,-80.6,-3.6,2736,,,,4.01,,1-5 km
+GBIF,9.90910348194013e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910348688079e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910351158407e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910358569392e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910360545654e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910362521917e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910363015982e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910366474442e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910366968508e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910367956639e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910371415098e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.9091037240323e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910374379492e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.9091037684982e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910377343886e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910378826083e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910379814214e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910381296411e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910386731133e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910387225199e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.9091038821333e-315,-81.3,-4.6,2718,,,,0.6,,< 1 km (borde)
+GBIF,9.90910388707396e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910389695527e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910390189593e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910395130249e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910396612446e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910397600578e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910398094643e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.9091040748189e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910407975956e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910417363203e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910419833532e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910420821663e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910421809794e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.9091042230386e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910432185173e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910433173304e-315,-81.2,-4.2,2660,,,,2.51,,1-5 km
+GBIF,9.90910461335046e-315,-81.3,-4.6,2655,,,,0.6,,< 1 km (borde)
+GBIF,9.90910485544263e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910488508656e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910493449313e-315,-80.9,-3.9,2639,,,,1.92,,1-5 km
+GBIF,9.90910495425576e-315,-80.9,-3.9,2639,,,,1.92,,1-5 km
+GBIF,9.90910496907772e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910497401838e-315,-80.9,-3.9,2639,,,,1.92,,1-5 km
+GBIF,9.90910498389969e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910500860298e-315,-80.6,-3.6,2616,,,,4.01,,1-5 km
+GBIF,9.90910503330626e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910505306888e-315,-81,-5.8,2730,,,,3.23,,1-5 km
+GBIF,9.9091050629502e-315,-80.6,-3.6,2616,,,,4.01,,1-5 km
+GBIF,9.90910508271282e-315,-81,-5.8,2733,,,,3.23,,1-5 km
+GBIF,9.90910509753479e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910511729742e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910512223807e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910512717873e-315,-80.9,-3.9,2639,,,,1.92,,1-5 km
+GBIF,9.90910513211939e-315,-80.9,-3.9,2639,,,,1.92,,1-5 km
+GBIF,9.90910516176333e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910521116989e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910526551711e-315,-81,-5.8,2730,,,,3.23,,1-5 km
+GBIF,9.90910527539843e-315,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,9.90910538409287e-315,-80.6,-3.6,2638,,,,4.01,,1-5 km
+GBIF,9.90910540879615e-315,-80.9,-3.9,2639,,,,1.92,,1-5 km
+GBIF,9.90910543349943e-315,-80.9,-3.9,2639,,,,1.92,,1-5 km
+GBIF,9.90910547302468e-315,-80.6,-3.6,2638,,,,4.01,,1-5 km
+GBIF,9.9091055273719e-315,-81,-5.8,2730,,,,3.23,,1-5 km
+GBIF,9.90910555701584e-315,-81,-5.8,2730,,,,3.23,,1-5 km
+GBIF,9.90910558665978e-315,-80.9,-3.9,2639,,,,1.92,,1-5 km
+GBIF,9.90910560642241e-315,-80.9,-3.9,2639,,,,1.92,,1-5 km
+GBIF,9.90910579910801e-315,-81,-5.8,2733,,,,3.23,,1-5 km
+GBIF,9.90910584357392e-315,-81.3,-4.6,2489,,,,0.6,,< 1 km (borde)
+GBIF,9.90910588309917e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.9091059028618e-315,-81,-5.8,2730,,,,3.23,,1-5 km
+GBIF,9.90910591274311e-315,-81,-5.8,2733,,,,3.23,,1-5 km
+GBIF,9.90910591768376e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910599673427e-315,-81.3,-4.6,2489,,,,0.6,,< 1 km (borde)
+GBIF,9.90910600661558e-315,-80.6,-3.6,2725,,,,4.01,,1-5 km
+GBIF,9.90910604120018e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.9091060609628e-315,-81.2,-4.2,2831,,,,2.51,,1-5 km
+GBIF,9.90910607084411e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910608072543e-315,-81,-5.8,2733,,,,3.23,,1-5 km
+GBIF,9.90910611036937e-315,-81,-5.8,2730,,,,3.23,,1-5 km
+GBIF,9.90910612025068e-315,-81,-5.8,2733,,,,3.23,,1-5 km
+GBIF,9.90910612519134e-315,-81,-5.8,2730,,,,3.23,,1-5 km
+GBIF,9.90910613013199e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.9091061745979e-315,-81,-5.8,2733,,,,3.23,,1-5 km
+GBIF,9.90910619436053e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910619930118e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910620424184e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.9091062536484e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910626352972e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910627341103e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910627835169e-315,-81.3,-4.6,2712,,,,0.6,,< 1 km (borde)
+GBIF,9.909106288233e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910629811431e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910630305497e-315,-81.3,-4.6,2495,,,,0.6,,< 1 km (borde)
+GBIF,9.90910630799562e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910631787694e-315,-81,-5.8,2733,,,,3.23,,1-5 km
+GBIF,9.90910632281759e-315,-81.3,-4.6,2489,,,,0.6,,< 1 km (borde)
+GBIF,9.90910634258022e-315,-81.3,-4.6,2489,,,,0.6,,< 1 km (borde)
+GBIF,9.90910635246153e-315,-81.3,-4.6,2495,,,,0.6,,< 1 km (borde)
+GBIF,9.90910635740219e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910636234285e-315,-81.3,-4.6,2495,,,,0.6,,< 1 km (borde)
+GBIF,9.90910637222416e-315,-81.3,-4.6,2495,,,,0.6,,< 1 km (borde)
+GBIF,9.90910638210547e-315,-81.3,-4.6,2495,,,,0.6,,< 1 km (borde)
+GBIF,9.90910639692744e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.9091064018681e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910641174941e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910642163072e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910643151204e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910644139335e-315,-81.3,-4.6,2488,,,,0.6,,< 1 km (borde)
+GBIF,9.90910647597794e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910648585926e-315,-81.3,-4.6,2712,,,,0.6,,< 1 km (borde)
+GBIF,9.90910649079991e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910652044385e-315,-81.3,-4.6,2712,,,,0.6,,< 1 km (borde)
+GBIF,9.90910657973173e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.9091065945537e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910665384158e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910665878223e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910666866355e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.9091066736042e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910668842617e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910671312945e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910696016228e-315,-81.3,-4.6,2493,,,,0.6,,< 1 km (borde)
+GBIF,9.90910709850066e-315,-81.3,-4.6,2658,,,,0.6,,< 1 km (borde)
+GBIF,9.90910721213576e-315,-81.2,-4.2,2831,,,,2.51,,1-5 km
+GBIF,9.90910723189838e-315,-81.3,-4.6,2662,,,,0.6,,< 1 km (borde)
+GBIF,9.90910724672035e-315,-81.3,-4.6,2662,,,,0.6,,< 1 km (borde)
+GBIF,9.90910750857514e-315,-81.3,-4.6,2662,,,,0.6,,< 1 km (borde)
+GBIF,9.90910752339711e-315,-81.3,-4.6,2830,,,,0.6,,< 1 km (borde)
+GBIF,9.9091281654598e-315,-81.3,-4.6,2590,,,,0.6,,< 1 km (borde)
+GBIF,9.90912826427293e-315,-81.2,-4.2,2507,,,,2.51,,1-5 km
+GBIF,9.90912826921358e-315,-81.3,-4.6,2590,,,,0.6,,< 1 km (borde)
+GBIF,9.90912828403555e-315,-81.3,-4.6,2709,,,,0.6,,< 1 km (borde)
+GBIF,9.90912858047494e-315,-81.3,-4.6,2709,,,,0.6,,< 1 km (borde)
+GBIF,9.90912864964413e-315,-81.2,-4.2,2507,,,,2.51,,1-5 km
+GBIF,1.12851160877738e-314,-81.4633,-4.35,off of Peru,,,,21.8,,20-100 km
+GBIF,1.13354326274051e-314,-81.113098,-5.081988,Paita,,,,0.23,,< 1 km (borde)
+GBIF,1.1335432829972e-314,-81.113098,-5.081988,Paita,,,,0.23,,< 1 km (borde)
+GBIF,1.13354328398533e-314,-81.113098,-5.081988,Paita,,,,0.23,,< 1 km (borde)
+GBIF,1.13354329436071e-314,-81.113098,-5.081988,Paita,,,,0.23,,< 1 km (borde)
+GBIF,1.13354330424202e-314,-81.113098,-5.081988,Paita,,,,0.23,,< 1 km (borde)
+GBIF,1.13747348084333e-314,-77.13,-14.18,"Eltanin Sta.48, Depth 4000m, Off Coast Of Peru",,,,80.37,,20-100 km
+GBIF,1.13747351098133e-314,-77.13,-14.18,"Eltanin Sta.48, Depth 4000m, Off Coast Of Peru",,,,80.37,,20-100 km
+GBIF,1.13747359892502e-314,-77.13,-14.18,"Eltanin Sta.48, Depth 4000m, Off Coast Of Peru",,,,80.37,,20-100 km
+GBIF,1.18467929077813e-314,-81.4633,-4.35,off of Peru,,,,21.8,,20-100 km
+GBIF,1.20885056515901e-314,-81.098309,-5.080991,"",,,,0.12,,< 1 km (borde)
+GBIF,1.20885074302264e-314,-68.65259,-12.502375,"",,,,0,BOL,< 1 km (borde)
+GBIF,1.20885074746924e-314,-80.864093,-5.644244,"",,,,1.38,,1-5 km
+GBIF,1.20885080478085e-314,-80.864093,-5.644244,"",,,,1.38,,1-5 km
+GBIF,1.20885089025421e-314,-80.72964,-3.713655,"",,,,0.04,PER,< 1 km (borde)
+GBIF,1.20885095102428e-314,-81.358252,-4.647821,"",,,,3.95,,1-5 km
+GBIF,1.20885095448274e-314,-81.358252,-4.647821,"",,,,3.95,,1-5 km
+GBIF,1.20885097770383e-314,-81.358845,-4.655309,"",,,,3.59,,1-5 km
+GBIF,1.20885099400799e-314,-81.358845,-4.655309,"",,,,3.59,,1-5 km
+GBIF,1.2088510211816e-314,-81.324963,-4.228724,"",,,,9.33,,5-20 km
+GBIF,1.20885110122024e-314,-80.39139,-3.486524,"",,,,0,,< 1 km (borde)
+GBIF,1.20885112938198e-314,-80.72964,-3.713655,"",,,,0.04,PER,< 1 km (borde)
+GBIF,1.20885124894587e-314,-81.358252,-4.647821,"",,,,3.95,,1-5 km
+GBIF,1.20885132700824e-314,-80.39139,-3.486524,"",,,,0,,< 1 km (borde)
+GBIF,1.20885133935988e-314,-81.358845,-4.655309,"",,,,3.59,,1-5 km
+GBIF,1.20885136406316e-314,-81.358252,-4.647821,"",,,,3.95,,1-5 km
+GBIF,1.20885136801569e-314,-81.324963,-4.665323,"",,,,0.25,,< 1 km (borde)
+GBIF,1.20885137839107e-314,-80.864093,-5.644244,"",,,,1.38,,1-5 km
+GBIF,1.20885138728425e-314,-81.324963,-4.228724,"",,,,9.33,,5-20 km
+GBIF,1.20885140309435e-314,-81.358252,-4.647821,"",,,,3.95,,1-5 km
+GBIF,1.20885146781695e-314,-81.358499,-4.660016,"",,,,3.34,,1-5 km
+GBIF,1.20885146979321e-314,-80.864093,-5.644244,"",,,,1.38,,1-5 km
+GBIF,1.20885161406038e-314,-81.358845,-4.655309,"",,,,3.59,,1-5 km
+GBIF,1.20885161603664e-314,-81.358499,-4.660016,"",,,,3.34,,1-5 km
+GBIF,1.20885163481114e-314,-81.358252,-4.647821,"",,,,3.95,,1-5 km
+GBIF,1.20885178352489e-314,-80.864093,-5.644244,"",,,,1.38,,1-5 km
+GBIF,1.20885188085583e-314,-80.864093,-5.644244,"",,,,1.38,,1-5 km
+GBIF,1.20885203895683e-314,-81.358499,-4.660016,"",,,,3.34,,1-5 km
+GBIF,1.20885206563638e-314,-80.864093,-5.644244,"",,,,1.38,,1-5 km
+GBIF,1.20885217235456e-314,-80.72964,-3.713655,"",,,,0.04,PER,< 1 km (borde)
+GBIF,1.39386783640027e-314,-81.3,-4.6,591,,,,0.6,,< 1 km (borde)
+GBIF,1.39386827858902e-314,-81.3,-4.6,2587,,,,0.6,,< 1 km (borde)
+GBIF,1.3938695977443e-314,-81,-5.8,3297,,,,3.23,,1-5 km
+GBIF,1.52223425760088e-314,-81.1,-5.8,2654,,,,1.66,,1-5 km
+GBIF,1.65897229261663e-314,-74.73,-15.65,Off of Peru,,,,3.5,,1-5 km
+GBIF,1.67721251642676e-314,-81,-5.8,"Tric Trac Point nr Bayovar, Bay of Sechura",,,,3.23,,1-5 km
+GBIF,1.69191807207826e-314,-81.4633,-4.35,off of Peru,,,,21.8,,20-100 km
+GBIF,2.42047621207142e-314,-77.57,-17.08,"B21-2, 505cm",,,,317.39,,100-500 km
+GBIF,2.42047624270349e-314,-77.57,-17.08,"B21-2, 785cm",,,,317.39,,100-500 km
+GBIF,2.42047643291877e-314,-77.57,-17.08,"B21-2, 305cm",,,,317.39,,100-500 km
+GBIF,2.42047654951826e-314,-77.57,-17.08,"B21-2, 925cm",,,,317.39,,100-500 km
+GBIF,2.42047667748126e-314,-77.57,-17.08,"B21-2, 225-226cm",,,,317.39,,100-500 km
+GBIF,2.42047692451409e-314,-77.57,-17.08,"B21-2, 25cm",,,,317.39,,100-500 km
+GBIF,2.42047704160764e-314,-77.57,-17.08,"B21-2, 895cm",,,,317.39,,100-500 km
+GBIF,2.42047705000676e-314,-77.57,-17.08,"B21-2, 260-261cm",,,,317.39,,100-500 km
+GBIF,2.4204771127531e-314,-77.57,-17.08,"B21-2, 735cm",,,,317.39,,100-500 km
+GBIF,2.42047767154134e-314,-77.57,-17.08,"B21-2, 495cm",,,,317.39,,100-500 km
+GBIF,2.42047776689601e-314,-77.57,-17.08,"B21-2, 245cm",,,,317.39,,100-500 km
+GBIF,2.42047784446432e-314,-77.57,-17.08,"B21-2, 190-191cm",,,,317.39,,100-500 km
+GBIF,2.42047794475964e-314,-77.57,-17.08,"B21-2, 270-271cm",,,,317.39,,100-500 km
+GBIF,2.4204779497003e-314,-77.57,-17.08,"B21-2, 840-841cm",,,,317.39,,100-500 km
+GBIF,2.42047916164333e-314,-77.57,-17.08,"B21-2, 295cm",,,,317.39,,100-500 km
+GBIF,2.42047922685999e-314,-77.57,-17.08,"B21-2, 55cm",,,,317.39,,100-500 km
+GBIF,2.42048083207928e-314,-77.57,-17.08,"B21-2, 604cm",,,,317.39,,100-500 km
+GBIF,2.4204810791121e-314,-77.57,-17.08,"B21-2, 460-461cm",,,,317.39,,100-500 km
+GBIF,2.42048214085917e-314,-77.57,-17.08,"B21-2, 945cm",,,,317.39,,100-500 km
+GBIF,2.42048237405816e-314,-77.57,-17.08,"B21-2, 935cm",,,,317.39,,100-500 km
+GBIF,2.42048243581636e-314,-77.57,-17.08,"B21-2, 275cm",,,,317.39,,100-500 km
+GBIF,2.42048244075702e-314,-77.57,-17.08,"B21-2, 805cm",,,,317.39,,100-500 km
+GBIF,2.42048369123717e-314,-77.57,-17.08,"B21-2, 415cm",,,,317.39,,100-500 km
+GBIF,2.42048375200724e-314,-77.57,-17.08,"B21-2, 435cm",,,,317.39,,100-500 km
+GBIF,2.42048398322997e-314,-77.57,-17.08,"B21-2, 915cm",,,,317.39,,100-500 km
+GBIF,2.42048398965282e-314,-77.57,-17.08,"B21-2, 705cm",,,,317.39,,100-500 km
+GBIF,2.42048399558161e-314,-77.57,-17.08,"B21-2, 485cm",,,,317.39,,100-500 km
+GBIF,2.42048401682643e-314,-77.57,-17.08,"B21-2, 395cm",,,,317.39,,100-500 km
+GBIF,2.4204853690841e-314,-77.57,-17.08,"B21-2, 465cm",,,,317.39,,100-500 km
+GBIF,2.42048668922751e-314,-77.57,-17.08,"B21-2, 555cm",,,,317.39,,100-500 km
+GBIF,2.42048692390869e-314,-77.57,-17.08,"B21-2, 16-17cm",,,,317.39,,100-500 km
+GBIF,2.42048698220844e-314,-77.57,-17.08,"B21-2, 99-100cm",,,,317.39,,100-500 km
+GBIF,2.42048702370995e-314,-77.57,-17.08,"B21-2, 855cm",,,,317.39,,100-500 km
+GBIF,2.42048806322407e-314,-77.57,-17.08,"B21-2, 205cm",,,,317.39,,100-500 km
+GBIF,2.42048808545702e-314,-77.57,-17.08,"B21-2, 905cm",,,,317.39,,100-500 km
+GBIF,2.42048824553429e-314,-77.57,-17.08,"B21-2, 655cm",,,,317.39,,100-500 km
+GBIF,2.42048839918871e-314,-77.57,-17.08,"B21-2, 445cm",,,,317.39,,100-500 km
+GBIF,2.42048957704121e-314,-77.57,-17.08,"B21-2, 240-241cm",,,,317.39,,100-500 km
+GBIF,2.42048960322669e-314,-77.57,-17.08,"B21-2, 635cm",,,,317.39,,100-500 km
+GBIF,2.42048966696116e-314,-77.57,-17.08,"B21-2, 145cm",,,,317.39,,100-500 km
+GBIF,2.42048978010219e-314,-77.57,-17.08,"B21-2, 545cm",,,,317.39,,100-500 km
+GBIF,2.42048990114827e-314,-77.57,-17.08,"B21-2, 115cm",,,,317.39,,100-500 km
+GBIF,2.42049101032565e-314,-77.57,-17.08,"B21-2, 830-831cm",,,,317.39,,100-500 km
+GBIF,2.4204914352221e-314,-77.57,-17.08,"B21-2, 185cm",,,,317.39,,100-500 km
+GBIF,2.42049146041945e-314,-77.57,-17.08,"B21-2, 430-431cm",,,,317.39,,100-500 km
+GBIF,2.42049274004947e-314,-77.57,-17.08,"B21-2, 200-210cm",,,,317.39,,100-500 km
+GBIF,2.4204928057602e-314,-77.57,-17.08,"B21-2, 225-226cm",,,,317.39,,100-500 km
+GBIF,2.42049281514745e-314,-77.57,-17.08,"B21-2, 425cm",,,,317.39,,100-500 km
+GBIF,2.42049284232106e-314,-77.57,-17.08,"B21-2, 575cm",,,,317.39,,100-500 km
+GBIF,2.42049404784124e-314,-77.57,-17.08,"B21-2, 685cm",,,,317.39,,100-500 km
+GBIF,2.4204940671098e-314,-77.57,-17.08,"B21-2, 230-231cm",,,,317.39,,100-500 km
+GBIF,2.42049407748518e-314,-77.57,-17.08,"B21-2, 675cm",,,,317.39,,100-500 km
+GBIF,2.42049423558618e-314,-77.57,-17.08,"B21-2, 865cm",,,,317.39,,100-500 km
+GBIF,2.42049427362924e-314,-77.57,-17.08,"B21-2, 955cm",,,,317.39,,100-500 km
+GBIF,2.42049440060411e-314,-77.57,-17.08,"B21-2, 2.5-5cm",,,,317.39,,100-500 km
+GBIF,2.42049548705446e-314,-77.57,-17.08,"B21-2, 335cm",,,,317.39,,100-500 km
+GBIF,2.42049556956343e-314,-77.57,-17.08,"B21-2, 595cm",,,,317.39,,100-500 km
+GBIF,2.42049589218829e-314,-77.57,-17.08,"B21-2, 385cm",,,,317.39,,100-500 km
+GBIF,2.42049590157554e-314,-77.57,-17.08,"B21-2, 45.5cm",,,,317.39,,100-500 km
+GBIF,2.42049696431075e-314,-77.57,-17.08,"B21-2, 885cm",,,,317.39,,100-500 km
+GBIF,2.4204970814043e-314,-77.57,-17.08,"B21-2, 270-271cm",,,,317.39,,100-500 km
+GBIF,2.42049708189837e-314,-77.57,-17.08,"B21-2, 440-441cm",,,,317.39,,100-500 km
+GBIF,2.42049712685834e-314,-77.57,-17.08,"B21-2, 455cm",,,,317.39,,100-500 km
+GBIF,2.42049714662097e-314,-77.57,-17.08,"B21-2, 665cm",,,,317.39,,100-500 km
+GBIF,2.42049715502009e-314,-77.57,-17.08,"B21-2, 405cm",,,,317.39,,100-500 km
+GBIF,2.4204972424697e-314,-77.57,-17.08,"B21-2, 175cm",,,,317.39,,100-500 km
+GBIF,2.42049728891188e-314,-77.57,-17.08,"B21-2, 155cm",,,,317.39,,100-500 km
+GBIF,2.42049844700175e-314,-77.57,-17.08,"B21-2, 700-701cm",,,,317.39,,100-500 km
+GBIF,2.42049861794846e-314,-77.57,-17.08,"B21-2, 5-6cm",,,,317.39,,100-500 km
+GBIF,2.42049886349909e-314,-77.57,-17.08,"B21-2, 690-691cm",,,,317.39,,100-500 km
+GBIF,2.42049997959338e-314,-77.57,-17.08,"B21-2, 220-221cm",,,,317.39,,100-500 km
+GBIF,2.42050007445399e-314,-77.57,-17.08,"B21-2, 775cm",,,,317.39,,100-500 km
+GBIF,2.42050011200298e-314,-77.57,-17.08,"B21-2, 85cm",,,,317.39,,100-500 km
+GBIF,2.42050145437934e-314,-77.57,-17.08,"B21-2, 825cm",,,,317.39,,100-500 km
+GBIF,2.42050146376658e-314,-77.57,-17.08,"B21-2, 695cm",,,,317.39,,100-500 km
+GBIF,2.4205014879758e-314,-77.57,-17.08,"B21-2, 515cm",,,,317.39,,100-500 km
+GBIF,2.42050160753969e-314,-77.57,-17.08,"B21-2, 365cm",,,,317.39,,100-500 km
+GBIF,2.42050163421923e-314,-77.57,-17.08,"B21-2, 450-451cm",,,,317.39,,100-500 km
+GBIF,2.42050292620089e-314,-77.57,-17.08,"B21-2, 105cm",,,,317.39,,100-500 km
+GBIF,2.42050304675291e-314,-77.57,-17.08,"B21-2, 795cm",,,,317.39,,100-500 km
+GBIF,2.42050333429912e-314,-77.57,-17.08,"B21-2, 125cm",,,,317.39,,100-500 km
+GBIF,2.42050333479318e-314,-77.57,-17.08,"B21-2, 285cm",,,,317.39,,100-500 km
+GBIF,2.42050417865731e-314,-77.57,-17.08,"B21-2, 585cm",,,,317.39,,100-500 km
+GBIF,2.42050420830125e-314,-77.57,-17.08,"B21-2, 255cm",,,,317.39,,100-500 km
+GBIF,2.42050496323355e-314,-77.57,-17.08,"B21-2, 565cm",,,,317.39,,100-500 km
+GBIF,2.42050518704529e-314,-77.57,-17.08,"B21-2, 375cm",,,,317.39,,100-500 km
+GBIF,2.42050591529805e-314,-77.57,-17.08,"B21-2, 250-251cm",,,,317.39,,100-500 km
+GBIF,2.42050593012002e-314,-77.57,-17.08,"B21-2, 765cm",,,,317.39,,100-500 km
+GBIF,2.42050612428782e-314,-77.57,-17.08,"B21-2, 745cm",,,,317.39,,100-500 km
+GBIF,2.4205062468161e-314,-77.57,-17.08,"B21-2, 355cm",,,,317.39,,100-500 km
+GBIF,2.42050625966181e-314,-77.57,-17.08,"B21-2, 265cm",,,,317.39,,100-500 km
+GBIF,2.42050626015587e-314,-77.57,-17.08,"B21-2, 845cm",,,,317.39,,100-500 km
+GBIF,2.42050629029388e-314,-77.57,-17.08,"B21-2, 965cm",,,,317.39,,100-500 km
+GBIF,2.42050685550498e-314,-77.57,-17.08,"B21-2, 645cm",,,,317.39,,100-500 km
+GBIF,2.42050695827063e-314,-77.57,-17.08,"B21-2, 35cm",,,,317.39,,100-500 km
+GBIF,2.42050696815194e-314,-77.57,-17.08,"B21-2, 715cm",,,,317.39,,100-500 km
+GBIF,2.42050705807189e-314,-77.57,-17.08,"B21-2, 815cm",,,,317.39,,100-500 km
+GBIF,2.42050716231974e-314,-77.57,-17.08,"B21-2, 725cm",,,,317.39,,100-500 km
+GBIF,2.42050725026343e-314,-77.57,-17.08,"B21-2, 755cm",,,,317.39,,100-500 km
+GBIF,2.4205078777268e-314,-77.57,-17.08,"B21-2, 135cm",,,,317.39,,100-500 km
+GBIF,2.42050796814081e-314,-77.57,-17.08,"B21-2, 235cm",,,,317.39,,100-500 km
+GBIF,2.42050801112452e-314,-77.57,-17.08,"B21-2, 625cm",,,,317.39,,100-500 km
+GBIF,2.42050818009497e-314,-77.57,-17.08,"B21-2, 835cm",,,,317.39,,100-500 km
+GBIF,2.42050818800002e-314,-77.57,-17.08,"B21-2, 15-16cm",,,,317.39,,100-500 km
+GBIF,2.42050878236099e-314,-77.57,-17.08,"B21-2, 9-91cm",,,,317.39,,100-500 km
+GBIF,2.42050881546339e-314,-77.57,-17.08,"B21-2, 875cm",,,,317.39,,100-500 km
+GBIF,2.42050914698144e-314,-77.57,-17.08,"B21-2, 315cm",,,,317.39,,100-500 km
+GBIF,2.42050979914809e-314,-77.57,-17.08,"B21-2, 195cm",,,,317.39,,100-500 km
+GBIF,2.42050994094493e-314,-77.57,-17.08,"B21-2, 65cm",,,,317.39,,100-500 km
+GBIF,2.42051005161564e-314,-77.57,-17.08,"B21-2, 535cm",,,,317.39,,100-500 km
+GBIF,2.42051010201033e-314,-77.57,-17.08,"B21-2, 75cm",,,,317.39,,100-500 km
+GBIF,2.42051016376854e-314,-77.57,-17.08,"B21-2, 525cm",,,,317.39,,100-500 km
+GBIF,2.46778345368331e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778354557952e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778368787043e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778371356184e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778371800843e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778371899657e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778374468798e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778379162422e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778380595212e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.46778384152485e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.4677838479477e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778385585275e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778388401449e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778389093141e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778390624745e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778397294631e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778405150275e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.4677840594078e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778406187812e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.4677840752179e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778409053393e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.467784091028e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.4677841068381e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.46778413005918e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778415525653e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778416019719e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778417946575e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778420219277e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778424221208e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778427827888e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778429902963e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.4677843627641e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778437808014e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778440871221e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778442205198e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778443094516e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778443934428e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778444230867e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778445120185e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778456977761e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778457867079e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.46778461473758e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778462906549e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778463252395e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778464783998e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778469428215e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778470465753e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.4677847194795e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.4677847209617e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778473281927e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778474566498e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778475208783e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778476888606e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.46778477283859e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778483410273e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778485781788e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778488499149e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.46778490178972e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778492402268e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.46778494427937e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778498232242e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778498528682e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778499516813e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778500554351e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778504358656e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.46778508706434e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778512263707e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778512807179e-314,-81.3,-4.583333,"",,,,1.35,,1-5 km
+GBIF,2.46778513301244e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.46778515129287e-314,-78.416667,-9.366667,"",,,,0.19,PER,< 1 km (borde)
+GBIF,2.4677851710555e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778517994868e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778519526472e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778524269502e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778524615348e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778526443391e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778528518466e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46778530494729e-314,-81.101389,-4.961111,"",,,,0.99,,< 1 km (borde)
+GBIF,2.46825286693562e-314,-76.416667,-13.633333,Peru Guano - Site 1,,,,1.57,,1-5 km
+GBIF,2.46947168637053e-314,-81.324963,-4.228724,"",,,,9.33,,5-20 km
+GBIF,2.46947170316876e-314,-81.358499,-4.660016,"",,,,3.34,,1-5 km
+GBIF,2.46947222589022e-314,-81.358252,-4.647821,"",,,,3.95,,1-5 km
+GBIF,2.46947222737241e-314,-81.358252,-4.647821,"",,,,3.95,,1-5 km
+GBIF,3.16902835822744e-314,-81,-5.8,"Tric Trac Point nr Bayovar, Bay of Sechura",,,,3.23,,1-5 km

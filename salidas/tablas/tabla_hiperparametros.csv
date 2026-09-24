@@ -1,0 +1,24 @@
+modelo,parametro,valor,nota
+Gradient boosting (xgboost 3.x),objective,binary:logistic,
+Gradient boosting (xgboost 3.x),max_depth,5,
+Gradient boosting (xgboost 3.x),eta,0.05,learning rate
+Gradient boosting (xgboost 3.x),nrounds,300,no early stopping
+Gradient boosting (xgboost 3.x),subsample,0.8,
+Gradient boosting (xgboost 3.x),colsample_bytree,0.8,
+Gradient boosting (xgboost 3.x),min_child_weight,1,library default
+Gradient boosting (xgboost 3.x),gamma / lambda / alpha,0 / 1 / 0,library defaults
+Gradient boosting (xgboost 3.x),scale_pos_weight,n_background / n_presences,about 14 in the national design
+Random forest (ranger),num.trees,500,
+Random forest (ranger),mtry,floor(sqrt(p)),library default; p = 12 covariates
+Random forest (ranger),min.node.size,5,
+Random forest (ranger),probability,TRUE,probability forest
+Random forest (ranger),case.weights,presences n_background / n_presences; background 1,
+MaxEnt (maxnet),feature classes,linear + quadratic,
+MaxEnt (maxnet),regmult,2,
+MaxEnt (maxnet),output,cloglog,
+Geological baseline,model,logistic GLM,era + environment + unit WoE
+Weights of evidence,continuity correction,0.5,estimated inside each training fold
+Background (national),size,10 000 random land cells,
+Background (Mesozoic),size,all non-Mesozoic presence cells + 2 000 random cells,target-group background
+Spatial validation,blocks,100 km squares allocated to 5 folds,seed 42
+Neutralisation,constant,median of training presences,

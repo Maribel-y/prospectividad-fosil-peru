@@ -1,0 +1,3589 @@
+codigo,etiqueta
+1,""
+2,<Null>
+3,Abancay - ortogneis
+4,Acarí - diorita
+5,Acos - tonalita
+6,"Altamisa, Tonalita"
+7,Alteración
+8,Alteración - azufrera
+9,Alteración - zona metamorfizada
+10,Alteración argílica
+11,Alteración hidrotermal
+12,Ambar - tonalita
+13,Ampituna - granito
+14,Andesita
+15,Andesita afanítica
+16,Andesita basáltica
+17,Andesíta basáltica
+18,Andesita porfídica
+19,Andesita porfirítica
+20,Andesita Shuaro
+21,Andesita Tunga
+22,"Andesita, basalto"
+23,"Andesita, brecha andesítica"
+24,"Andesita, dacita"
+25,"Andesita, dacita porfídica"
+26,"Andesita, diabasa"
+27,Anfibolita
+28,"Anfibolita, andesita"
+29,Aplita San Ramón
+30,Arapa - granodiorita
+31,Arco Volcánico Barroso
+32,Arco Volcánico Barroso - Centro Volcánico Apacheta - Evento 1
+33,Arco Volcánico Barroso - Centro Volcánico Bencasi - Evento 1
+34,Arco Volcánico Barroso - Centro Volcánico Bencasi - Evento 2
+35,Arco Volcánico Barroso - Centro Volcánico Cotacucho - Evento 1
+36,Arco Volcánico Barroso - Centro Volcánico Cotacucho - Evento 2
+37,Arco Volcánico Barroso - Centro Volcánico Llallahua - Evento 3
+38,Arco Volcánico Barroso-Centro Volcánico Ccapia - Evento 1
+39,Arco Volcánico Barroso-Centro Volcánico Ccapia - Evento 2
+40,"Arco Volcánico Barroso-Centro Volcánico Choque, Chilluma"
+41,Arco Volcánico Barroso-Centro Volcánico Jilarata - Evento 1
+42,Arco Volcánico Barroso-Centro Volcánico Jilarata - Evento 2
+43,Arco Volcánico Barroso-Centro Volcánico Queñuta Evento 1
+44,Arco Volcánico Barroso-Centro Volcánico Umayo - Evento 2
+45,Arco Volcánico Palca - Centro Volcánico Luli - Evento 1
+46,Arco Volcánico Palca - Centro Volcánico Luli - Evento 2
+47,Arco Volcánico Palca - Centro Volcánico Yanahuara - Evento 1
+48,Arco Volcánico Palca - Centro Volcánico Yanahuara - Evento 2
+49,Arco Volcánico Palca - Centro Volcánico Yanahuara - Evento 3
+50,Arco Volcánico Palca-Centro Volcánico Ocuviri - Evento 1
+51,Arco Volcánico Palca-Centro Volcánico Ocuviri - Evento 2
+52,Arco Volcánico Palca-Centro Volcánico Ocuviri - Evento 3
+53,Arco Volcánico Palca-Centro Volcánico Ocuviri - Evento 4
+54,Arco Volcánico Palca-Centro Volcánico Yanahuara - Evento 4
+55,Arco Volcánico Palca-Centro Volcánico Yanahuara - Evento 5
+56,Arco Volcánico Palca-Centro Volcánico Yanahuara - Evento 6
+57,Arco Volcánico Palca-Centro Volcánico Yanahuara - Evento 7
+58,Arco Volcánico Palca-Centro Volcánico Yanahuara - Evento 8
+59,Arco Volcánico Sillapaca
+60,Arco Volcánico Sillapaca - Centro Volcánico Calliata -  Evento 1
+61,Arco Volcánico Sillapaca - Centro Volcánico Calliata -  Evento 2
+62,Arco Volcánico Sillapaca - Centro Volcánico Calliata -  Evento 3
+63,Arco Volcánico Sillapaca - Centro Volcánico Calliata -  Evento 4
+64,Arco Volcánico Sillapaca - Centro Volcánico Turputa - Evento 1
+65,Arco Volcánico Sillapaca - Centro Volcánico Turputa - Evento 2
+66,Arco Volcánico Sillapaca - Centro Volcánico Turputa - Evento 3
+67,Arco Volcánico Sillapaca - Centro Volcánico Turputa - Evento 4
+68,Arco Volcánico Sillapaca - Centro Volcánico Turputa - Evento 5
+69,Arco Volcánico Sillapaca - Centro Volcánico Zapansalla - Evento 2
+70,Arco Volcánico Sillapaca - Centro Volcánico Zapansalla - Evento 3
+71,Arco Volcánico Sillapaca - Centro Volcánico Zapansalla - Evento 4
+72,Arco Volcánico Sillapaca - Centro Volcánico Zapansalla - Evento 5
+73,Arco Volcánico Sillapaca - Centro Volcánico Zapansalla - Evento 6
+74,Arco Volcánico Sillapaca - Evento 1
+75,Arco Volcánico Sillapaca - Evento 2
+76,Arco Volcánico Sillapaca - Evento 3
+77,Arco Volcánico Sillapaca-Centro Volcánico Chungara - Evento 1
+78,Arco Volcánico Sillapaca-Centro volcánico Chungara - Evento 2
+79,Arco Volcánico Sillapaca-Centro Volcánico Colquecahua - Evento 1
+80,Arco Volcánico Sillapaca-Centro Volcánico Colquecahua - Evento 2
+81,Arco Volcánico Sillapaca-Centro Volcánico Colquecahua - Evento 3
+82,Arco Volcánico Sillapaca-Centro Volcánico Colquecahua - Evento 4
+83,Arco Volcánico Sillapaca-Centro Volcánico Colquecahua - Evento 5
+84,Arco Volcánico Sillapaca-Centro Volcánico Colquecahua - Evento 6
+85,Arco Volcánico Sillapaca-Centro Volcánico Machu Condori - Evento 1
+86,Arco Volcánico Sillapaca-Centro Volcánico Machu Condori - Evento 2
+87,Arco Volcánico Sillapaca-Centro Volcánico Machu Condori - Evento 3
+88,Arco Volcánico Sillapaca-Centro Volcánico Pilinco - Evento 1
+89,Arco Volcánico Sillapaca-Centro Volcánico Pilinco - Evento 2
+90,Arco Volcánico Sillapaca-Centro Volcánico Pilinco - Evento 3
+91,Arco Volcánico Sillapaca-Centro Volcánico Pilinco - Evento 4
+92,Arco Volcánico Sillapaca-Centro Volcánico Vendisa - Evento 1
+93,Arco Volcánico Sillapaca-Centro Volcánico Vendisa - Evento 2
+94,Arco Volcánico Sillapaca-Centro Volcánico Vendisa - Evento 3
+95,Arco Volcánico Sillapaca-Centro Volcánico Zapansalla - Evento 1
+96,Atacocha  - monzogabro
+97,Ayacochas - diorita
+98,"Ayapata Escalera,  Abuela - granito"
+99,Aynaca - granodiorita
+100,Balsas - granito
+101,Basalto
+102,Batolito Atico Camaná
+103,Batolito Atico Camaná - diorita
+104,Batolito Atico Camaná - granito
+105,"Batolito Atico Camaná - granodiorita, granito"
+106,Batolito Atico-Camaná
+107,Batolito Ático-Camaná
+108,Batolito Challaviento - granodiorita
+109,"Batolito Challaviento - granodiorita, sienogranito"
+110,Batolito Challaviento - sienogranito
+111,Batolito Challaviento - tonalita
+112,Batolito Cordillera Blanca
+113,"Batolito Cordillera Blanca - granodiorita, tonalita"
+114,Batolito Cordillera del Cóndor - Plutón Picorana
+115,"Batolito Cordillera del Cóndor - Plutón Picorana - tonalita, granodiorita, granito"
+116,Batolito de la Cordillera Blanca
+117,Batolito de la Costa
+118,Batolito de la Costa - cuarzodiorita
+119,Batolito de la Costa - diorita
+120,Batolito de la Costa - granito
+121,"Batolito de la Costa - granito, tonalita"
+122,Batolito de la Costa - granodiorita
+123,Batolito de la Costa - La Hoyada -monzogranito
+124,Batolito de la Costa - Lachay - monzogranito
+125,"Batolito de la Costa - Pacaybamba - tonalita, diorita"
+126,Batolito de la Costa - Plutón Centinela - granito
+127,Batolito de la Costa - Plutón Centinela - granodiorita
+128,Batolito de la Costa - Plutón Centinela - tonalita
+129,Batolito de la Costa - Plutón Centinela- pórfido monzogranito
+130,Batolito de la Costa - Super Unidad Atocongo - monzogranito
+131,Batolito de la Costa - Super Unidad Cañas - monzogranito
+132,"Batolito de la Costa - Super Unidad Catahuasi - granodiorita, tonalita"
+133,Batolito de la Costa - Super Unidad Catahuasi - monzogranito
+134,Batolito de la Costa - Super Unidad Catahuasi - sienogranito
+135,Batolito de la Costa - Super Unidad Cochahuasi - diorita
+136,Batolito de la Costa - Super Unidad Cochahuasi - monzodiorita
+137,"Batolito de la Costa - Super Unidad Cochahuasi - tonalita, granodiorita"
+138,Batolito de la Costa - Super Unidad Humaya - granodiorita
+139,Batolito de la Costa - Super Unidad Humaya - monzogranito
+140,"Batolito de la Costa - Super Unidad Humaya - tonalita, granodiorita"
+141,Batolito de la Costa - Super Unidad Ilo - diorita
+142,Batolito de la Costa - Super Unidad Ilo - granito
+143,Batolito de la Costa - Super Unidad Ilo - granodiorita
+144,"Batolito de la Costa - Super Unidad Ilo - granodiorita, diorita"
+145,Batolito de la Costa - Super Unidad Ilo - monzogranito
+146,Batolito de la Costa - Super Unidad Incahuasi - diorita
+147,Batolito de la Costa - Super Unidad Incahuasi - granito
+148,Batolito de la Costa - Super Unidad Incahuasi - granodiorita
+149,Batolito de la Costa - Super Unidad Incahuasi - microdiorita
+150,Batolito de la Costa - Super Unidad Incahuasi - microgranito
+151,Batolito de la Costa - Super Unidad Incahuasi - monzogranito
+152,Batolito de la Costa - Super Unidad Incahuasi - monzonita
+153,Batolito de la Costa - Super Unidad Incahuasi - tonalita
+154,"Batolito de la Costa - Super Unidad Incahuasi - tonalita, granodiorita"
+155,"Batolito de la Costa - Super Unidad Incahuasi - tonalita,diorita"
+156,Batolito de la Costa - Super Unidad Jecuán - diorita
+157,Batolito de la Costa - Super Unidad Jecuán - granito
+158,Batolito de la Costa - Super Unidad Jecuán - granodiorita
+159,Batolito de la Costa - Super Unidad Jecuán - monzodiorita
+160,Batolito de la Costa - Super Unidad Jecuán - tonalita
+161,"Batolito de la Costa - Super Unidad Jecuán - tonalita, granodiorita"
+162,Batolito de la Costa - Super Unidad La Mina - tonalita
+163,Batolito de la Costa - Super Unidad Linga - diorita
+164,"Batolito de la Costa - Super Unidad Linga - gabro, monzogabro"
+165,Batolito de la Costa - Super Unidad Linga - granodiorita
+166,Batolito de la Costa - Super Unidad Linga - monzodiorita
+167,"Batolito de la Costa - Super Unidad Linga - monzodiorita, monzonita"
+168,"Batolito de la Costa - Super Unidad Linga - monzogabro, diorita"
+169,Batolito de la Costa - Super Unidad Linga - monzogranito
+170,Batolito de la Costa - Super Unidad Linga - monzonita
+171,Batolito de la Costa - Super Unidad Linga - sienita
+172,Batolito de la Costa - Super Unidad Linga - sienogranito
+173,"Batolito de la Costa - Super Unidad Linga - tonalita, diorita cuarzosa"
+174,Batolito de la Costa - Super Unidad Lucumayo - sienogranito
+175,Batolito de la Costa - Super Unidad Paccho - Diorita
+176,"Batolito de la Costa - Super Unidad Paccho - diorita, tonalita"
+177,Batolito de la Costa - Super Unidad Pampahuasi - diorita
+178,Batolito de la Costa - Super Unidad Pampahuasi - granodiorita
+179,Batolito de la Costa - Super Unidad Pampahuasi - microdiorita
+180,Batolito de la Costa - Super Unidad Pampahuasi - monzodiorita
+181,Batolito de la Costa - Super Unidad Pampahuasi - tonalita
+182,"Batolito de la Costa - Super Unidad Paraíso - tonalita, diorita"
+183,Batolito de la Costa - Super Unidad Patap - complejo dique cizallado
+184,Batolito de la Costa - Super Unidad Patap - diorita
+185,Batolito de la Costa - Super Unidad Patap - gabro
+186,Batolito de la Costa - Super Unidad Patap - gabrodiorita
+187,Batolito de la Costa - Super Unidad Patap - microdiorita diabasa
+188,Batolito de la Costa - Super Unidad Pativilca - monzogranito
+189,Batolito de la Costa - Super Unidad Pativilca - Plutón Pariacoto - monzogranito
+190,Batolito de la Costa - Super Unidad Punta Coles - diorita
+191,Batolito de la Costa - Super Unidad Punta Coles - granodiorita
+192,"Batolito de la Costa - Super Unidad Punta Coles - granodiorita, granito"
+193,Batolito de la Costa - Super Unidad Punta Coles - monzodiorita cuarzosa
+194,Batolito de la Costa - Super Unidad Punta Coles - monzonita
+195,Batolito de la Costa - Super Unidad Punta Coles - monzotonalita
+196,Batolito de la Costa - Super Unidad Puscao - aplita
+197,Batolito de la Costa - Super Unidad Puscao - granodiorita
+198,"Batolito de la Costa - Super Unidad Puscao - granodiorita, monzogranito"
+199,Batolito de la Costa - Super Unidad Puscao - monzogranito
+200,Batolito de la Costa - Super Unidad Puscao - Tumaray - monzogranito
+201,Batolito de la Costa - Super Unidad San Jerónimo - aplita
+202,Batolito de la Costa - Super Unidad San Jerónimo - granito
+203,Batolito de la Costa - Super Unidad San Jerónimo - monzogranito
+204,Batolito de la Costa - Super Unidad San Jerónimo - sienogranito
+205,Batolito de la Costa - Super Unidad Santa Rosa -  Unidad Cuyhuay Chico - cuarzo
+206,Batolito de la Costa - Super Unidad Santa Rosa - Cauthuy Grande - tonalita
+207,Batolito de la Costa - Super Unidad Santa Rosa - Cerro Muerto - granodiorita
+208,Batolito de la Costa - Super Unidad Santa Rosa - Cerro Muerto - tonalita
+209,Batolito de la Costa - Super Unidad Santa Rosa - Cuyhuay Chico - dacita
+210,Batolito de la Costa - Super Unidad Santa Rosa - diorita
+211,Batolito de la Costa - Super Unidad Santa Rosa - granito
+212,Batolito de la Costa - Super Unidad Santa Rosa - monzogranito
+213,Batolito de la Costa - Super Unidad Santa Rosa - Nepeña - monzogranito
+214,Batolito de la Costa - Super Unidad Santa Rosa - Puca Punta - milonita
+215,Batolito de la Costa - Super Unidad Santa Rosa - Purmacana - diorita
+216,Batolito de la Costa - Super Unidad Santa Rosa - Purmacana - tonalita
+217,"Batolito de la Costa - Super Unidad Santa Rosa - tonalita, diorita"
+218,"Batolito de la Costa - Super Unidad Santa Rosa - tonalita, granodiorita"
+219,Batolito de la Costa - Super Unidad Santa Rosa - Unidad Corralillo - granito
+220,"Batolito de la Costa - Super Unidad Santa Rosa - Unidad Corralillo - tonalita, granodiorita"
+221,Batolito de la Costa - Super Unidad Santa Rosa - Unidad Huampiu Piruroc - granodiorita
+222,Batolito de la Costa - Super Unidad Santa Rosa - Unidad Huaricanga - diorita
+223,Batolito de la Costa - Super Unidad Santa Rosa - Unidad Huaricanga - tonalita
+224,Batolito de la Costa - Super Unidad Santa Rosa - Unidad Pedregal - aplita
+225,Batolito de la Costa - Super Unidad Sayán - monzogranito
+226,Batolito de la Costa - Super Unidad Tiabaya - cuarzodiorita
+227,Batolito de la Costa - Super Unidad Tiabaya - diorita
+228,Batolito de la Costa - Super Unidad Tiabaya - granito
+229,"Batolito de la Costa - Super Unidad Tiabaya - granito, granodiorita"
+230,Batolito de la Costa - Super Unidad Tiabaya - granodiorita
+231,"Batolito de la Costa - Super Unidad Tiabaya - granodiorita, tonalita"
+232,Batolito de la Costa - Super Unidad Tiabaya - monzodioritas
+233,Batolito de la Costa - Super Unidad Tiabaya - monzogranito
+234,Batolito de la Costa - Super Unidad Tiabaya - sienogranito
+235,Batolito de la Costa - Super Unidad Tiabaya - tonalita
+236,"Batolito de la Costa - Super Unidad Tiabaya - tonalita, diorita"
+237,Batolito de la Costa - Super Unidada Patap - anfibolitas
+238,"Batolito de la Costa - Superunidad Tiabaya - granito, tonalita"
+239,Batolito de la Costa - Unidad Calavera - monzogranito
+240,Batolito de la Costa - Unidad Cayán - tonalita
+241,Batolito de la Costa - Unidad Lucumayo - granito
+242,Batolito de la Costa - Unidad Rancap - granodiorita
+243,"Batolito de la Costa - Unidad Tupe - granodiorita, tonalita"
+244,Batolito de la Costa - Unidad Yarabamba - diorita
+245,Batolito de la Costa - Unidad Yarabamba - gabro
+246,Batolito de la Costa - Unidad Yarabamba - granito
+247,Batolito de la Costa - Unidad Yarabamba - granodiorita
+248,"Batolito de la Costa - Unidad Yarabamba - granodiorita, monzodiorita"
+249,"Batolito de la Costa - Unidad Yarabamba - granodiorita, tonalita"
+250,Batolito de la Costa - Unidad Yarabamba - monzodiorita cuarcífera
+251,Batolito de la Costa - Unidad Yarabamba - monzonita
+252,Batolito de la Costa-Super Unidad Tiabaya-Monzogranito
+253,Batolito de San Nicolás
+254,Batolito de San Nicolás - diorita
+255,"Batolito de San Nicolás - diorita, tonalita"
+256,Batolito de San Nicolás - granito
+257,Batolito de San Nicolás - granodiorita
+258,"Batolito de San Nicolás - granodiorita, tonalita"
+259,Batolito de San Nicolás - sienogranito
+260,Batolito San Nicolás - monzogranito
+261,"Batolito Villa Azul - Cobriza - granito, granodiorita"
+262,Batolito Villa Azul - Palta Orjo Chico - granito
+263,Batolito Villa Azul - San Miguel - granito
+264,Batolito Villa Azul - tonalita
+265,"Brecha , Cuarzo, Turmalina"
+266,Brecha subvolcánica
+267,Cadenas - granito gneisificado
+268,Cajani - granodiorita
+269,Cala Cala - sienogranito
+270,Cala Cala - tonalita porfídica
+271,Calayoc - granito
+272,Canchayocochas - dacita afanítica
+273,"Canchayocochas - microtonalita, diorita"
+274,Canchayocochas - pórfido dacítico
+275,Canoso - tonalita
+276,Carachupa - pórfido riodacítico
+277,Caranpa - dacita
+278,Carhuaso Punco - granito
+279,Carrizal - cuarzomonzogranito
+280,Casquete glaciar
+281,Cataupicho - diorita
+282,Catchane - dacita
+283,Cayash - diorita
+284,"Cayash - tonalita, granodiorita"
+285,Ccallocahua - shoshonita
+286,Ccasccabamba - diorita
+287,Ccello Coota - monzonita
+288,Centro  Volcánico Sengata - Evento 1
+289,Centro  Volcánico Sengata - Evento 2
+290,Centro poblado
+291,Centro Volcánico  Chinchecca - Evento 1
+292,Centro Volcánico  Chinchecca - Evento 2
+293,Centro Volcánico  Chinchecca - Evento 3
+294,Centro Volcánico  Chinchecca - Evento 4
+295,Centro Volcánico Accocoto - Evento 1
+296,Centro Volcánico Accocoto - Evento 2
+297,Centro Volcánico Aconcahua - Evento 1
+298,Centro Volcánico Aconcahua - Evento 2
+299,Centro Volcánico Aconcahua - Evento 3
+300,Centro Volcánico Aconcahua - Evento 4
+301,Centro Volcánico Acos - Evento 1a
+302,Centro Volcánico Acos - Evento 1b
+303,Centro Volcánico Acos - Evento 1c
+304,Centro Volcánico Acos - Evento 1d
+305,Centro Volcánico Acos - Evento 1e
+306,Centro Volcánico Acos - Evento 2a
+307,Centro Volcánico Acos - Evento 2b
+308,Centro Volcánico Acos - Evento 2c
+309,Centro Volcánico Acos - Evento 3
+310,Centro Volcánico Ajana - Evento 1
+311,Centro Volcánico Ajana - Evento 2
+312,Centro Volcánico Ajana - Evento 3
+313,Centro Volcánico Ajana - Evento 4
+314,Centro Volcánico Ajana - Evento 5
+315,Centro Volcánico Ajo Sunto
+316,Centro Volcánico Ajo Sunto - Evento 1
+317,Centro Volcánico Ajo Sunto - Evento 2
+318,Centro Volcánico Ajo Sunto - Evento 3
+319,Centro Volcánico Ajo Sunto - Evento 4
+320,Centro Volcánico Ajo Sunto - Evento 5
+321,Centro Volcánico Ajo Sunto - Evento 6
+322,Centro Volcánico Ajopichaca - Evento 1
+323,Centro Volcánico Ajopichaca - Evento 2
+324,Centro Volcánico Ajopichaca - Evento 3
+325,Centro Volcánico Alto Dorado - Evento 1
+326,Centro Volcánico Alto Dorado - Evento 2
+327,Centro Volcánico Alto Guitarras
+328,Centro volcànico Ana Sumi - Evento 1
+329,Centro Volcánico Ana Sumi - Evento 2
+330,Centro Volcánico Ana Sumi - Evento 3
+331,Centro Volcánico Ana Sumi - Evento 4
+332,Centro Volcánico Ancaccahua
+333,Centro Volcánico Ancaray Jahuana - Evento 1
+334,Centro Volcánico Ancaray Jahuana - Evento 2
+335,Centro Volcánico Ancaray-Jatun Jenhua - Evento 2
+336,Centro Volcánico Ancaray-Jatun Jenhua - Evento 3
+337,Centro Volcánico Ancaray-Jatun Jenhua - Evento 4
+338,Centro Volcánico Ancase - Evento 1
+339,Centro Volcánico Ancase - Evento 2
+340,Centro Volcánico Ancase - Evento 3
+341,Centro Volcánico Ancase - Evento 4
+342,Centro Volcánico Ancase - Evento 5
+343,Centro Volcánico Anchipan - Mutis - Evento 1
+344,Centro Volcánico Anchipan - Mutis - Evento 2
+345,Centro Volcánico Anchipan - Mutis - Evento 3
+346,Centro Volcánico Anchipan - Mutis - Evento 4
+347,Centro Volcánico Anchipan - Mutis - Evento 5
+348,Centro Volcánico Anchipan - Mutis - Evento 6
+349,Centro Volcánico Anchipan - Mutis - Evento 7
+350,Centro Volcánico Anchipan - Mutis - Evento 8
+351,Centro Volcánico Andamarca - Evento 1
+352,Centro Volcánico Andamarca - Evento 2
+353,Centro Volcánico Antacillo - Evento 1
+354,Centro Volcánico Antacillo - Evento 2
+355,Centro Volcánico Antacillo - Evento 3
+356,Centro Volcánico Antacillo - Evento 4
+357,Centro Volcánico Antajave
+358,Centro Volcánico Antajave - Evento 1
+359,Centro Volcánico Antaorjo - Evento 1
+360,Centro Volcánico Antaorjo - Evento 2
+361,Centro Volcánico Antaorjo - Evento 3
+362,Centro Volcánico Antarazo - Evento 1
+363,Centro Volcánico Antarazo - Evento 2
+364,Centro volcánico Antarazo - lava andesítica
+365,Centro Volcánico Antasello
+366,Centro Volcánico Antasello - Evento 1
+367,Centro Volcánico Antasello - Evento 2
+368,Centro Volcánico Antasello - Evento 3
+369,Centro Volcánico Apaiñuño - Evento 1
+370,Centro Volcánico Apaiñuño - Evento 2
+371,Centro Volcánico Apaiñuño - Evento 3
+372,Centro Volcánico Apalcocha - Evento 1
+373,Centro Volcánico Apalcocha - Evento 2
+374,Centro Volcánico Apumayo - Evento 1
+375,Centro Volcánico Apumayo - Evento 2
+376,Centro Volcánico Apumayo - Evento 3
+377,Centro Volcánico Arichua - Evento 1
+378,Centro Volcánico Arichua - Evento 2
+379,Centro Volcánico Arichua - Evento 3
+380,Centro Volcánico Asnuni - Evento 1
+381,Centro Volcánico Atarani - Evento 1
+382,Centro Volcánico Atarani - Evento 2
+383,Centro Volcánico Atazaico - Evento 1
+384,Centro Volcánico Atazaico - Evento 2
+385,Centro Volcánico Atazaico - Evento 3
+386,Centro Volcánico Ayachi - Evento 1
+387,Centro Volcánico Ayachi - Evento 3
+388,Centro Volcánico Ayachi - Evento 4
+389,Centro Volcánico Ayachi - Evento 5
+390,Centro Volcánico Ayuncora - Evento 1
+391,Centro Volcánico Azuca - Evento 1
+392,Centro Volcánico Azuca - Evento 2
+393,Centro Volcánico Azuca - Evento 3
+394,Centro Volcánico Azuca - Evento 4
+395,Centro Volcánico Azuca - Evento 5
+396,Centro Volcánico Azuca - Evento 6
+397,Centro Volcánico Azul Pillune - Evento 1
+398,Centro Volcánico Azul Pillune - Evento 2
+399,Centro Volcánico Balconyane - Evento 1
+400,Centro Volcánico Balconyane - Evento 2
+401,Centro Volcánico Bellavista - Evento 1
+402,"Centro Volcánico Bencasi, Pichu"
+403,Centro Volcánico Buarahuarani - Evento 1
+404,Centro Volcánico Buarahuarani - Evento 2
+405,Centro Volcánico Cacachara - Evento 1
+406,Centro Volcánico Cacachara - Evento 2
+407,Centro Volcánico Cacachara - Evento 3
+408,Centro Volcánico Cacachara - Evento 4
+409,Centro Volcánico Cacachara - Evento 5
+410,Centro Volcánico Cacachara - Evento 6
+411,Centro Volcánico Cacachara - Evento 7
+412,Centro Volcánico Cahua - Evento 1a
+413,Centro Volcánico Cahua - Evento 1b
+414,Centro Volcánico Cahua - Evento 1c
+415,Centro Volcánico Cahua - Evento 1d
+416,Centro Volcánico Cahua - Evento 2
+417,Centro Volcánico Cailloma - Evento 1
+418,Centro Volcánico Cailloma - Evento 2
+419,Centro Volcánico Cailloma - Evento 3
+420,Centro Volcánico Cajonpuquio - Evento 1
+421,Centro Volcánico Calamarca - Evento 1
+422,Centro Volcánico Calamarca - Evento 2
+423,Centro Volcánico Calamarca - Evento 3
+424,Centro Volcánico Calqui
+425,Centro Volcánico Calqui - Evento 2
+426,Centro Volcánico Camaquishque Hercules - Evento 1a
+427,Centro Volcánico Camaquishque Hercules - Evento 1b
+428,Centro Volcánico Camaquishque Hercules - Evento 1c
+429,Centro Volcánico Camaquishque Hercules - Evento 2a
+430,Centro Volcánico Camaquishque Hercules - Evento 2b
+431,Centro Volcánico Camaquishque Hercules - Evento 2c
+432,Centro Volcánico Camaquishque Hercules - Evento 2d
+433,Centro Volcánico Camaquishque Hercules - Evento 2e
+434,Centro Volcánico Camaquishque Hercules - Evento 2f
+435,Centro Volcánico Camaquishque Hercules - Evento 3a
+436,Centro Volcánico Camaquishque Hercules - Evento 3b
+437,Centro Volcánico Camaquishque Hercules - Evento 3c
+438,Centro Volcánico Camaquishque Hercules - Evento 3d
+439,Centro Volcánico Camaquishque Hercules - Evento 4a
+440,Centro Volcánico Camaquishque Hercules - Evento 4b
+441,Centro Volcánico Camaquishque Hercules - Evento 5a
+442,Centro Volcánico Camaquishque Hercules - Evento 5b
+443,Centro Volcánico Camaquishque Hercules - Evento 6
+444,Centro Volcánico Camaquishque Hercules - Evento 7
+445,Centro Volcánico Camaquishque Hercules - Evento 8
+446,Centro Volcánico Camaquishque Hercules - Evento 9a
+447,Centro Volcánico Camaquishque Hercules - Evento 9b
+448,Centro Volcánico Cañariaco - Evento 1
+449,Centro Volcánico Cañariaco - Evento 2
+450,Centro Volcánico Cañariaco - Evento 3a
+451,Centro Volcánico Cañariaco - Evento 3b
+452,Centro Volcánico Cañariaco - Evento 4
+453,Centro Volcánico Cañariaco - Evento 5
+454,Centro Volcánico Carabamba - Evento 1
+455,Centro Volcánico Carabamba - Evento 2
+456,Centro Volcánico Carhuac - Evento 1
+457,Centro Volcánico Carhuac - Evento 1c
+458,Centro Volcánico Carhuac - Evento 1d
+459,Centro Volcánico Carhuac - Evento 2
+460,Centro Volcánico Carhuac - Evento 2d
+461,Centro Volcánico Carhuac - Evento 2e
+462,Centro Volcánico Carhuac - Evento 3
+463,Centro Volcánico Carhuac - Evento 4
+464,Centro Volcánico Carhuac - Evento 5
+465,Centro Volcánico Carhuajasa - Evento 1
+466,Centro volcánico Carhuajasa - flujo andesítico
+467,Centro Volcánico Carhuanilla  - Evento 1
+468,Centro Volcánico Carhuarazo - Evento 1
+469,Centro Volcánico Carhuarazo - Evento 2
+470,Centro Volcánico Carhuarazo - Evento 3
+471,Centro Volcánico Carhuarazo - Evento 4
+472,Centro volcánico Cascaule - andesita
+473,Centro Volcánico Catalina - Evento 1
+474,Centro Volcánico Catalina - Evento 2
+475,Centro Volcánico Catán - Evento 2
+476,Centro Volcánico Catán - Evento 3
+477,Centro Volcánico Catán - Evento 4
+478,Centro Volcánico Catán - Evento 5
+479,Centro Volcánico Catayle - Evento 1
+480,Centro Volcánico Catayle - Evento 2
+481,Centro Volcánico Catayle - Evento 3
+482,Centro Volcánico Cayco - Evento 1
+483,Centro Volcánico Cayco - Evento 2
+484,Centro Volcánico Cayco - Evento 3
+485,Centro Volcánico Cayco - Evento 4
+486,Centro Volcánico Ccorihuiri - Evento 1
+487,Centro Volcánico Ccorihuiri - Evento 2
+488,Centro Volcánico Ccorihuiri - Evento 3
+489,Centro Volcánico Ccorihuiri - Evento 4
+490,Centro Volcánico Ccorihuiri - Evento 5
+491,Centro Volcánico Centinela - Evento 1a
+492,Centro Volcánico Centinela - Evento 2a
+493,Centro Volcánico Centinela - Evento 2b
+494,Centro Volcánico Centinela - Evento 2c
+495,Centro Volcánico Centinela - Evento 2d
+496,Centro volcánico Cerro Aceruta - Evento 1
+497,Centro volcánico Cerro Aceruta - Evento 2
+498,Centro Volcánico Cerro Blanco
+499,Centro Volcánico Cerro Blanco - Evento 1
+500,Centro Volcánico Chachani - Evento 1
+501,Centro Volcánico Chacoma - Evento 1
+502,Centro Volcánico Chacoma - Evento 2
+503,Centro Volcánico Chacoma - Evento 3
+504,Centro Volcánico Chalhuamayo - Evento 1
+505,Centro Volcánico Chalhuamayo - Evento 2
+506,Centro Volcánico Chalhuamayo - Evento 3
+507,Centro Volcánico Chancahuaña - Evento 1
+508,Centro Volcánico Chancahuaña - Evento 2
+509,Centro Volcánico Chancahuaña - Evento 3
+510,Centro Volcánico Chancahuaña - Evento 4
+511,Centro Volcánico Chancahuaña - Evento 5
+512,Centro Volcánico Chancahuaña - Evento 6
+513,Centro Volcánico Chaupi Orco - Evento 1
+514,Centro Volcánico Chaupi Orco - Evento 2
+515,Centro Volcánico Chaupi Orco - Evento 3
+516,Centro Volcánico Chibemi - Evento 1
+517,Centro Volcánico Chibemi - Evento 2
+518,Centro Volcánico Chibemi - Evento 3
+519,Centro Volcánico Chicche - Hueco Grande - Evento 1
+520,Centro Volcánico Chicche - Hueco Grande - Evento 2
+521,Centro Volcánico Chicche - Hueco Grande - Evento 3
+522,Centro Volcánico Chicche - Hueco Grande - Evento 4
+523,Centro Volcánico Chicche - Hueco Grande - Evento 5
+524,Centro Volcánico Chicche - Hueco Grande - Evento 6
+525,Centro Volcánico Chila - Evento 1
+526,Centro Volcánico Chila - Evento 2
+527,Centro Volcánico Chila - Evento 3
+528,Centro Volcánico Chincho - Evento 1
+529,Centro Volcánico Chincho - Evento 2
+530,Centro Volcánico Chincho - Evento 3
+531,Centro Volcánico Chingune - Evento 1
+532,Centro Volcánico Choccehuacgra
+533,Centro Volcánico Choccehuacgra - Evento 1
+534,Centro Volcánico Chocco
+535,Centro Volcánico Chocco - Evento 1
+536,Centro Volcánico Chocco - Evento 2
+537,Centro Volcánico Chocco - Evento 3
+538,Centro Volcánico Chocco - Evento 4
+539,Centro Volcánico Chocco - Evento 5
+540,Centro Volcánico Chojochojone - Evento 1
+541,Centro Volcánico Chojochojone - Evento 2
+542,Centro Volcánico Chojochojone - Evento 3
+543,Centro Volcánico Chojochojone - Evento 4
+544,Centro volcánico Chonta - Evento 1
+545,Centro volcánico Chonta - Evento 2
+546,Centro volcánico Chonta - Evento 3
+547,Centro volcánico Chonta - Evento 4
+548,Centro Volcánico Choquepirhua - Evento 1
+549,Centro Volcánico Choquepirhua - Evento 2
+550,Centro Volcánico Choquepirhua - Evento 3
+551,Centro Volcánico Choquepirhua - Evento 4
+552,Centro Volcánico Choquepirhua - Evento 5
+553,Centro Volcánico Chuaña
+554,"Centro Volcánico Chuaña, Quenamache - Evento 1"
+555,Centro Volcánico Chuañuma - Evento 1
+556,Centro Volcánico Chuañuma - Evento 2
+557,Centro Volcánico Chuañuma - Evento 3
+558,Centro Volcánico Chuañuma - Evento 4
+559,Centro Volcánico Chuañuma - Evento 5
+560,Centro Volcánico Chuañuma - Evento 6
+561,Centro Volcánico Chuchullo - Evento 1
+562,Centro Volcánico Chuchullo - Evento 2
+563,Centro Volcánico Chuculla - Evento 1
+564,Centro Volcánico Chuculla - Evento 2
+565,Centro Volcánico Chuculla - Evento 3
+566,Centro Volcánico Chuño - Chinchin - Evento 1
+567,Centro Volcánico Chuño - Chinchin - Evento 2
+568,Centro Volcánico Chuño - Chinchin - Evento 3
+569,Centro Volcánico Chuño - Chinchin - Evento 4
+570,Centro Volcánico Chuño - Chinchin - Evento 5
+571,Centro Volcánico Chuño - Chinchin - Evento 6
+572,Centro Volcánico Chuquiananta - Evento 1
+573,Centro Volcánico Chuquiananta - Evento 2
+574,Centro Volcánico Chuquiananta - Evento 3
+575,Centro Volcánico Chuquiananta - Evento 4
+576,Centro Volcánico Chuquihua - Evento 1
+577,Centro Volcánico Chuquimunco
+578,Centro Volcánico Cochaquillo - Evento 1
+579,Centro Volcánico Cochaquillo - Evento 2
+580,Centro Volcánico Colancajasa - Evento 1
+581,Centro Volcánico Colancajasa - Evento 2
+582,Centro Volcánico Collunco - Evento 1
+583,Centro Volcánico Colquerane - Evento 1
+584,Centro Volcánico Colquerane - Evento 2
+585,Centro Volcánico Colquerane - Evento 3
+586,Centro Volcánico Colquerane - Evento 4
+587,Centro Volcánico Concayllo - Evento 1
+588,Centro Volcánico Concayllo - Evento 2
+589,Centro Volcánico Concayllo - Evento 3
+590,Centro Volcánico Concayllo - Evento 4
+591,Centro Volcánico Condor Pico - Evento 1
+592,Centro Volcánico Condor Pico - Evento 2
+593,Centro Volcánico Condorillo - Evento 1
+594,Centro Volcánico Condorillo - Evento 2
+595,Centro Volcánico Condorillo - Evento 3
+596,Centro Volcánico Condorillo - Evento 4
+597,Centro Volcánico Condorillo - Evento 5
+598,Centro Volcánico Condorillo - Evento 6
+599,Centro Volcánico Condorillo - Evento 7
+600,Centro Volcánico Condorillo - Evento 8
+601,Centro Volcánico Condorsayana - Evento 1
+602,Centro Volcánico Condorsayana - Evento 2
+603,Centro Volcánico Condorsayana - Evento 3
+604,Centro Volcánico Condorsenga - Evento 1a
+605,Centro Volcánico Condorsenga - Evento 1b
+606,Centro Volcánico Condorsenga - Evento 2a
+607,Centro Volcánico Condorsenga - Evento 2b
+608,Centro Volcánico Condorsenga - Evento 2c
+609,Centro Volcánico Condorsenga - Evento 3a
+610,Centro Volcánico Condorsenga - Evento 3b
+611,Centro Volcánico Condorsenga - Evento 3c
+612,Centro Volcánico Condortiana - Evento 1
+613,Centro Volcánico Condortiana - Evento 2
+614,Centro Volcánico Condortiana - Evento 3
+615,Centro Volcánico Condortiana - Evento 4
+616,Centro Volcánico Coropuna - Evento 1
+617,Centro Volcánico Coropuna - Evento 10
+618,Centro Volcánico Coropuna - Evento 2
+619,Centro Volcánico Coropuna - Evento 3
+620,Centro Volcánico Coropuna - Evento 4
+621,Centro Volcánico Coropuna - Evento 5
+622,Centro Volcánico Coropuna - Evento 6
+623,Centro Volcánico Coropuna - Evento 7
+624,Centro Volcánico Coropuna - Evento 8
+625,Centro Volcánico Coropuna - Evento 9
+626,Centro Volcánico Cortaderas
+627,Centro Volcánico Cosana - Evento 1
+628,Centro Volcánico Cosana - Evento 2
+629,Centro Volcánico Cotacota - Evento 1
+630,Centro Volcánico Cotacota - Evento 2
+631,Centro Volcánico Cotacota - Evento 3
+632,Centro Volcánico Cotacota - Evento 4
+633,Centro Volcánico Crespo - Evento 1
+634,Centro Volcánico Crespo - Evento 2
+635,Centro Volcánico Crespo - Evento 3
+636,Centro Volcánico Cruz Grande - Evento 1
+637,Centro Volcánico Cruz Grande - Evento 2
+638,Centro Volcánico Cuchinasa - Evento 1
+639,Centro Volcánico Culluncuya - Evento 1
+640,Centro Volcánico Culluncuya - Evento 2
+641,Centro Volcánico Culluncuya - Evento 3
+642,Centro Volcánico Culluncuya - Evento 4
+643,Centro Volcánico Culluncuya - Evento 5
+644,Centro Volcánico Cumaile - Evento 1
+645,Centro Volcánico Cumaile - Evento 2
+646,Centro Volcánico Cumaile - Evento 3
+647,"Centro volcánico Cumaile, Yanacachi - andesita porfídica"
+648,"Centro volcánico Cumaile, Yanacachi - dacita porfídica"
+649,"Centro volcánico Cumaile, Yanacachi - piroclastos"
+650,Centro volcánico Cuncaicha - Evento 1
+651,Centro Volcánico Cunica
+652,Centro Volcánico Cunya Pinta - Evento 1
+653,Centro Volcánico Cunya Pinta - Evento 2
+654,Centro Volcánico Curahuara - Evento 1
+655,Centro Volcánico Curahuara - Evento 2
+656,Centro Volcánico Curahuara - Evento 3
+657,Centro Volcánico Curahuara - Evento 4
+658,Centro Volcánico Curahuara - Evento 5
+659,Centro Volcánico Curahuara - Evento 6
+660,Centro Volcánico Cururupa - Evento 1
+661,Centro Volcánico Cururupa - Evento 2
+662,Centro Volcánico Cururupa - Evento 3
+663,Centro Volcánico Cusicancha - Evento 1
+664,Centro Volcánico Ecma - Evento 1
+665,Centro Volcánico Ecma - Evento 2
+666,Centro Volcánico Ecma - Evento 3
+667,Centro Volcánico Ecma - Evento 4
+668,Centro Volcánico Ecma - Evento 5
+669,Centro Volcánico Ecma - Evento 6
+670,Centro Volcánico Ecma - Evento 7
+671,Centro Volcánico El Fraile - Evento 1
+672,Centro Volcánico El Fraile - Evento 2
+673,Centro Volcánico El Salto
+674,Centro Volcánico Enquellusa - Evento 2
+675,Centro Volcánico Enquellusa - Evento 3
+676,Centro Volcánico Enquellusa - Evento 4
+677,Centro Volcánico Enquellusa - Evento 5
+678,Centro Volcánico Fierro Chumpi - Evento 1
+679,Centro Volcánico Fierro Chumpi - Evento 2
+680,Centro Volcánico Fierro Chumpi - Evento 3
+681,Centro Volcánico Finahui - Evento 1
+682,Centro Volcánico Finahui - Evento 2
+683,Centro Volcánico Firura - Evento 1
+684,Centro Volcánico Firura - Evento 2
+685,Centro Volcánico Firura - Evento 3
+686,Centro Volcánico Fusnata - Evento 1
+687,Centro Volcánico Fusnata - Evento 2
+688,Centro Volcánico Higuerón - Evento 1
+689,Centro Volcánico Higuerón - Evento 2a
+690,Centro Volcánico Higuerón - Evento 2b
+691,Centro Volcánico Higuerón - Evento 3
+692,Centro Volcánico Hirupichu - Evento 1
+693,Centro Volcánico Hirupichu - Evento 2
+694,Centro Volcánico Huacallani - Evento 1
+695,Centro Volcánico Huajrahuire - Evento 1
+696,Centro Volcánico Huajrahuire - Evento 2
+697,Centro Volcánico Huajrahuire - Evento 3
+698,Centro Volcánico Huajrahuire - Evento 4
+699,Centro Volcánico Huajrahuire - Evento 5
+700,Centro Volcánico Hualca Hualca - Evento 1
+701,Centro Volcánico Hualca Hualca - Evento 2
+702,Centro Volcánico Hualca Hualca - Evento 3
+703,Centro Volcánico Hualca Hualca - Evento 4
+704,Centro Volcánico Hualchiri - Evento 1
+705,Centro Volcánico Huallatira - Evento 1
+706,Centro Volcánico Huancane - Evento 1
+707,Centro Volcánico Huancarani - Evento 1
+708,Centro Volcánico Huancarani - Evento 2
+709,Centro Volcánico Huancure - Evento 1
+710,Centro Volcánico Huancure - Evento 2
+711,Centro Volcánico Huancure - Evento 3
+712,Centro Volcánico Huangará - Evento 1
+713,Centro Volcánico Huangará - Evento 2
+714,Centro Volcánico Huangará - Evento 3
+715,Centro Volcánico Huaraday - Evento 1
+716,Centro Volcánico Huaraday - Evento 2
+717,Centro Volcánico Huarancante - Evento 1
+718,Centro Volcánico Huarancante - Evento 2
+719,Centro Volcánico Huarancante - Evento 3
+720,Centro Volcánico Huarancante - Evento 4
+721,Centro Volcánico Huarancante - Evento 5
+722,Centro Volcánico Huarancante - Evento 6
+723,Centro Volcánico Huarancate
+724,Centro Volcánico Huarancayoc - Evento 1
+725,Centro Volcánico Huarancayoc - Evento 2
+726,Centro Volcánico Huarancayoc - Evento 3
+727,Centro Volcánico Huarancayoc - Evento 4
+728,Centro Volcánico Huarancayoc - Evento 4b
+729,Centro Volcánico Huari - Evento 1
+730,Centro Volcánico Huari - Evento 2
+731,Centro Volcánico Huarinota - Evento 1
+732,Centro Volcánico Huarinota - Evento 2
+733,Centro Volcánico Huarinota - Evento 3
+734,Centro Volcánico Huaripampa - Evento 1
+735,Centro Volcánico Huaripampa - Evento 2
+736,Centro Volcánico Huaripampa - Evento 3
+737,Centro Volcánico Huarmaca - Evento 1
+738,Centro Volcánico Huarmaca - Evento 2
+739,Centro Volcánico Huarmaca - Evento 3
+740,Centro Volcánico Huaura - Evento 1
+741,Centro Volcánico Huaura - Evento 2a
+742,Centro Volcánico Huaura - Evento 2b
+743,Centro Volcánico Huaychayoc - Evento 1
+744,Centro Volcánico Huaychayoc - Evento 2
+745,Centro Volcánico Huaychayoc - Evento 3
+746,Centro Volcánico Huayllapa - Evento 1
+747,Centro volcánico Huaynaputina - Evento 2
+748,Centro Volcánico Huayquisongo - Evento 1
+749,Centro Volcánico Huayquisongo - Evento 2
+750,Centro Volcánico Huayquisongo - Evento 3
+751,Centro Volcánico Huayquisongo - Evento 4
+752,Centro Volcánico Huayquisongo - Evento 5
+753,Centro volcánico Huayta - lava andesita
+754,Centro volcánico Huayta - toba indiferenciada
+755,Centro Volcánico Huertalla - Evento 1
+756,Centro Volcánico Huichorca - Evento 1
+757,Centro Volcánico Huichorca - Evento 2
+758,Centro Volcánico Huichorca - Evento 3
+759,Centro Volcánico Huichorca - Evento 4
+760,Centro Volcánico Huicnoc Alto Ruri - Evento 1a
+761,Centro Volcánico Huicnoc Alto Ruri - Evento 1b
+762,Centro Volcánico Huicnoc Alto Ruri - Evento 1c
+763,Centro Volcánico Huicnoc Alto Ruri - Evento 1d
+764,Centro Volcánico Huicnoc Alto Ruri - Evento 2a
+765,Centro Volcánico Huicnoc Alto Ruri - Evento 2b
+766,Centro Volcánico Huicnoc Alto Ruri - Evento 2c
+767,Centro Volcánico Huicnoc Alto Ruri - Evento 2d
+768,Centro Volcánico Huicnoc Alto Ruri - Evento 3a
+769,Centro Volcánico Huicnoc Alto Ruri - Evento 3b
+770,Centro Volcánico Huicnoc Alto Ruri - Evento 3c
+771,Centro Volcánico Huicnoc Alto Ruri - Evento 3d
+772,Centro Volcánico Huicnoc Alto Ruri - Evento 3e
+773,Centro Volcánico Huicnoc Alto Ruri - Evento 4a
+774,Centro Volcánico Huicnoc Alto Ruri - Evento 4b
+775,Centro Volcánico Huicnoc Alto Ruri - Evento 4c
+776,Centro Volcánico Huicnoc Alto Ruri - Evento 4d
+777,Centro Volcánico Huicnoc Alto Ruri - Evento 5
+778,Centro Volcánico Huicnoc Alto Ruri - Evento 6a
+779,Centro Volcánico Huicnoc Alto Ruri - Evento 6b
+780,Centro Volcánico Huicnoc Alto Ruri - Evento 7a
+781,Centro Volcánico Huicnoc Alto Ruri - Evento 7b
+782,Centro Volcánico Huicnoc Alto Ruri - Evento 7c
+783,Centro Volcánico Huicso - Evento 1
+784,Centro Volcánico Huicso - Evento 2
+785,Centro Volcánico Huicso - Evento 3
+786,Centro Volcánico Huicso - Evento 4
+787,Centro Volcánico Huicso - Evento 5
+788,Centro Volcánico Huilachiri
+789,Centro Volcánico Huilachiri - Evento 1
+790,Centro Volcánico Huilachiri - Evento 2
+791,Centro Volcánico Huilachiri - Evento 3
+792,Centro Volcánico Huilachiri - Evento 4
+793,Centro Volcánico Huishullane - Evento 1
+794,Centro Volcánico Huishullane - Evento 2
+795,Centro Volcánico Huisula - Evento 1
+796,Centro Volcánico Huisula - Evento 2
+797,Centro Volcánico Humajalso  - Evento 1
+798,Centro Volcánico Ichujasi - Evento 1
+799,Centro Volcánico Ichuorcco - Evento 1
+800,Centro Volcánico Ichuorcco - Evento 2
+801,Centro Volcánico Ichuorcco - Evento 3
+802,Centro Volcánico Ichuorcco - Evento 4
+803,Centro Volcánico Ichuorcco - Evento 5
+804,Centro Volcánico Incahuasi - Evento 1
+805,Centro Volcánico Incapacha - Evento 1
+806,Centro Volcánico Incapacha - Evento 2
+807,Centro Volcánico Incapacha - Evento 3
+808,Centro Volcánico Incapacha - Evento 4
+809,Centro Volcánico Incapacha - Evento 5
+810,Centro Volcánico Inciensocucho - Evento 1
+811,Centro Volcánico Inciensocucho - Evento 2
+812,Centro Volcánico Inciensocucho - Evento 3
+813,Centro volcánico Inciensocucho - riolita porfídica
+814,Centro volcánico Inciensocucho - traquiandesita porfídica
+815,Centro Volcánico Infiernillo - Evento 1
+816,Centro Volcánico Infiernillo - Evento 2
+817,"Centro Volcánico Iscalaca, Contornasa - Evento 1"
+818,Centro Volcánico Iscu Orcco - Evento 1
+819,Centro Volcánico Iscu Orcco - Evento 2
+820,Centro Volcánico Iscu Orcco - Evento 3
+821,Centro Volcánico Iscu Orcco - Evento 4
+822,Centro Volcánico Iscu Orcco - Evento 5
+823,Centro Volcánico Iscu Orcco - Evento 6
+824,Centro Volcánico Iscu Orcco - Evento 7
+825,Centro Volcánico Iscu Orcco - Evento 8
+826,Centro Volcánico Iscu Orcco - Evento 9
+827,Centro Volcánico Itaniyayoc - Evento 1
+828,Centro Volcánico Itaniyayoc - Evento 2
+829,Centro Volcánico Itaniyayoc - Evento 3
+830,Centro Volcánico Itaniyayoc - Evento 4
+831,Centro Volcánico Itaniyayoc - Evento 6
+832,Centro Volcánico Itocasi - Evento 1
+833,Centro Volcánico Itocasi - Evento 2
+834,Centro Volcánico Jalcarane - Evento 1
+835,Centro Volcánico Jañuma Pirhua - Evento 1
+836,Centro Volcánico Jañuma Pirhua - Evento 2
+837,Centro Volcánico Jañuma Pirhua - Evento 3
+838,Centro Volcánico Japo - Evento 1
+839,Centro Volcánico Japo - Evento 2
+840,Centro Volcánico Japo - Evento 3
+841,Centro Volcánico Japo - Evento 4
+842,Centro Volcánico Jarhuay - Evento 1
+843,Centro Volcánico Jarhuay - Evento 2
+844,Centro Volcánico Jarhuay - Evento 3
+845,Centro Volcánico Jarhuay - Evento 4
+846,Centro Volcánico Jaruma - Evento 1
+847,Centro Volcánico Jaruma - Evento 2
+848,Centro Volcánico Jasaya
+849,Centro Volcánico Jasaya - Evento 1
+850,Centro Volcánico Jasaya - Evento 2
+851,Centro Volcánico Jasaya - Evento 3
+852,Centro Volcánico Jasaya - Evento 4
+853,Centro Volcánico Jasaya - Evento 5
+854,Centro Volcánico Jasaya - Evento 6
+855,Centro Volcánico Jatun Huaychahui - Evento 1
+856,Centro Volcánico Jatun Huaychahui - Evento 2
+857,Centro Volcánico Jatun Huaychahui - Evento 3
+858,Centro Volcánico Jatun Huaychahui - Evento 4
+859,Centro Volcánico Jatunachachanan - Evento 1a
+860,Centro Volcánico Jatunachachanan - Evento 1b
+861,Centro Volcánico Jatunachachanan - Evento 2a
+862,Centro Volcánico Jatunachachanan - Evento 2b
+863,Centro Volcánico Jatunachachanan - Evento 3
+864,Centro Volcánico Jatuncunca - Evento 1
+865,Centro Volcánico Jatuncunca - Evento 2
+866,Centro Volcánico Jatuncunca - Evento 3
+867,Centro volcánico Jello Jasa
+868,Centro Volcánico Jello Jasa
+869,Centro Volcánico Jello Jasa - Evento 1
+870,Centro Volcánico Jello Jasa - Evento 2
+871,Centro Volcánico Jello Jasa - Evento 3
+872,Centro Volcánico Jello Jasa - Evento 4
+873,Centro Volcánico Jello Jasa - Evento 5
+874,Centro Volcánico Jenchaj - Evento 1
+875,Centro Volcánico Jenchaj - Evento 2
+876,Centro Volcánico Jenchaj - Evento 3
+877,Centro Volcánico Jenchaj - Evento 4
+878,Centro Volcánico Jerunta- Evento 2
+879,Centro Volcánico Juculla - Evento 1
+880,Centro Volcánico Juculla - Evento 2
+881,Centro Volcánico Juculla - Evento 3
+882,Centro Volcánico Juculla - Evento 4
+883,Centro Volcánico Juculla - Evento 5
+884,Centro Volcánico Jucure - Evento 1
+885,Centro Volcánico Jucure - Evento 2
+886,Centro Volcánico Julcani
+887,Centro Volcánico Kerhuanta - Evento 1
+888,Centro Volcánico Kerhuanta - Evento 2
+889,Centro Volcánico Kerhuanta - Evento 3
+890,Centro Volcánico La Granja - Evento 1
+891,Centro Volcánico La Granja - Evento 2
+892,Centro Volcánico La Granja - Evento 3
+893,Centro Volcánico La Granja - Evento 4a
+894,Centro Volcánico La Granja - Evento 4b
+895,Centro Volcánico La Granja - Evento 5
+896,Centro Volcánico La Granja - Evento 6
+897,Centro Volcánico Las Minas - Evento 2
+898,Centro Volcánico León Huactan
+899,Centro Volcánico León Huactan - Evento 1
+900,Centro Volcánico León Huactan - Evento 2
+901,Centro Volcánico León Huactan - Evento 3
+902,Centro Volcánico Leque Leque - Evento 1
+903,Centro Volcánico Leque Leque - Evento 2
+904,Centro Volcánico Leque Leque - Evento 3
+905,Centro Volcánico Licurnique
+906,Centro Volcánico Limacjirca - Evento 1
+907,Centro Volcánico Limacjirca - Evento 2
+908,Centro Volcánico Limacjirca - Evento 3
+909,Centro Volcánico Llaclla Orco - Evento 1
+910,Centro Volcánico Llaclla Orco - Evento 2
+911,Centro Volcánico Llaclla Orco - Evento 3
+912,Centro Volcánico Llallahua - Evento 1
+913,Centro Volcánico Llallahua - Evento 2
+914,Centro Volcánico Llallahua - Evento 4
+915,Centro Volcánico Llanquiri - Evento 1
+916,Centro Volcánico Llenpic - Evento 1
+917,Centro Volcánico Llihua - Evento 1
+918,Centro Volcánico Llihua - Evento 2
+919,Centro Volcánico Llihua - Evento 3
+920,"Centro Volcánico López Extraña, Ichurasi - Evento 1"
+921,"Centro Volcánico López Extraña, Ichurasi - Evento 2"
+922,"Centro Volcánico López Extraña, Ichurasi - Evento 3"
+923,"Centro Volcánico López Extraña, Ichurasi - Evento 4"
+924,"Centro Volcánico López Extraña, Ichurasi - Evento 5"
+925,Centro Volcánico Loriscota - Evento 1
+926,Centro volcánico Lucho Jahuanapampa
+927,Centro Volcánico Lucho Jahuanapampa - Evento 1
+928,Centro Volcánico Lucho Jahuanapampa - Evento 2
+929,Centro Volcánico Macón - Evento 1
+930,Centro Volcánico Macón - Evento 2
+931,Centro Volcánico Macón - Evento 3
+932,Centro Volcánico Macón - Evento 4
+933,Centro Volcánico Macón - Evento 5
+934,Centro Volcánico Madriyoc - Evento 1
+935,Centro Volcánico Madriyoc - Evento 2
+936,Centro Volcánico Madriyoc - Evento 3
+937,Centro Volcánico Madriyoc - Evento 4
+938,Centro Volcánico Malmanya - Evento 1
+939,Centro Volcánico Malmanya - Evento 2
+940,Centro Volcánico Malmanya - Evento 3
+941,Centro Volcánico Mesacalani - Evento 1
+942,Centro Volcánico Mesapata - Evento 1
+943,Centro Volcánico Mesapata - Evento 2
+944,Centro Volcánico Mesapata - Evento 3
+945,Centro Volcánico Millo - Evento 1
+946,Centro Volcánico Millo - Evento 2
+947,Centro Volcánico Millo - Evento 3
+948,Centro Volcánico Milluma - Evento 1
+949,Centro Volcánico Milluma - Evento 2
+950,Centro Volcánico Minasa - Evento 1
+951,Centro Volcánico Minasa - Evento 2
+952,Centro Volcánico Minasa - Evento 3
+953,Centro Volcánico Minatas - Evento 1
+954,Centro Volcánico Minatas - Evento 2
+955,Centro Volcánico Misigua - Evento 1
+956,Centro Volcánico Mismi - Evento 1
+957,Centro Volcánico Mismi - Evento 2
+958,Centro Volcánico Mismi - Evento 3
+959,Centro Volcánico Mismi - Evento 4
+960,Centro Volcánico Mismi - Evento 5
+961,Centro volcánico Mismi - Evento 6
+962,Centro Volcánico Misti - Evento 1
+963,Centro Volcánico Misti - Evento 10
+964,Centro Volcánico Misti - Evento 2
+965,Centro Volcánico Misti - Evento 3
+966,Centro Volcánico Misti - Evento 4
+967,Centro Volcánico Misti - Evento 5
+968,Centro Volcánico Misti - Evento 6
+969,Centro Volcánico Misti - Evento 7
+970,Centro Volcánico Misti - Evento 8
+971,Centro Volcánico Misti - Evento 9
+972,Centro Volcánico Monyugo - Evento 1
+973,Centro Volcánico Morocacco - Evento 1
+974,Centro Volcánico Morocacco - Evento 2
+975,Centro Volcánico Morocacco - Evento 3
+976,Centro Volcánico Mullijahui - Evento 1
+977,Centro Volcánico Nasanasane - Evento 1
+978,Centro Volcánico Nasanasane - Evento 2
+979,Centro Volcánico Nasanasane - Evento 3
+980,Centro Volcánico Nasanasane - Evento 4
+981,Centro Volcánico Nasanasane - Evento 5
+982,Centro Volcánico Nasca - Evento 1
+983,Centro Volcánico Nasca - Evento 10
+984,Centro Volcánico Nasca - Evento 11
+985,Centro Volcánico Nasca - Evento 2
+986,Centro Volcánico Nasca - Evento 3
+987,Centro Volcánico Nasca - Evento 4
+988,Centro Volcánico Nasca - Evento 5
+989,Centro Volcánico Nasca - Evento 7
+990,Centro Volcánico Nasca - Evento 8
+991,Centro Volcánico Nasca - Evento 9
+992,Centro Volcánico Nazaparco - Evento 1
+993,Centro Volcánico Nazaparco - Evento 2
+994,Centro Volcánico Nazaparco - Evento 3
+995,Centro Volcánico Nazaparco - Evento 4
+996,Centro Volcánico Nazaparco - Evento 5
+997,Centro Volcánico Nazaparco - Evento 6
+998,Centro volcánico Nazaparco - Evento 7
+999,Centro volcánico Nazaparco - Evento 8
+1000,Centro Volcánico Negro Mayo - Evento 1
+1001,Centro Volcánico Negro Mayo - Evento 2
+1002,Centro Volcánico Negro Mayo - Evento 3
+1003,Centro Volcánico Negro Mayo - Evento 4
+1004,Centro Volcánico Negro Mayo - Evento 5
+1005,Centro Volcánico Ñequeta - andesita
+1006,Centro Volcánico Ñequeta - Evento 1
+1007,Centro Volcánico Ñequeta - Evento 2
+1008,Centro Volcánico Ñequeta - Evento 3
+1009,Centro Volcánico Nicholson
+1010,Centro Volcánico Niepos - Evento 1
+1011,Centro Volcánico Niepos - Evento 2
+1012,Centro Volcánico Niepos - Evento 3
+1013,Centro Volcánico Niepos - Evento 4
+1014,Centro Volcánico Niepos - Evento 5
+1015,Centro Volcánico Nocarane - Evento 1
+1016,Centro Volcánico Nocarane - Evento 2
+1017,Centro Volcánico Omaconga
+1018,Centro Volcánico Orcco
+1019,Centro Volcánico Orcochonta - Evento 1
+1020,Centro Volcánico Orcochonta - Evento 2
+1021,Centro Volcánico Orcochonta - Evento 3
+1022,Centro Volcánico Orcochonta - Evento 4
+1023,Centro Volcánico Orcochonta - Evento 5
+1024,Centro Volcánico Otocuro - Evento 1
+1025,Centro Volcánico Otocuro - Evento 2
+1026,Centro Volcánico Otocuro - Evento 3
+1027,Centro Volcánico Paccha Uromalqui - Evento 1
+1028,Centro Volcánico Paccha Uromalqui - Evento 2
+1029,Centro Volcánico Paccha Uromalqui - Evento 3
+1030,Centro Volcánico Pachachaca - Evento 1
+1031,Centro Volcánico Pachachaca - Evento 2
+1032,Centro Volcánico Pachachaca - Evento 3
+1033,Centro Volcánico Pachacutec - Evento 1
+1034,Centro Volcánico Pachacutec - Evento 2
+1035,Centro Volcánico Pachacutec - Evento 3
+1036,Centro Volcánico Pachas - Evento 1
+1037,Centro Volcánico Pachas - Evento 2
+1038,Centro Volcánico Pachas - Evento 3
+1039,Centro Volcánico Pachas - Evento 4
+1040,Centro Volcánico Pachas - Evento 5
+1041,Centro Volcánico Pacococha
+1042,Centro Volcánico Pacsihuanqui - Evento 1
+1043,Centro Volcánico Pacsihuanqui - Evento 2
+1044,Centro Volcánico Pajitas - Evento 1
+1045,Centro Volcánico Palla Palla - Evento 1
+1046,Centro Volcánico Palla Palla - Evento 2
+1047,Centro Volcánico Palla Palla - Evento 3
+1048,Centro Volcánico Palla Palla - Evento 4
+1049,Centro Volcánico Palmatocco - Evento 1
+1050,Centro Volcánico Palta Cayán - Evento 1a
+1051,Centro Volcánico Palta Cayán - Evento 1b
+1052,Centro Volcánico Palta Cayán - Evento 1c
+1053,Centro Volcánico Palta Cayán - Evento 1d
+1054,Centro Volcánico Palta Cayán - Evento 1e
+1055,Centro Volcánico Palta Cayán - Evento 2a
+1056,Centro Volcánico Palta Cayán - Evento 2b
+1057,Centro Volcánico Palta Cayán - Evento 3a
+1058,Centro Volcánico Palta Cayán - Evento 3b
+1059,Centro Volcánico Paltamoco
+1060,Centro Volcánico Parag - Evento 1
+1061,Centro Volcánico Parag - Evento 1a
+1062,Centro Volcánico Parag - Evento 2d
+1063,Centro Volcánico Parag - Evento 3c
+1064,Centro Volcánico Parag - Evento 3d
+1065,Centro Volcánico Parag - Evento 3e
+1066,Centro volcánico Parag - Evento 3f
+1067,Centro Volcánico Parag - Evento 4
+1068,Centro Volcánico Parcachata - Evento 1
+1069,Centro Volcánico Parcachata - Evento 2
+1070,Centro Volcánico Parcachata - Evento 3
+1071,Centro Volcánico Parcachata - Evento 4
+1072,Centro Volcánico Parcachata - Evento 5
+1073,Centro Volcánico Parhuallune - Evento 1
+1074,Centro Volcánico Parhuallune - Evento 2
+1075,Centro Volcánico Parhuallune - Evento 3
+1076,Centro Volcánico Parhuallune - Evento 4
+1077,Centro Volcánico Pariamachay - Evento 1
+1078,Centro Volcánico Pariamachay - Evento 2
+1079,Centro Volcánico Pariamachay - Evento 3
+1080,Centro Volcánico Pariamachay - Evento 4
+1081,Centro Volcánico Pariamachay - Evento 5
+1082,Centro Volcánico Parinacochas - Evento 1
+1083,Centro Volcánico Paruque Alto  - Evento 1
+1084,Centro Volcánico Pastillo
+1085,Centro Volcánico Pasto Grande - Evento 1
+1086,Centro Volcánico Pasto Grande - Evento 2
+1087,Centro Volcánico Pataccocha - Evento 1
+1088,Centro Volcánico Pataccocha - Evento 2
+1089,Centro Volcánico Pataccocha - Evento 3
+1090,Centro Volcánico Pataccocha - Evento 4
+1091,Centro Volcánico Patorumi Fortaleza - Evento 1
+1092,Centro Volcánico Patorumi Fortaleza - Evento 2a
+1093,Centro Volcánico Patorumi Fortaleza - Evento 2b
+1094,Centro Volcánico Patorumi Fortaleza - Evento 3
+1095,Centro Volcánico Paucarani
+1096,Centro Volcánico Pauccaray -  Evento 1
+1097,Centro Volcánico Pauccaray -  Evento 2
+1098,Centro Volcánico Payhual Caupar - Evento 1
+1099,Centro Volcánico Payhual Caupar - Evento 2
+1100,Centro Volcánico Payhual Caupar - Evento 3
+1101,Centro Volcánico Payhual Caupar - Evento 4
+1102,Centro Volcánico Payhual Caupar - Evento 5
+1103,Centro Volcánico Payhual Caupar - Evento 6
+1104,Centro Volcánico Payhual Caupar - Evento 7
+1105,Centro Volcánico Payhual Caupar - Evento 8
+1106,Centro volcánico Peste - Evento 2
+1107,Centro volcánico Peste - Evento 4
+1108,Centro Volcánico Pichacollo - Evento 1
+1109,Centro Volcánico Pichu - Evento 1
+1110,Centro Volcánico Pichu - Evento 2
+1111,Centro volcánico Pichu - Evento 4
+1112,Centro Volcánico Piedra Grande - Evento 1
+1113,Centro Volcánico Piedra Grande - Evento 2
+1114,Centro Volcánico Piedra Grande - Evento 3
+1115,Centro Volcánico Piedra Grande - Evento 4
+1116,Centro Volcánico Piedra Grande - Evento 5
+1117,Centro Volcánico Pillcata - Evento 3
+1118,Centro Volcánico Pillune - Evento 1
+1119,Centro Volcánico Pillune - Evento 2
+1120,Centro Volcánico Pistamachay - Evento 1
+1121,Centro Volcánico Pistamachay - Evento 2
+1122,Centro Volcánico Pistamachay - Evento 3
+1123,Centro Volcánico Pistamachay - Evento 4
+1124,Centro Volcánico Pistamachay - Evento 5
+1125,Centro Volcánico Pistamachay - Evento 6
+1126,Centro Volcánico Pistamachay - Evento 7
+1127,Centro Volcánico Pollailla - Evento 1
+1128,Centro Volcánico Pollailla - Evento 2
+1129,Centro Volcánico Portugueza
+1130,Centro Volcánico Portugueza - Evento 1
+1131,Centro Volcánico Portugueza - Evento 2
+1132,Centro Volcánico Portugueza - Evento 3
+1133,Centro Volcánico Pre-Huaura - Evento 1
+1134,Centro Volcánico Pre-Huaura - Evento 2
+1135,Centro Volcánico Pre-Palta Cayán - Evento 3
+1136,Centro Volcánico Puca Macchay - Evento 1
+1137,Centro Volcánico Pucacoto - Evento 1
+1138,Centro Volcánico Pucacoto - Evento 2
+1139,Centro Volcánico Pucacoto - Evento 3
+1140,Centro Volcánico Pucajirca - Evento 1
+1141,Centro Volcánico Pucajirca - Evento 2
+1142,Centro Volcánico Pucajirca - Evento 3
+1143,Centro Volcánico Pucará - Evento 1
+1144,Centro Volcánico Pucará - Evento 2
+1145,Centro Volcánico Pucará - Evento 3
+1146,Centro Volcánico Pucará - Evento 4
+1147,Centro Volcánico Pucará - Evento 5
+1148,Centro Volcánico Pucasaya  - Evento 1
+1149,Centro Volcánico Pucasaya  - Evento 2
+1150,Centro Volcánico Pucasunto - Evento 1
+1151,Centro Volcánico Pucasunto - Evento 2
+1152,Centro Volcánico Pucasunto - Evento 3
+1153,Centro Volcánico Pucasunto - Evento 4
+1154,Centro Volcánico Pucasunto - Evento 5
+1155,Centro Volcánico Pumaranra
+1156,Centro Volcánico Pumaranra - Evento 1
+1157,Centro Volcánico Pumaranra - Evento 2
+1158,Centro Volcánico Pumaranra - Evento 3
+1159,Centro Volcánico Pumaranra - Evento 4
+1160,Centro Volcánico Pumaranra - Evento 5
+1161,Centro Volcánico Punta Perdida - Evento 1
+1162,Centro Volcánico Pupanday - Evento 1
+1163,Centro Volcánico Pupanday - Evento 2a
+1164,Centro Volcánico Pupanday - Evento 2b
+1165,Centro Volcánico Pupanday - Evento 2c
+1166,Centro Volcánico Pupanday - Evento 2d
+1167,Centro Volcánico Pupanday - Evento 2e
+1168,Centro Volcánico Pupanday - Evento 2f
+1169,Centro Volcánico Pupanday - Evento 2g
+1170,Centro Volcánico Pupanday - Evento 2h
+1171,Centro Volcánico Pupanday - Evento 3a
+1172,Centro Volcánico Pupanday - Evento 3b
+1173,Centro Volcánico Pupanday - Evento 3c
+1174,Centro Volcánico Pupanday - Evento 3d
+1175,Centro Volcánico Pupanday - Evento 3e
+1176,Centro Volcánico Pupanday - Evento 3e1
+1177,Centro Volcánico Pupanday - Evento 3f
+1178,Centro Volcánico Pupanday - Evento 3g
+1179,Centro Volcánico Pupanday - Evento 4a
+1180,Centro Volcánico Pupanday - Evento 4b
+1181,Centro Volcánico Pupanday - Evento 4c
+1182,Centro Volcánico Pupanday - Evento 5a
+1183,Centro Volcánico Pupanday - Evento 5b
+1184,Centro Volcánico Pupanday - Evento 5c
+1185,Centro Volcánico Purun
+1186,Centro Volcánico Purupuruni
+1187,Centro Volcánico Putajasa - Evento 1
+1188,Centro Volcánico Quelcata - Evento 1
+1189,Centro Volcánico Quelcata - Evento 2
+1190,Centro Volcánico Quelcata - Evento 3
+1191,Centro volcánico Quelcata - Evento 4
+1192,Centro Volcánico Queñuta Evento 2
+1193,Centro Volcánico Quesllampo - Evento 1
+1194,Centro Volcánico Queso Rupasca
+1195,Centro Volcánico Queso Rupasca - Evento 1
+1196,Centro Volcánico Queso Rupasca - Evento 2
+1197,Centro Volcánico Queso Rupasca - Evento 3
+1198,Centro Volcánico Quesocoto - Evento 1
+1199,Centro Volcánico Quesocoto - Evento 2
+1200,Centro Volcánico Quesquenda
+1201,Centro Volcánico Quesquenda - Evento 1
+1202,Centro Volcánico Quesquenda - Evento 2
+1203,Centro Volcánico Quesquenda - Evento 3
+1204,Centro Volcánico Quesquenda - Evento 4
+1205,Centro Volcánico Quintanillo - Evento 1
+1206,Centro Volcánico Quintanillo - Evento 2
+1207,Centro Volcánico Quiruvilca - Evento 1
+1208,Centro Volcánico Quiruvilca - Evento 2
+1209,Centro Volcánico Quiruvilca - Evento 3
+1210,Centro Volcánico Quiruvilca - Evento 4
+1211,Centro Volcánico Regalado
+1212,Centro Volcánico Regalado - Evento 1
+1213,Centro Volcánico Regalado - Evento 2
+1214,Centro Volcánico Regalado - Evento 3
+1215,Centro Volcánico Regalado - Evento 4
+1216,Centro Volcánico Regalado - Evento 5
+1217,Centro Volcánico Regalado - Evento 6
+1218,Centro Volcánico Rumillana
+1219,Centro Volcánico Rumiorco - Evento 1
+1220,Centro Volcánico Rumiorco - Evento 2
+1221,Centro Volcánico Rumiorco - Evento 3
+1222,Centro Volcánico Rumiorco - Evento 4
+1223,Centro Volcánico Runtucori - Evento 1
+1224,Centro Volcánico Runtucori - Evento 2
+1225,Centro Volcánico Runtucori - Evento 3
+1226,Centro Volcánico Runtucori - Evento 4
+1227,Centro Volcánico Runtucori - Evento 5
+1228,Centro Volcánico Runtucori - Evento 6
+1229,Centro Volcánico Runtucori - Evento 7
+1230,Centro Volcánico Sacrakure
+1231,Centro Volcánico Sacsajahua - Evento 1
+1232,Centro Volcánico Sacsajahua - Evento 2
+1233,Centro Volcánico Sacsajahua - Evento 3
+1234,Centro Volcánico Sacsajahua - Evento 4
+1235,Centro Volcánico Salpo - Evento 1
+1236,Centro Volcánico Salpo - Evento 2
+1237,Centro Volcánico Salpo - Evento 3
+1238,Centro Volcánico Salviayoc - Evento 1
+1239,Centro Volcánico Salviayoc - Evento 2
+1240,"Centro Volcánico San Francisco Ccallanave, Yllimani - Evento 1"
+1241,"Centro Volcánico San Francisco Ccallanave, Yllimani - Evento 2"
+1242,"Centro Volcánico San Francisco Ccallanave, Yllimani - Evento 3"
+1243,"Centro Volcánico San Francisco Ccallanave, Yllimani - Evento 4"
+1244,Centro Volcánico San Francisco de Orcorara - Evento 1
+1245,Centro Volcánico San Francisco de Orcorara - Evento 2
+1246,Centro Volcánico San Francisco de Orcorara - Evento 3
+1247,Centro Volcánico San Francisco de Pataqueña - Evento 1
+1248,Centro Volcánico San Francisco de Pataqueña - Evento 2
+1249,Centro Volcánico San Francisco de Pataqueña - Evento 3
+1250,Centro Volcánico San Francisco de Pataqueña - Evento 4
+1251,Centro Volcánico San Francisco de Pataqueña - Evento 5
+1252,Centro Volcánico San Francisco de Piñón - Evento 1
+1253,Centro Volcánico San Francisco Pachapaque - Evento 1
+1254,Centro Volcánico San Francisco Pachapaque - Evento 2
+1255,Centro Volcánico San Francisco Pachapaque - Evento 3
+1256,Centro Volcánico San Francisco Pachapaque - Evento 4
+1257,Centro Volcánico San Lorenzo - Evento 1
+1258,Centro Volcánico San Lorenzo - Evento 2
+1259,Centro Volcánico San Lorenzo - Evento 3
+1260,Centro Volcánico San Miguel - Evento 1
+1261,Centro Volcánico San Pedro - Evento 1
+1262,Centro Volcánico San Pedro - Evento 10
+1263,Centro Volcánico San Pedro - Evento 2
+1264,Centro Volcánico San Pedro - Evento 3
+1265,Centro Volcánico San Pedro - Evento 4
+1266,Centro Volcánico San Pedro - Evento 5
+1267,Centro Volcánico San Pedro - Evento 6
+1268,Centro Volcánico San Pedro - Evento 7
+1269,Centro Volcánico San Pedro - Evento 8
+1270,Centro Volcánico San Pedro - Evento 9
+1271,Centro Volcánico Santa Cruz - Evento 1
+1272,Centro Volcánico Santa Cruz - Evento 2
+1273,Centro Volcánico Santa Cruz - Evento 3
+1274,Centro Volcánico Santa Cruz - Evento 4
+1275,Centro Volcánico Sapajajuana
+1276,Centro Volcánico Sapajajuana - Evento 1
+1277,Centro Volcánico Sara Sara
+1278,Centro Volcánico Sara Sara - Evento 1
+1279,Centro Volcánico Sara Sara - Evento 2
+1280,Centro Volcánico Sara Sara - Evento 3
+1281,Centro Volcánico Sasahuini - Evento 1
+1282,Centro Volcánico Sasahuini - Evento 2
+1283,Centro Volcánico Sasahuini - Evento 3
+1284,Centro Volcánico Saycata - Evento 1
+1285,Centro Volcánico Saycata - Evento 2
+1286,Centro Volcánico Saycata - Evento 3
+1287,Centro volcánico Sibayo - Evento 1
+1288,Centro volcánico Sibayo - Evento 2
+1289,Centro Volcánico Sillajasa - Evento 1
+1290,Centro Volcánico Sillajasa - Evento 2
+1291,Centro Volcánico Sillajasa - Evento 3
+1292,Centro Volcánico Sillana - Evento 1
+1293,Centro Volcánico Sillana - Evento 2
+1294,Centro Volcánico Sillana - Evento 3
+1295,Centro Volcánico Sogopegan - Evento 1
+1296,Centro Volcánico Sogopegan - Evento 2
+1297,Centro Volcánico Sogopegan - Evento 3
+1298,Centro Volcánico Sogopegan - Evento 4
+1299,Centro Volcánico Solimana - Evento 2
+1300,Centro Volcánico Solimana - Evento 3
+1301,Centro Volcánico Solimana - Evento 4
+1302,Centro Volcánico Solimana - Evento 5
+1303,Centro Volcánico Soncco- Evento 1
+1304,Centro Volcánico Soncco- Evento 2
+1305,Centro Volcánico Soncco- Evento 3
+1306,Centro Volcánico Soncco- Evento 4
+1307,Centro Volcánico Soncco- Evento 5
+1308,Centro Volcánico Soncco- Evento 6
+1309,Centro Volcánico Sondorillo - Evento 3
+1310,Centro Volcánico Sorapata - Evento 1
+1311,Centro Volcánico Sorapata - Evento 2
+1312,Centro Volcánico Soravico - Evento 1
+1313,Centro Volcánico Soravico - Evento 2
+1314,Centro Volcánico Sotaya - Evento 1
+1315,Centro Volcánico Sotaya - Evento 2
+1316,Centro Volcánico Suches - Evento 1
+1317,Centro Volcánico Suches - Evento 2
+1318,Centro Volcánico Suches - Evento 3
+1319,Centro Volcánico Sulcachuca - Evento 1
+1320,Centro Volcánico Sulcachuca - Evento 2
+1321,Centro Volcánico Sulcachuca - Evento 3
+1322,Centro Volcánico Sulcachuca - Evento 4
+1323,Centro Volcánico Sulcachuca - Evento 5
+1324,Centro Volcánico Sun Jillpa - Evento 1
+1325,Centro Volcánico Sun Jillpa - Evento 2
+1326,Centro Volcánico Supumarca - Evento 1
+1327,Centro Volcánico Suratera - Evento 1
+1328,Centro Volcánico Suratera - Evento 2
+1329,Centro Volcánico Suratera - Evento 3
+1330,Centro Volcánico Suratera - Evento 4
+1331,Centro Volcánico Tablacocha - Evento 1
+1332,Centro Volcánico Tablacocha - Evento 2
+1333,Centro Volcánico Tacamani - Evento 1
+1334,Centro Volcánico Tacamani - Evento 2
+1335,Centro Volcánico Tacamani - Evento 3
+1336,Centro Volcánico Tacsana - Evento 1
+1337,Centro Volcánico Taipacahua - Evento 1
+1338,Centro Volcánico Taipacahua - Evento 2
+1339,Centro Volcánico Taipacahua - Evento 3
+1340,Centro Volcánico Taipacahua - Evento 4
+1341,Centro Volcánico Tantachual - Evento 1
+1342,Centro Volcánico Tantachual - Evento 2
+1343,Centro Volcánico Tantachual - Evento 3
+1344,Centro Volcánico Tantachual - Evento 4
+1345,Centro Volcánico Tantachual - Evento 5
+1346,Centro Volcánico Tantachual - Evento 6
+1347,Centro Volcánico Tantachual - Evento 7
+1348,Centro Volcánico Tantachual - Evento 8
+1349,Centro Volcánico Tantachual - Evento 9
+1350,Centro Volcánico Tantahuatay
+1351,Centro Volcánico Tantahuatay - Evento 1
+1352,Centro Volcánico Tantahuatay - Evento 2
+1353,Centro Volcánico Tantahuatay - Evento 3
+1354,Centro Volcánico Tararunqui - Evento 1
+1355,Centro Volcánico Tararunqui - Evento 2
+1356,Centro Volcánico Tararunqui - Evento 3
+1357,Centro Volcánico Tararunqui - Evento 4
+1358,Centro Volcánico Tauromarca - Evento 1
+1359,Centro Volcánico Tauromarca - Evento 2
+1360,Centro Volcánico Tauromarca - Evento 3
+1361,Centro Volcánico Tayacucho - Evento 1
+1362,Centro Volcánico Tayacucho - Evento 2
+1363,Centro Volcánico Tayacucho - Evento 4
+1364,Centro Volcánico Taymallani - Evento 1
+1365,Centro Volcánico Taymallani - Evento 2
+1366,Centro Volcánico Taymallani - Evento 3
+1367,Centro Volcánico Ticapallana
+1368,Centro Volcánico Tirane
+1369,Centro Volcánico Tirane - Evento 1
+1370,Centro Volcánico Tirane - Evento 2
+1371,Centro Volcánico Tirane - Evento 3
+1372,Centro Volcánico Tirane - Evento 4
+1373,Centro Volcánico Tirane - Evento 5
+1374,Centro Volcánico Titiri - Evento 1
+1375,"Centro Volcánico Tomaromani, Capaca, Koverane"
+1376,"Centro Volcánico Tomaromani, Capaca, Koverane - Evento 1"
+1377,"Centro Volcánico Tomaromani, Capaca, Koverane - Evento 3"
+1378,"Centro Volcánico Tomaromani, Capaca, Koverane - Evento 4"
+1379,"Centro Volcánico Tomaromani, Capaca, Koverane - Evento 5"
+1380,Centro Volcánico Toritos - Evento 1
+1381,Centro Volcánico Toritos - Evento 2
+1382,Centro Volcánico Toritos - Evento 3
+1383,Centro Volcánico Totora II - Evento 1
+1384,Centro Volcánico Totora II - Evento 2
+1385,Centro Volcánico Totoral
+1386,Centro Volcánico Tres Cruces - Evento 1
+1387,Centro Volcánico Tusuna - Evento 1
+1388,Centro Volcánico Tusuna - Evento 2
+1389,Centro volcánico Tutayac Orcco
+1390,Centro Volcánico Tutayac Orcco - Evento 1
+1391,Centro Volcánico Tutupaca - Evento 1
+1392,Centro Volcánico Tutupaca - Evento 2
+1393,Centro Volcánico Tutupaca - Evento 3
+1394,Centro Volcánico Tutupaca - Evento 4
+1395,Centro Volcánico Tutupaca - Evento 5
+1396,Centro Volcánico Tutupaca - Evento 7
+1397,Centro Volcánico Ubinas -  Evento 1
+1398,Centro Volcánico Ubinas -  Evento 2
+1399,Centro Volcánico Ubinas -  Evento 3
+1400,Centro Volcánico Ulto Cruz Ticas - Evento 1
+1401,Centro Volcánico Ulto Cruz Ticas - Evento 2
+1402,Centro Volcánico Ulto Cruz Ticas - Evento 3
+1403,Centro volcánico Umayo
+1404,Centro volcánico Uromalqui - Evento 1
+1405,Centro Volcánico Vilachuncara - Evento 1
+1406,Centro Volcánico Vilachuncara - Evento 2
+1407,"Centro Volcánico Vilantani, Surichico - Evento 1"
+1408,"Centro Volcánico Vilantani, Surichico - Evento 2"
+1409,Centro Volcánico Vilcarani - Evento 1
+1410,Centro Volcánico Vilcarani - Evento 2
+1411,Centro Volcánico Vilcarani - Evento 3
+1412,Centro Volcánico Vilcarani - Evento 4
+1413,Centro Volcánico Vizcacha - Evento 1
+1414,Centro Volcánico Yacotingo
+1415,Centro Volcánico Yanacancha
+1416,Centro Volcánico Yanacancha - Evento 1
+1417,Centro Volcánico Yanacancha - Evento 2
+1418,Centro Volcánico Yanacancha - Evento 3
+1419,Centro Volcánico Yanacocha
+1420,Centro Volcánico Yanacocha - Etapa Volcánica San José - Evento 2
+1421,Centro Volcánico Yanacocha - Etapa Volcánica San José - Evento 3
+1422,Centro Volcánico Yanacocha - Etapa Volcánica San José - Evento 4
+1423,Centro Volcánico Yanacocha - Evento 1
+1424,Centro Volcánico Yanacocha - Evento 2
+1425,Centro Volcánico Yanacocha - Evento 3
+1426,Centro Volcánico Yanacocha - Evento 4
+1427,Centro Volcánico Yanacocha Sur
+1428,Centro Volcánico Yanahorco - Evento 1
+1429,Centro Volcánico Yanahorco - Evento 2
+1430,Centro Volcánico Yanahorco - Evento 3
+1431,Centro Volcánico Yanahorco - Evento 4
+1432,Centro Volcánico Yanahuanga
+1433,Centro Volcánico Yanahuanga - Evento 1
+1434,Centro Volcánico Yanahuara - Evento 3
+1435,Centro Volcanico Yanamachay
+1436,Centro Volcánico Yanamachay
+1437,Centro Volcánico Yanamachay - Evento 1
+1438,Centro Volcánico Yanamachay - Evento 2
+1439,Centro Volcánico Yancore - Evento 1
+1440,Centro Volcánico Yancore - Evento 2
+1441,Centro Volcánico Yancore - Evento 3
+1442,Centro Volcánico Yatahual - Evento 1
+1443,Centro Volcánico Yaurina - Evento 1
+1444,Centro Volcánico Yaurina - Evento 2
+1445,Centro Volcánico Yucamane-Yucamane Chico - Evento 1
+1446,Centro Volcánico Yucamane-Yucamane Chico - Evento 2
+1447,Centro Volcánico Yucamane-Yucamane Chico - Evento 3
+1448,Centro Volcánico Yucamane-Yucamane Chico - Evento 4
+1449,Centro Volcánico Yucamane-Yucamane Chico - Evento 5
+1450,Centro Volcánico Yucamane-Yucamane Chico - Evento 6
+1451,Centro Volcánico Yucamane-Yucamane Chico - Evento 7
+1452,"Centro volcánico Yucamane, Yucamane Chico - andesita afanítica"
+1453,"Centro volcánico Yucamane, Yucamane Chico - andesita basáltica"
+1454,"Centro volcánico Yucamane, Yucamane Chico - andesita porfídica"
+1455,"Centro volcánico Yucamane, Yucamane Chico - dacita porfídica"
+1456,"Centro volcánico Yucamane, Yucamane Chico - toba riodacítica"
+1457,"Centro volcánico Yucamane, Yucamane Chico - traquiandesita porfídica"
+1458,Centro Volcánico Yulaca - Evento 1
+1459,Centro Volcánico Yulaca - Evento 2
+1460,Centro Volcánico Yulaca - Evento 4
+1461,Centro Volcánico Yulaca - Evento 5
+1462,Chinchon - dacitas
+1463,"Choquechambe - diorita, granodiorita"
+1464,Choquetacarpo - granito
+1465,Choquezafra - granito
+1466,Chucca - pórfido riodacítico
+1467,Chuchurumi - granito
+1468,Chucuito Taparayo - Monzodiorita
+1469,Chupa - tonalita porfídica
+1470,"Cirialo Concevidayoc Alto Kiteni - granito, granodiorita"
+1471,Ciudad
+1472,Coasa - granodiorita
+1473,Cocane - pórfido
+1474,Cocas - andesita porfirítica
+1475,Colca - granito
+1476,Colcabamba - tonalita
+1477,Colque - granodiorita
+1478,Complejo Atarani - andesita porfídica
+1479,Complejo Basal de la Costa
+1480,"Complejo Basal de la Costa - Atico, Ocoña - esquisto"
+1481,"Complejo Basal de la Costa - Atico, Ocoña - migmatita"
+1482,Complejo Basal de la Costa - gneis
+1483,Complejo Basal de la Costa - gneis migmatítico
+1484,"Complejo Basal de la Costa - gneis, esquisto"
+1485,"Complejo Basal de la Costa - Mollendo - gneis, granulita"
+1486,"Complejo Basal de la Costa - pizarra, esquisto"
+1487,Complejo Bella Unión
+1488,Complejo de domos Pariamachay - Andesita
+1489,Complejo de domos Pariamachay - Dacita
+1490,Complejo de domos Pariamachay - Diorita
+1491,Complejo de domos Pariamachay - Riodacita
+1492,Complejo de Olmos
+1493,Complejo de Olmos - Unidad Chimara
+1494,Complejo de Olmos - Unidad La Zunga
+1495,Complejo de Olmos - Unidad Salas
+1496,Complejo de Olmos - Unidad Salinas
+1497,Complejo del Mantaro
+1498,Complejo del Marañón
+1499,Complejo del Marañón - anfibolitas
+1500,Complejo del Marañón - esquisto
+1501,Complejo del Marañón - esquisto verdes
+1502,"Complejo del Marañón - esquisto, gneis"
+1503,"Complejo del Marañón - Esquisto, gneis"
+1504,Complejo del Marañón - esquistos verdes
+1505,"Complejo del Marañón - filita, esquisto"
+1506,"Complejo del Marañón - filitas, esquistos"
+1507,Complejo del Marañón - gneis
+1508,"Complejo del Marañón - gneis, esquisto"
+1509,"Complejo del Marañón - gneis, esquisto, metasedimentario"
+1510,"Complejo del Marañón - gneis, esquistos"
+1511,"Complejo del Marañón - gneis, esquistos, metasedimentario"
+1512,Complejo del Marañón - metasedimentitas
+1513,"Complejo del Marañón - pizarra, cuarcita, filita"
+1514,"Complejo del Marañón gneis, esquisto"
+1515,Complejo Esquivel
+1516,Complejo Fisural Barroso - Evento 1
+1517,Complejo Fisural Barroso - Evento 2
+1518,Complejo Fisural Barroso - Evento 3
+1519,Complejo Fisural Barroso - Evento 4
+1520,Complejo Iscabaaba - micaesquistos
+1521,Complejo Iscaybamba
+1522,"Complejo Iscaybamba - metavolcánica, anfibolita, granito, gneis"
+1523,"Complejo Iscaybamba - micaesquisto, cuarcita"
+1524,Complejo Magmático Cerro Negro
+1525,Complejo Marañón
+1526,Complejo Matapalo
+1527,Complejo metamórfico
+1528,Complejo Metamórfico Charpa
+1529,Complejo Metamórfico de la Cordillera Oriental
+1530,Complejo metamórfico del Marañón
+1531,Complejo Metamórfico del Sira
+1532,Complejo Metamórfico Huaytapallana
+1533,Complejo Metamórfico Marañón
+1534,Complejo Metamórfico Ollantaytambo
+1535,Complejo Metamórfico Pichari - Cielo Punku
+1536,"Complejo metamórfico Pichari cielo Punku - granulitas, gneis"
+1537,Complejo Metamórfico Sitabamba
+1538,Complejo Metamórfico Yanahuanca
+1539,Complejo Olmos
+1540,Complejo Querobamba
+1541,Complejo Querobamba - diorita
+1542,Complejo Querobamba - granito
+1543,Complejo Querobamba - monzogranito
+1544,Complejo Santa Rita
+1545,Complejo Volcán Pichu Pichu - Evento 1
+1546,Complejo Volcán Pichu Pichu - Evento 2
+1547,Complejo Volcán Pichu Pichu - Evento 3
+1548,Complejo Volcán Pichu Pichu - Evento 4
+1549,Complejo Volcán Pichu Pichu - Evento 5
+1550,Complejo Volcán Pichu Pichu - Evento 6
+1551,Complejo volcánico Aldabas Condori - Centro volcánico Aldabas - Evento 1
+1552,Complejo volcánico Aldabas Condori - Centro volcánico Aldabas - Evento 2
+1553,Complejo volcánico Aldabas Condori - Centro volcánico Aldabas - Evento 3
+1554,Complejo volcánico Aldabas Condori - Centro volcánico Aldabas - Evento 4
+1555,Complejo volcánico Aldabas Condori - Centro volcánico Aldabas - Evento 5
+1556,Complejo volcánico Aldabas Condori - Centro volcánico Condori - Evento 1
+1557,Complejo volcánico Aldabas Condori - Centro volcánico Condori - Evento 2
+1558,Complejo volcánico Aldabas Condori - Centro volcánico Condori - Evento 3
+1559,Complejo volcánico Aldabas Condori - Centro volcánico Condori - Evento 4
+1560,Complejo volcánico Aldabas Condori - Centro volcánico Condori - Evento 5
+1561,Complejo Volcánico Ampato
+1562,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Ampato - Evento 1a
+1563,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Ampato - Evento 1b
+1564,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Ampato - Evento 1c
+1565,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Ampato - Evento 2b
+1566,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Ampato - Evento 2c
+1567,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Ampato - Evento 2d
+1568,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Ampato - Evento 3a
+1569,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Ampato - Evento 3b
+1570,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Ampato - Evento 3c
+1571,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Sabancaya
+1572,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Sabancaya - Evento 1
+1573,Complejo Volcánico Ampato Sabancaya - Centro Volcánico Sabancaya - Evento 3a
+1574,Complejo Volcánico Ananta
+1575,Complejo Volcánico Ananta - Evento 1
+1576,Complejo Volcánico Ananta - Evento 10
+1577,Complejo Volcánico Ananta - Evento 2
+1578,Complejo Volcánico Ananta - Evento 3
+1579,Complejo Volcánico Ananta - Evento 4
+1580,Complejo Volcánico Ananta - Evento 5
+1581,Complejo Volcánico Ananta - Evento 6
+1582,Complejo Volcánico Ananta - Evento 7
+1583,Complejo Volcánico Ananta - Evento 8
+1584,Complejo Volcánico Ananta - Evento 9
+1585,Complejo Volcánico Andahua
+1586,Complejo Volcánico Andahua - Evento 1
+1587,Complejo Volcánico Andahua - Evento 2
+1588,Complejo volcánico Antapuna - Evento 1
+1589,Complejo volcánico Antapuna - Evento 2
+1590,Complejo Volcánico Auquihuato - Evento 1
+1591,Complejo Volcánico Auquihuato - Evento 2
+1592,Complejo Volcánico Auquihuato - Evento 3
+1593,Complejo Volcánico Bongarame - Pucasaya - Evento 1
+1594,Complejo Volcánico Bongarame - Pucasaya - Evento 2
+1595,Complejo Volcánico Bongarame - Pucasaya - Evento 3
+1596,Complejo Volcánico Bongarame - Pucasaya - Evento 4
+1597,"Complejo volcánico Bujama, Totoritas"
+1598,Complejo Volcánico Carabaya - Evento 1
+1599,Complejo Volcánico Carabaya - Evento 2
+1600,Complejo Volcánico Carabaya - Evento 3
+1601,Complejo Volcánico Carabaya - Evento 4
+1602,"Complejo Volcánico Cerro Blanco, Cerro Saitaoco - Evento 1"
+1603,"Complejo Volcánico Cerro Blanco, Cerro Saitaoco - Evento 2"
+1604,"Complejo Volcánico Cerro Blanco, Cerro Saitaoco - Evento 3"
+1605,Complejo volcánico Chucapacca
+1606,Complejo volcánico Coropuna-Centro Volcánico escalera - evento 1
+1607,Complejo volcánico Coropuna-Centro Volcánico Paiche - evento 1
+1608,Complejo volcánico Coropuna-Centro Volcánico Yanaranra - evento 2
+1609,Complejo Volcánico Cotañane - Evento 1
+1610,Complejo Volcánico Cotañane - Evento 2
+1611,Complejo Volcánico Cotañane - Evento 3
+1612,"Complejo Volcánico de Bujama,Totorita"
+1613,Complejo Volcánico Encajine
+1614,Complejo Volcánico Huancara - Evento 1
+1615,Complejo Volcánico Huancara - Evento 2
+1616,Complejo Volcánico Huancara - Evento 3
+1617,Complejo Volcánico Huancara - Evento 4
+1618,Complejo Volcánico Huancara - Evento 5
+1619,Complejo Volcánico Jollo Jello - Evento 1
+1620,Complejo Volcánico Jollo Jello - Evento 2
+1621,Complejo Volcánico Jollo Jello - Evento 3
+1622,Complejo Volcánico Maralinane - Evento 1
+1623,Complejo Volcánico Maralinane - Evento 2
+1624,Complejo Volcánico Maralinane - Evento 3
+1625,Complejo Volcánico Maralinane - Evento 4
+1626,Complejo Volcánico Maralinane - Evento 5
+1627,Complejo Volcánico Nasca
+1628,Complejo Volcánico Oquelaca - Evento 1
+1629,Complejo Volcánico Oquelaca - Evento 2
+1630,Complejo Volcánico Oquelaca - Evento 3
+1631,Complejo Volcánico Peste Jejeresca - Evento 1
+1632,Complejo Volcánico Peste Jejeresca - Evento 2
+1633,Complejo Volcánico Pinquillo-Liviña - Evento 1
+1634,Complejo Volcánico Puca Machay
+1635,Complejo Volcánico Sulluma - Evento 1
+1636,Complejo Volcánico Sulluma - Evento 10
+1637,Complejo Volcánico Sulluma - Evento 11
+1638,Complejo Volcánico Sulluma - Evento 2
+1639,Complejo Volcánico Sulluma - Evento 3
+1640,Complejo Volcánico Sulluma - Evento 4
+1641,Complejo Volcánico Sulluma - Evento 5
+1642,Complejo Volcánico Sulluma - Evento 6
+1643,Complejo Volcánico Sulluma - Evento 7
+1644,Complejo Volcánico Sulluma - Evento 8
+1645,Complejo Volcánico Sulluma - Evento 9
+1646,Complejo Volcánico Tacume-Huayatambo - Evento 1
+1647,Complejo Volcánico Tacume-Huayatambo - Evento 2
+1648,Complejo Volcánico Tacume-Huayatambo - Evento 3
+1649,Complejo Volcánico Ticsani
+1650,Complejo Volcánico Ticsani - Evento 1
+1651,Complejo Volcánico Ticsani - Evento 10
+1652,Complejo Volcánico Ticsani - Evento 3
+1653,Complejo Volcánico Ticsani - Evento 4
+1654,Complejo Volcánico Ticsani - Evento 5
+1655,Complejo Volcánico Ticsani - Evento 6
+1656,Complejo Volcánico Ticsani - Evento 7
+1657,Complejo Volcánico Ticsani - Evento 8
+1658,Complejo Volcánico Ticsani - Evento 9
+1659,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Rushos - Evento 1
+1660,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Rushos - Evento 2
+1661,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Rushos - Evento 3
+1662,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Rushos - Evento 4
+1663,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Rushos - Evento 5
+1664,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Urpillao - Evento 1
+1665,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Urpillao - Evento 2
+1666,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Urpillao - Evento 3
+1667,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Urpillao - Evento 4
+1668,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Urpillao - Evento 5
+1669,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Urpillao - Evento 6
+1670,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Urpillao - Evento 7
+1671,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Urpillao - Evento 8
+1672,Complejo Volcánico Urpillao - Rushos - Centro Volcánico Urpillao - Evento 9
+1673,Complejo Volcánico Virotón
+1674,Complejo Volcánico Viscachas
+1675,Complejo Volcánico Yanacocha - Secuencia Volcánica San José - Evento 1
+1676,Complejo Xingu
+1677,Conejaja - pórfido
+1678,Conturene - granito
+1679,Coy Coy - monzogranito
+1680,Cruz Punta - pórfido
+1681,Cuarhuacayán - pórfido cuarcífero
+1682,Cuarzodiorita
+1683,Cuarzotraquita
+1684,Dacita
+1685,Dacita porfídica
+1686,"Dacita, riodacita"
+1687,"Dacita, riolita"
+1688,Deposito aluvial
+1689,Depósito aluvial
+1690,Depósito Aluvial
+1691,Depósito aluvial 1
+1692,Depósito aluvial 2
+1693,"Depósito aluvial, fluvial"
+1694,"Depósito aluvial, lacustrino"
+1695,Depósito antropogénico
+1696,Depósito antropógeno
+1697,Depósito biogénico
+1698,Depósito coluvial
+1699,Depósito coluvial - aluvial
+1700,Depósito coluvial - deluvial
+1701,"Depósito coluvial, aluvial"
+1702,Depósito eólico
+1703,Depósito fluvial
+1704,Depósito Fluvial
+1705,Depósito glaciar
+1706,Depósito Glaciar
+1707,"Depósito glaciar, fluvial"
+1708,"Depósito glaciar,fluvial"
+1709,Depósito lacustrino
+1710,Depósito marino
+1711,Depósito proluvial
+1712,Depósito químico
+1713,Depósito químico - fuente termal
+1714,Depósito químico - sínter
+1715,Depósito químico - travertino
+1716,Depósito químico - yeso
+1717,Depósito residual
+1718,Depósito volcánico
+1719,"Depósito volcánico - bloques, ceniza"
+1720,Depósito volcánico - ceniza
+1721,Depósito volcánico - lahar
+1722,Depósito volcánico - lava andesítica basáltica
+1723,Depósito volcánico - piroclastos
+1724,Diabasa
+1725,Diorita
+1726,"Diorita cuarcífera, tonalita"
+1727,Diorita Solitaria
+1728,"Diorita, andesita"
+1729,"Diorita, granodiorita"
+1730,"Diorita, Granodiorita"
+1731,"Diorita, tonalita"
+1732,Dique
+1733,Dique andesítico
+1734,Dique andesítico basáltico
+1735,Dique argilizado
+1736,Dique basáltico
+1737,Dique Caolinizado
+1738,Dique metavolcánico
+1739,"Dique, sill"
+1740,Dolerita
+1741,Domo - pórfido andesítico
+1742,Domo - pórfido riolítico
+1743,Domo - sal
+1744,Domo - yeso
+1745,Domo andesítico
+1746,Domo Apaiñuño - lava andesítica basáltica
+1747,Domo Auquihuato - andesita
+1748,Domo Carhuarazo - Domo andesítico
+1749,Domo Cerro Kere - Riolita
+1750,Domo dacítico
+1751,Domo de sal
+1752,Domo de Yeso
+1753,Domo Evaporítico
+1754,Domo Julcani - andesita
+1755,Domo lava
+1756,Domo Paucarani - andesita basáltica
+1757,Domo Paucarani - andesita porfídica
+1758,Domo Paucarani - dacita gris clara
+1759,Domo Purupuruni - andesita porfídica
+1760,Domo Purupuruni - dacita afanítica
+1761,Domo Purupuruni - toba dacítica rosada
+1762,Domo riolítico
+1763,Domo Sara Sara - toba
+1764,Domo Sara Sara - traquiandesita
+1765,Domo Sara Sara - traquidacita
+1766,Domo Sara Sara - traquidacita porfídica
+1767,Domo Uchco - lava andesita basáltica
+1768,Domo Volcánico Cochaquillo
+1769,Domo Volcánico Lucuma
+1770,Domo Volcánico Marcapunta
+1771,Domo volcánico Santa Bárbara de Carhuacayan
+1772,Dunita
+1773,Esquisto
+1774,Esteves - granodiorita
+1775,Estrato Volcan Firura
+1776,Estrato volcán Ubinas - andesita porfídica reciente
+1777,Etapa Volcánica Chancay - Evento 1
+1778,Etapa Volcánica Chancay - Evento 2
+1779,Etapa Volcánica Chancay - Evento 3
+1780,Etapa Volcánica Chancay - Evento 4
+1781,Etapa Volcánica Chilete - Evento 1
+1782,Etapa Volcánica Chilete - Evento 2
+1783,Etapa Volcánica Chuquimango
+1784,Etapa Volcánica de Huangas - Evento 1
+1785,Etapa Volcánica Frailones - Evento 1
+1786,Etapa Volcánica Frailones - Evento 2
+1787,Etapa Volcánica Frailones - Evento 3
+1788,Etapa Volcánica Frailones - Evento 4
+1789,Etapa Volcánica Frailones - Evento 5
+1790,Etapa Volcánica Frailones - Evento 6
+1791,Etapa Volcánica La Chapa - Evento 1
+1792,Etapa Volcánica La Chapa - Evento 2
+1793,Etapa Volcánica Miracosta - Evento 1
+1794,Etapa Volcánica Miracosta - Evento 2
+1795,Etapa Volcánica Miracosta - Evento 3
+1796,Etapa Volcánica Miracosta - Evento 4
+1797,Etapa Volcánica Miraflores - Evento 1
+1798,Etapa Volcánica Miraflores - Evento 2
+1799,Etapa Volcánica San Pablo
+1800,Etapa Volcánica Santa Clara - Evento 1
+1801,Etapa Volcánica Santa Clara - Evento 2
+1802,Etapa Volcánica Talambo - Evento 1
+1803,Etapa Volcánica Talambo - Evento 2
+1804,Etapa Volcánica Talambo - Evento 2a
+1805,Etapa Volcánica Tual - Puruay - Evento 2
+1806,Etapa Volcánica Tual - Puruay - Evento 3
+1807,Evaporitas
+1808,"Filita, cuarcita"
+1809,Filones de lavas básicas
+1810,Fonolita
+1811,Formación  San Juan
+1812,Formación Acobamba
+1813,Formación Acobamba - Miembro inferior
+1814,Formación Acobamba - Miembro Inferior
+1815,Formación Acobamba - Miembro medio
+1816,Formación Acobamba - Miembro Medio
+1817,Formación Acobamba - Miembro superior
+1818,Formación Acobamba - Miembro Superior
+1819,Formación Acobamba - Unidad Rumihuasi - toba
+1820,Formación Agua Caliente
+1821,Formación Alpabamba
+1822,Formación Alpabamba - Miembro Atumpuco
+1823,Formación Alpabamba - Miembro Atumpuco - ignimbrita
+1824,Formación Alpabamba - Miembro Nahua Alta
+1825,Formación Alpabamba - Miembro Nahua Alta - toba lapilli
+1826,Formación Alpabamba - Miembro Pomacocha
+1827,Formación Alpabamba - Miembro Sombrero Orcco
+1828,Formación Alpabamba - Miembro Sombrero Orcco - ignimbrita
+1829,Formación Ananea
+1830,Formación Añashuayco
+1831,Formación Anchihuay
+1832,Formación Ancón
+1833,Formación Andamarca
+1834,Formación Andamarca - Chacoma - andesita porfídica
+1835,Formación Andamarca - Chibemi - andesita porfídica
+1836,Formación Andamarca - Miembro 3
+1837,Formación Aniso
+1838,Formación Aniso - Miembro 1
+1839,Formación Aniso - Miembro 2
+1840,Formación Aniso - Miembro 3
+1841,Formación Aniso - Miembro 4
+1842,Formación Anta
+1843,Formación Anta - Miembro 1
+1844,Formación Anta - Miembro 2
+1845,Formación Anta - Miembro 3
+1846,"Formación Apacheta - brecha, flujo andesítico"
+1847,Formación Apacheta - Evento 1
+1848,Formación Apacheta - Evento 2
+1849,Formación Apacheta - Evento inferior 1
+1850,Formación Apacheta - Evento inferior 2
+1851,Formación Apacheta - Evento inferior 3
+1852,Formación Apacheta - Evento superior 1
+1853,Formación Apacheta - Evento superior 2
+1854,Formación Apacheta - Evento superior 3
+1855,Formación Apacheta - Evento superior 4
+1856,Formación Apacheta - Evento superior 5
+1857,Formación Apacheta - Evento superior 6
+1858,Formación Apacheta - Evento superior 7
+1859,Formación Apacheta - Evento superior 8
+1860,Formación Apacheta - Evento superior 9
+1861,Formación Apacheta - Miembro inferior
+1862,Formación Apacheta - Miembro superior
+1863,Formación Arahuay
+1864,Formación Aramachay
+1865,Formación Arco Aja
+1866,Formación Arcurquina
+1867,Formación Arcurquina - Miembro Aguas Verdes
+1868,Formación Arcurquina - Miembro Arenizo
+1869,Formación Arcurquina - Miembro inferior
+1870,Formación Arcurquina - Miembro medio
+1871,Formación Arcurquina - Miembro Medio
+1872,Formación Arcurquina - Miembro superior
+1873,Formación Arcurquina-Miembro Aguas Verdes
+1874,"Formación Arcurquina, Murco"
+1875,Formación Arma
+1876,Formación Ashua
+1877,Formación Astobamba
+1878,Formación Astobamba - Centro volcánico Chuchullo - dacita
+1879,Formación Astobamba - Chuchullo - lava andesítica porfídica
+1880,Formación Astobamba - Chuchullo - toba soldada vitrocristalina
+1881,Formación Astobamba - Palmatocco - lava andesítica basáltica
+1882,Formación Astobamba - Tacsana - lava andesítica porfídica
+1883,Formación Atcas
+1884,Formación Atocongo
+1885,Formación Atunsulla
+1886,Formación Auquivilca
+1887,Formación Auquivilca - Miembro 1
+1888,Formación Auquivilca - Miembro 2
+1889,Formación Auquivilca - Miembro 3
+1890,Formación Auzangate
+1891,Formación Ayabacas
+1892,Formación Ayacucho - Miembro inferior
+1893,Formación Ayacucho - Miembro Inferior
+1894,Formación Ayacucho - Miembro Inferior 1
+1895,Formación Ayacucho - Miembro Inferior 2
+1896,Formación Ayacucho - Miembro Inferior 3
+1897,Formación Ayacucho - Miembro Inferior 4
+1898,Formación Ayacucho - Miembro Inferior 5
+1899,Formación Ayacucho - Miembro superior
+1900,Formación Ayacucho - Miembro Superior
+1901,Formación Azángaro
+1902,Formación Bellavista
+1903,"Formación Bellavista, Río Blanco"
+1904,Formación Bisbicha
+1905,Formación Breas
+1906,Formación Caballas
+1907,Formación Cachíos
+1908,Formación Cachiyacu
+1909,Formación Cachiyacu - Huchpayacu
+1910,"Formación Cachiyacu, Huchpayacu"
+1911,"Formación Cachiyacu, Huchpayacu, Casa Blanca"
+1912,"Formación Cachiyacu, Huchpayacu, Casa Blanca, Yahuarango"
+1913,"Formación Cachiyacu, Ushpayacu, Yahuarango"
+1914,Formación Cajabamba
+1915,Formación Cajamarca
+1916,Formación Cajaruro
+1917,Formación Calapuja
+1918,Formación Calasaya
+1919,Formación Calera
+1920,Formación Calera - Miembro inferior
+1921,Formación Calera - Miembro Inferior
+1922,Formación Calera - Miembro medio
+1923,Formación Calera - Miembro superior
+1924,Formación Calera - Miembro Superior
+1925,Formación Camaná
+1926,Formación Camaná - Miembro Inferior
+1927,Formación Camaná - Miembro Superior
+1928,Formación Cancao
+1929,Formación Cancosane
+1930,Formación Cañete
+1931,Formación Cañete - Miembro inferior
+1932,Formación Cañete - Miembro Inferior
+1933,Formación Cañete - Miembro superior
+1934,Formación Cañete - Miembro Superior
+1935,Formación Canta
+1936,Formación Capillune
+1937,Formación Capillune - Miembro superior
+1938,Formación Capillune - Miembro Superior
+1939,Formación Cardalitos
+1940,Formación Carhuaz
+1941,Formación Carlos Francisco
+1942,Formación Carlos Francisco - Miembro Tablachaca
+1943,Formación Carlos Francisco - Miembro Yauliyacu
+1944,Formación Carpitas
+1945,Formación Casa Blanca
+1946,Formación Casapalca
+1947,Formación Casapalca - Miembro El  Carmen
+1948,Formación Casapalca - Miembro inferior
+1949,Formación Casapalca - Miembro Inferior
+1950,Formación Casapalca - Miembro Llamellín
+1951,Formación Casapalca - Miembro medio
+1952,Formación Casapalca - Miembro Medio
+1953,Formación Casapalca - Miembro superior
+1954,Formación Casapalca - Miembro Superior
+1955,Formación Castrovirreyna
+1956,Formación Castrovirreyna - andesita porfídica
+1957,Formación Castrovirreyna - brecha
+1958,Formación Castrovirreyna - Miembro inferior
+1959,Formación Castrovirreyna - Miembro Inferior
+1960,Formación Castrovirreyna - Miembro Medio
+1961,Formación Castrovirreyna - Miembro superior
+1962,Formación Castrovirreyna - Miembro Superior
+1963,Formación Castrovirreyna - toba de cristales
+1964,Formación Caudalosa
+1965,Formación Caudalosa -  Llihua - andesita vesicular
+1966,Formación Caudalosa -  Llihua - toba lítica
+1967,Formación Caudalosa -  Llihua - traquiandesita
+1968,Formación Caudalosa - Condorillo
+1969,"Formación Caudalosa - Condorillo - andesita, riodacita"
+1970,Formación Caudalosa - Cunya Pinta - andesita afanítica
+1971,Formación Caudalosa - Cunya Pinta - andesita porfídica
+1972,Formación Caudalosa - Cusicancha - toba
+1973,Formación Caudalosa - Dacita porfídica
+1974,Formación Caudalosa - Iscu Orcco
+1975,Formación Caudalosa - Miembro inferior
+1976,Formación Caudalosa - Miembro Inferior
+1977,Formación Caudalosa - Miembro medio
+1978,Formación Caudalosa - Miembro Medio
+1979,Formación Caudalosa - Miembro superior
+1980,Formación Caudalosa - Miembro Superior
+1981,Formación Caudalosa - Secuencia 1
+1982,Formación Caudalosa - Tablacocha - andesita afanítica
+1983,Formación Caudalosa - Tablacocha - andesita porfídica
+1984,Formación Caudalosa - Tablacocha - riolita
+1985,Formación Caudalosa-Secuencia 2
+1986,Formación Caudalosa-Secuencia 3
+1987,Formación Caudalosa-Secuencia 4
+1988,Formación Cay Cay
+1989,Formación Cayconi
+1990,Formación Cayconi - Miembro Inferior
+1991,Formación Cayconi - Miembro Superior
+1992,Formación Ccatca
+1993,Formación Celendín
+1994,Formación Cercapuquio
+1995,Formación Cercapuquio - Miembro Inferior
+1996,Formación Cercapuquio - Miembro Medio
+1997,Formación Cercapuquio - Miembro Superior
+1998,Formación Cerro Blanco
+1999,Formación Cerro Negro
+2000,Formación Cerro Prieto
+2001,Formación Chacra
+2002,Formación Chagrapi
+2003,Formación Chagrapi - Miembro inferior
+2004,Formación Chagrapi - Miembro superior
+2005,Formación Chahuarma
+2006,Formación Chaleco de Paño
+2007,Formación Chambará
+2008,Formación Chambará - Miembro inferior
+2009,Formación Chambará - Miembro superior
+2010,Formación Chambira
+2011,Formación Chambira Inferior
+2012,Formación Chambira Superior
+2013,Formación Changuillo
+2014,Formación Chaucha
+2015,Formación Chaucha - Miembro Inferior
+2016,Formación Chaucha - Miembro Superior
+2017,Formación Chaupi Orcco - andesita
+2018,Formación Chaupi Orcco - conglomerado
+2019,Formación Chaupi Orcco - riolita
+2020,Formación Chayllacatana
+2021,Formación Chicama
+2022,Formación Chicama - Miembro Churín
+2023,Formación Chicama - Miembro Inferior
+2024,Formación Chicama - Miembro Superior
+2025,Formación Chichanaco
+2026,Formación Chignia
+2027,Formación Chihuata
+2028,Formación Chilca
+2029,Formación Chilcane
+2030,Formación Chilcatay
+2031,Formación Chilete
+2032,Formación Chimú
+2033,Formación Chincheros
+2034,Formación Chiquerío
+2035,Formación Chira
+2036,Formación Chira - Miembro Inferior
+2037,Formación Chira-Miembro Superior
+2038,"Formación Chira, Verdún"
+2039,Formación Choccehuacgra - domo andesítico
+2040,Formación Choccehuacgra - lava andesítica
+2041,Formación Chocolate
+2042,Formación Chonta
+2043,Formación Chonta - Miembro 1
+2044,Formación Chonta - Miembro 2
+2045,Formación Chonta - Miembro 3
+2046,Formación Chonta - Miembro Inferior
+2047,Formación Chonta - Miembro Medio
+2048,Formación Chonta - Miembro Superior
+2049,Formación Choros
+2050,Formación Chota
+2051,Formación Chota - Miembro Inferior
+2052,Formación Chota - Miembro Superior
+2053,Formación Chúlec
+2054,"Formación Chúlec, Pariatambo"
+2055,Formación Chunqui
+2056,Formación Chunumayo
+2057,Formación Cihuaya
+2058,Formación Clavel
+2059,Formación Cochapunta
+2060,Formación Colca
+2061,Formación Colorado Grande
+2062,Formación Colquerane
+2063,Formación Colqui
+2064,Formación Colqui - Miembro 1
+2065,Formación Colqui - Miembro 2
+2066,Formación Colqui - Miembro 3
+2067,Formación Condebamba
+2068,Formación Condorpuña
+2069,Formación Condorsinga
+2070,Formación Cone Hill
+2071,Formación Confital
+2072,Formación Congón
+2073,Formación Congón - Miembro Quisuar
+2074,Formación Congón - Miembro Shanán
+2075,Formación Contaya
+2076,Formación Copara
+2077,Formación Copuma
+2078,Formación Coracora
+2079,Formación Corontachaca
+2080,Formación Cotahuasi
+2081,Formación Crisnejas
+2082,Formación Cuico
+2083,Formación Cushabatay
+2084,Formación Echinocyamus
+2085,Formación Echinocyamus - Miembro Cabo Blanco
+2086,Formación El Milagro
+2087,Formación El Valle
+2088,Formación Encuentros
+2089,Formación Ene
+2090,Formación Ereo
+2091,Formación Esperanza
+2092,Formación Farrat
+2093,Formación Fortaleza
+2094,Formación Fundo el Triunfo
+2095,Formación Gigantal
+2096,Formación Gollgay
+2097,Formación Gramadal
+2098,Formación Guanero - Miembro superior
+2099,Formación Guaneros
+2100,Formación Guaneros - Miembro inferior
+2101,Formación Guaneros - Miembro Inferior
+2102,Formación Guaneros - Miembro Superior
+2103,Formación Heath
+2104,Formación Herradura
+2105,Formación Hornillos
+2106,Formación Hualhuani
+2107,Formación Huamancay
+2108,Formación Huamaní
+2109,Formación Huambo - Miembro inferior
+2110,Formación Huambo - Miembro Inferior
+2111,Formación Huambo - Miembro superior
+2112,Formación Huambo - Miembro Superior
+2113,Formación Huambos
+2114,Formación Huambutío
+2115,Formación Huanca
+2116,Formación Huanca - Miembro  Huasamayo
+2117,Formación Huanca - Miembro Huasamayo
+2118,Formación Huanca - Miembro Querque
+2119,Formación Huanca - Miembro Tarucani
+2120,Formación Huancané
+2121,Formación Huanchaco
+2122,Formación Huanta - Miembro Mayoc
+2123,Formación Huanta - Miembro Tancas
+2124,Formación Huanta - Miembro Tingrayoc
+2125,Formación Huánuco
+2126,Formación Huaracané
+2127,Formación Huarangal
+2128,Formación Huaranguillo
+2129,Formación Huaranguillo - Miembro inferior
+2130,Formación Huaranguillo - Miembro Inferior
+2131,Formación Huaranguillo - Miembro medio
+2132,Formación Huaranguillo - Miembro Medio
+2133,Formación Huaranguillo - Miembro superior
+2134,Formación Huaranguillo - Miembro Superior
+2135,Formación Huari
+2136,Formación Huarochirí
+2137,Formación Huarochirí - Miembro 1
+2138,Formación Huarochirí - Miembro 2
+2139,Formación Huarochirí - Miembro 3
+2140,Formación Huarón
+2141,Formación Huasimal
+2142,Formación Huaycha
+2143,Formación Huaylas
+2144,Formación Huaylillas
+2145,Formación Huaylillas - Miembro inferior
+2146,Formación Huaylillas - Miembro Inferior
+2147,Formación Huaylillas - Miembro Medio
+2148,Formación Huaylillas - Miembro superior
+2149,Formación Huaylillas - Miembro Superior
+2150,Formación Huayllay
+2151,Formación Huayllay - Miembro inferior
+2152,Formación Huayllay - Miembro superior
+2153,Formación Huaypira
+2154,Formación Huchpayacu
+2155,Formación Huilacollo
+2156,Formación Ichocollo
+2157,Formación Inca
+2158,"Formación Inca, Chúlec"
+2159,"Formación Inca, Chúlec, Pariatambo"
+2160,Formación Ingahuasi
+2161,Formación Ingahuasi - Miembro inferior
+2162,Formación Ingahuasi - Miembro superior
+2163,Formación Inguilpata
+2164,Formación Inogoya
+2165,Formación Iparo
+2166,Formación Ipururo
+2167,Formación Ipururo - Miembro inferior
+2168,Formación Ipururo - Miembro medio
+2169,Formación Ipururo - Miembro superior
+2170,Formacion Ipururo- Miembro Inferior
+2171,Formacion Ipururo- Miembro Medio
+2172,Formacion Ipururo- Miembro Superior
+2173,Formación Iquitos
+2174,Formación Jahuay Negro
+2175,Formación Jeroc
+2176,Formación Juanjui
+2177,Formación Julcani - Miembro inferior
+2178,Formación Julcani - Miembro Inferior
+2179,Formación Julcani - Miembro superior
+2180,Formación Julcani - Miembro Superior
+2181,Formación Jumasha
+2182,Formación Jumasha - Miembro 1
+2183,Formación Jumasha - Miembro 2
+2184,Formación Jumasha - Miembro 3
+2185,Formación Jumasha - Miembro 4
+2186,Formación Jumasha - Miembro Inferior
+2187,Formación Jumasha - Miembro medio
+2188,Formación Jumasha - Miembro superior
+2189,"Formación Jumasha, Celendín"
+2190,Formación Junco
+2191,Formación Kayra
+2192,Formación La Bocana
+2193,Formación La Bocana - Miembro Inferior
+2194,Formación La Bocana - Miembro Medio
+2195,Formación La Bocana - Miembro Superior
+2196,Formación la Leche
+2197,Formación La Leche
+2198,Formación La Merced
+2199,Formación La Mesa
+2200,Formación La Unión
+2201,Formación La Zorra
+2202,Formación La Zorra - Miembro Curacán
+2203,Formación La Zorra - Miembro Llacllapunta
+2204,Formación La Zorra - Miembro Los Morros
+2205,Formación Labra
+2206,Formación Labra - Miembro inferior
+2207,Formación Labra - Miembro superior
+2208,Formación Lacsacocha
+2209,Formación Lampa
+2210,Formación Lancones
+2211,Formación Lantorache
+2212,Formación Lavasén
+2213,Formación Livitaca
+2214,Formación Llallahui
+2215,Formación Llallahui - toba de cristales
+2216,Formación Llama
+2217,Formación Llama - Miembro Aragoto
+2218,Formación Llama - Miembro Espindola
+2219,Formación Llama - Miembro Sauce
+2220,Formación Llama-Miembro Sauce
+2221,Formación Lloclla
+2222,Formación Lloclla - Miembro 1
+2223,Formación Lloclla - Miembro 2
+2224,Formación Los Choros
+2225,Formación Lupín
+2226,Formación Lurín
+2227,Formación Macno
+2228,Formación Madre de Dios
+2229,Formación Madre de Dios - Miembro inferior
+2230,Formación Madre de Dios - Miembro Inferior
+2231,Formación Madre de Dios - Miembro superior
+2232,Formación Madre de Dios - Miembro Superior
+2233,Formación Mainique
+2234,Formación Mainique - Miembro Inferior
+2235,Formación Mainique - Miembro Medio
+2236,Formación Mainique - Miembro Superior
+2237,Formación Málaga - cuarcita
+2238,Formación Málaga - Miembro Inferior
+2239,Formación Málaga - Miembro Medio
+2240,Formación Málaga - Miembro Superior
+2241,"Formación Málaga - pizarra, esquisto"
+2242,Formación Máncora
+2243,Formación Manto
+2244,Formación Marañón
+2245,Formación Maras
+2246,Formación Marcavilca
+2247,Formación Marcona
+2248,Formación Matalaque
+2249,Formación Mataula
+2250,Formación Millo
+2251,Formación Millo - toba de ceniza
+2252,Formación Millotingo
+2253,Formación Millotingo - Miembro 1
+2254,Formación Millotingo - Miembro 2
+2255,Formación Millotingo - Miembro 3
+2256,"Formación Millotingo - Pariamachay - toba, andesita porfídica"
+2257,Formación Mirador
+2258,Formación Mirador - Miembro Superior
+2259,Formación Mirador-Miembro Inferior
+2260,Formación Miramar
+2261,Formación Molinoyoc
+2262,Formación Molla
+2263,Formación Montera
+2264,Formación Moquegua
+2265,Formación Moquegua - Miembro inferior
+2266,Formación Moquegua - Miembro Inferior
+2267,Formación Moquegua - Miembro superior
+2268,Formación Moquegua - Miembro Superior
+2269,Formación Muerto
+2270,"Formación Muerto, Pananga"
+2271,Formación Muñani
+2272,Formación Muñani - Miembro inferior
+2273,Formación Muñani - Miembro Inferior
+2274,Formación Muñani - Miembro Medio
+2275,Formación Muñani - Miembro superior
+2276,Formación Muñani - Miembro Superior
+2277,Formación Muni
+2278,Formación Muni - Miembro  Sipin
+2279,Formación Muni - Miembro Sipín
+2280,Formación Murco
+2281,"Formación Murco, Arcurquina"
+2282,Formación Namballe
+2283,Formación Namballe - Miembro La Balsa
+2284,Formación Namballe - Miembro Namballe
+2285,Formación Ñaupe
+2286,Formación Nauta - Miembro inferior
+2287,Formación Nauta - Miembro superior
+2288,Formación Nieva
+2289,Formación Numpatkay
+2290,Formación Ocoruro
+2291,Formación Ollantaytambo
+2292,Formación Omaconga
+2293,Formación Orcopampa
+2294,Formación Orcopampa - Formación Santa Rosa - Miembro inferior
+2295,Formación Orcopampa - Formación Santa Rosa - Miembro Superior
+2296,Formación Orcopampa - Miembro Aicaje
+2297,Formación Orcopampa - Miembro Manto
+2298,Formación Orcopampa - Miembro Santa Rosa
+2299,Formación Ostrea
+2300,Formación Oyón
+2301,Formación Oyón - Miembro inferior
+2302,Formación Oyón - Miembro superior
+2303,"Formación Oyón, Chimú"
+2304,Formación Oyotún
+2305,Formación Paccaritambo
+2306,Formación Pachachani
+2307,Formación Pachachuayjo
+2308,Formación Pachatusán
+2309,Formación Pacococha
+2310,Formación Pacococha - Miembro 1
+2311,Formación Pacococha - Miembro 2
+2312,Formación Palaus
+2313,Formación Palegreda
+2314,Formación Pampachacra
+2315,Formación Pampamarca
+2316,Formación Pamplona
+2317,Formación Pananga
+2318,Formación Para
+2319,Formación Paralaque
+2320,Formación Pararín
+2321,Formación Pariahuanca
+2322,"Formación Pariahuanca, Chúlec, Pariatambo"
+2323,Formación Pariatambo
+2324,"Formación Pariatambo, Jumasha"
+2325,Formación Pariñas
+2326,Formación Paruro - Miembro 1
+2327,Formación Paruro - Miembro 2
+2328,Formación Paucarbamba
+2329,Formación Pausa
+2330,Formación Pazul
+2331,Formación Pebas
+2332,Formación Pelado
+2333,Formación Pichu
+2334,Formación Pichu - Miembro Superior
+2335,Formación Picotani
+2336,Formación Pillone
+2337,Formación Pisac
+2338,Formación Pisco
+2339,Formación Pisquicocha
+2340,Formación Pocobamba
+2341,Formación Pocobamba - Miembro Cacuan
+2342,Formación Pocobamba - Miembro Quispe
+2343,Formación Pocobamba - Miembro Racracancha
+2344,Formación Pocobamba - Miembro Shuco
+2345,Formación Pocoto
+2346,Formación Porculla
+2347,Formación Porculla- Miembro inferior
+2348,Formación Porculla- Miembro superior
+2349,Formación Portachuelo
+2350,Formación Portuguesa
+2351,Formación Portuguesa - Miembro inferior
+2352,Formación Portuguesa - Miembro medio
+2353,Formación Portuguesa - Miembro superior
+2354,Formación Porvenir
+2355,Formación Pozo
+2356,Formacion Pozo - Miembro Inferior
+2357,Formacion Pozo - Miembro Superior
+2358,Formación Pucusana
+2359,Formación Puente
+2360,Formación Puente Inga
+2361,Formación Punacancha - Miembro 1
+2362,Formación Punacancha - Miembro 2
+2363,Formación Punacancha - Miembro 3
+2364,Formación Punacancha - Miembro 4
+2365,Formación Punta Gramadal
+2366,Formación Punta Moreno
+2367,Formación Puquín
+2368,Formación Puquio
+2369,Formación Puquio - Miembro 1
+2370,Formación Puquio - Miembro 2
+2371,Formación Puquio - Miembro 3
+2372,Formación Puquio - Miembro 4
+2373,Formación Purumpata
+2374,Formación Pusa
+2375,Formación Quechua Grande
+2376,Formación Quellaveco - Miembro Asana
+2377,Formación Quellaveco - Miembro Carpanito
+2378,Formación Quellaveco - Miembro Samanape
+2379,Formación Quellaveco - Miembro Tinajones
+2380,Formación Quellaveco - Miembro Yarito
+2381,Formación Quenamari - Miembro Chacacuniza
+2382,Formación Quenamari - Miembro Sapanuta
+2383,Formación Quenamari - Miembro Yapamayo
+2384,Formación Quenamari- Miembro Chacacuniza
+2385,Formación Quenamari- Miembro Sapanuta
+2386,Formación Quilcapunco
+2387,Formación Quillisani
+2388,Formación Quilmaná
+2389,Formación Quilque
+2390,"Formación Quilque, Chilca"
+2391,Formación Quinsachata
+2392,Formación Raya
+2393,Formación Redondos
+2394,Formación Río Blanco
+2395,Formación Río Grande
+2396,Formación Río Grande - Miembro 1
+2397,Formación Río Grande - Miembro 2
+2398,Formación Río Grande - Miembro 3
+2399,Formación Río Grande - Miembro 4
+2400,Formación Río Grande - Miembro 5
+2401,Formación Río Picha
+2402,Formación Río Seco
+2403,Formación Río Tambo
+2404,Formación Rumichaca - Miembro inferior
+2405,Formación Rumichaca - Miembro Inferior
+2406,Formación Rumichaca - Miembro medio
+2407,Formación Rumichaca - Miembro Medio
+2408,Formación Rumichaca - Miembro superior
+2409,Formación Rumichaca - Miembro Superior
+2410,Formación Rumicolca
+2411,Formación Rumihuasi
+2412,Formación Rumihuasi - Miembro 1
+2413,Formación Rumihuasi - Miembro 2
+2414,Formación Rumihuasi - Miembro 3
+2415,Formación Rumihuasi - toba
+2416,Formación Rumillana
+2417,Formación Sachabamba
+2418,Formación Sacrakure
+2419,Formación Sacsaquero
+2420,Formación Sacsaquero - Miembro 2
+2421,Formación Sacsaquero - Miembro 3
+2422,Formación Sacsaquero - Miembro 4
+2423,Formación Sacsaquero - Miembro inferior
+2424,Formación Sacsaquero - Miembro Inferior
+2425,Formación Sacsaquero - Miembro medio
+2426,Formación Sacsaquero - Miembro Medio
+2427,Formación Sacsaquero - Miembro superior
+2428,Formación Sacsaquero - Miembro Superior
+2429,Formación Salinas
+2430,Formación Sallalli
+2431,Formación Salto del Fraile
+2432,Formación Sambimera - Miembro Superior
+2433,Formación San Gabán
+2434,Formación San Juan
+2435,Formación San Juan - Miembro Huasipara
+2436,Formación San Juan - Miembro San Fernando
+2437,Formación San Lorenzo
+2438,Formación San Pablo
+2439,Formación San Pedro
+2440,Formación San Sebastián
+2441,Formación Sandia
+2442,Formación Sandia - Miembro Inferior
+2443,Formación Santa
+2444,Formación Santa Lucía
+2445,Formación Santa Rosa
+2446,"Formación Santa, Carhuaz"
+2447,Formación Santo Domingo
+2448,Formación Santo Domingo - Miembro Acobamba
+2449,Formación Santo Domingo - Miembro Andamarca
+2450,Formación Santo Domingo - Miembro Antacalla
+2451,Formación Santo Tomás - Andahua
+2452,Formación Saracocha
+2453,Formación Saramiriza
+2454,Formación Sarayaquillo
+2455,Formación Sarpane
+2456,Formación Sávila
+2457,Formación Sencca
+2458,Formación Seraj
+2459,Formación Shimbe
+2460,Formación Shimbe - Miembro inferior
+2461,Formación Shimbe-miembro superior
+2462,Formación Simbal
+2463,Formación Socosani
+2464,Formación Soncco
+2465,Formación Soncco - Miembro inferior
+2466,Formación Soncco - Miembro superior
+2467,Formación Sotillo
+2468,Formación Sotillo - Miembro Superior
+2469,Formación Tablazo Lobitos
+2470,Formación Tablazo Máncora
+2471,Formación Tablazo Talara
+2472,Formación Tablones
+2473,Formación Talara
+2474,Formación Talara Tablazo
+2475,Formación Tambo
+2476,Formación Tambo Grande
+2477,Formación Tamborapa
+2478,Formación Tantará
+2479,Formación Tantará - Miembro 1
+2480,Formación Tantará - Miembro 2
+2481,Formación Tantará - Miembro 3
+2482,Formación Tantará - Miembro 4
+2483,Formación Tantará - Miembro 5
+2484,Formación Tantará - Miembro inferior
+2485,Formación Tantará - Miembro Superior
+2486,Formación Tantará - Toba
+2487,Formación Taraco
+2488,Formación Tarata inferior
+2489,Formación Tarata Superior
+2490,Formación Ticllas
+2491,Formación Timpia
+2492,Formación Tinajani
+2493,Formación Tinajones
+2494,Formación Titán
+2495,Formación Tocache
+2496,Formación Tortuga
+2497,Formación Tres Lagunas
+2498,Formación Tulumayo
+2499,Formación Tumbes
+2500,Formación Ucamara
+2501,Formación Ucayali
+2502,Formación Uchiza
+2503,Formación Umachulco - Miembro Inferior
+2504,Formación Umachulco-Miembro Superior
+2505,Formación Ushno
+2506,Formación Ventanilla
+2507,Formación Verdún
+2508,Formación Verónica
+2509,Formación Vilquechico
+2510,Formación Vilquechico - Miembro inferior
+2511,Formación Vilquechico - Miembro Inferior
+2512,Formación Vilquechico - Miembro Patachi
+2513,Formación Vilquechico - Miembro superior
+2514,Formación Vilquechico - Miembro Superior
+2515,Formación Vilquechico - Miembro Surichata
+2516,Formación Vilquechico-Miembro Salinas
+2517,Formación Viluyo
+2518,Formación Vivian
+2519,Formación Vizcachas - toba brecha riolítica
+2520,Formación Yacotinco
+2521,Formación Yacotingo - Carhuarazo - toba de cristales
+2522,Formación Yacotingo - Yacotingo - lava andesítica
+2523,Formación Yahuarango
+2524,Formación Yahuarango - Miembro Inferior
+2525,Formación Yahuarango - Miembro Superior
+2526,Formación Yanacancha
+2527,Formación Yanama - Miembro 3
+2528,Formación Yangas
+2529,Formación Yantac
+2530,Formación Yapatera
+2531,Formación Yauca
+2532,Formación Yauli
+2533,Formación Yauri - Miembro inferior
+2534,Formación Yauri - Miembro medio
+2535,Formación Yauri - Miembro superior
+2536,Formación Yorongos
+2537,Formación Yumaque
+2538,Formación Yungay
+2539,Formación Yungay - Miembro Inferior
+2540,Formación Yungay - Miembro Superior
+2541,Formación Zapallal - Miembro inferior
+2542,Formación Zapallal - Miembro Inferior
+2543,Formación Zapallal - Miembro superior
+2544,Formación Zapallal - Miembro Superior
+2545,Formación Zorritos
+2546,Gabro
+2547,Gabro alterado
+2548,"Gabro, diorita"
+2549,"Gabro, dunita"
+2550,"Gabro, tonalita, granodiorita"
+2551,Gneis Pomabamba
+2552,"Gneis, esquisto"
+2553,Gorgor - tonalita
+2554,Gossan
+2555,Granito
+2556,Granito de Tambo - Jahuay
+2557,Granito gneisificado
+2558,Granito La Merced
+2559,"Granito, granodiorita"
+2560,"Granito, monzogranito"
+2561,"Granito, pórfido xenolítico"
+2562,"Granito, sienogranito"
+2563,"Granito, tonalita"
+2564,Granitoide de Pan de Azúcar - Granodioritas Tonalitas
+2565,Granitoides Paucartambo
+2566,Granodiorita
+2567,"Granodiorita, diorita"
+2568,"Granodiorita, monzogranito"
+2569,"Granodiorita, tonalia"
+2570,"Granodiorita, tonalita"
+2571,Grupo Ambo
+2572,Grupo Ambo - Formación Buena Vista
+2573,Grupo Ambo - Formación Lavasén
+2574,"Grupo Ambo - Formación Yanaj, Chunomaja"
+2575,Grupo Ambo - Miembro Inferior
+2576,Grupo Ambo - Miembro Medio
+2577,Grupo Ambo - Miembro Superior
+2578,Grupo Ambo - Miembro volcánico
+2579,Grupo Ambo - Miembro Volcánico
+2580,Grupo Ambo - Volcánico
+2581,Grupo Andagua
+2582,Grupo Andahua
+2583,Grupo Andahua - Miembro inferior
+2584,Grupo Barroso
+2585,Grupo Barroso -  depósito lava andesítica y ceniza
+2586,Grupo Barroso -  domo de lava dacítico
+2587,Grupo Barroso - aglomerado andesítico
+2588,Grupo Barroso - andesita
+2589,Grupo Barroso - andesita afanítica
+2590,Grupo Barroso - andesita basáltica
+2591,Grupo Barroso - andesita basáltica afanítica
+2592,Grupo Barroso - andesita microporfídica
+2593,Grupo Barroso - andesita porfídica
+2594,Grupo Barroso - andesita porfídica fluidal
+2595,Grupo Barroso - andesita porfídica masiva
+2596,Grupo Barroso - andesita porfídica seriada
+2597,Grupo Barroso - andesita porfídica vesicular
+2598,"Grupo Barroso - andesita porfídica, biotita"
+2599,"Grupo Barroso - andesita porfídica, brecha"
+2600,"Grupo Barroso - andesita porfídica, plagioclasa"
+2601,Grupo Barroso - andesita seriada
+2602,Grupo Barroso - andesita vesicular
+2603,"Grupo Barroso - andesita, dacita"
+2604,"Grupo Barroso - andesíta, dacita"
+2605,"Grupo Barroso - andesita, dacita porfídica"
+2606,"Grupo Barroso - andesita, dacita, toba"
+2607,Grupo Barroso - avalancha escombro
+2608,Grupo Barroso - brecha
+2609,Grupo Barroso - brecha andesítica
+2610,Grupo Barroso - brecha hidrotermal
+2611,Grupo Barroso - brecha monolítica
+2612,Grupo Barroso - brecha polimíctica
+2613,"Grupo Barroso - brecha, lava andesítica porfídica"
+2614,"Grupo Barroso - brecha, piroclastos"
+2615,Grupo Barroso - caída de tefras
+2616,Grupo Barroso - cuarzoandesita
+2617,Grupo Barroso - cuarzolatita
+2618,Grupo Barroso - dacita
+2619,Grupo Barroso - dacita con vesícula
+2620,Grupo Barroso - dacita porfídica
+2621,"Grupo Barroso - dacita, andesita"
+2622,Grupo Barroso - dique de latita porfídica
+2623,Grupo Barroso - domo
+2624,Grupo Barroso - domo andesita porfídica
+2625,Grupo Barroso - domo andesítico
+2626,Grupo Barroso - domo dacita porfídica
+2627,Grupo Barroso - domo dacítico
+2628,Grupo Barroso - domo de lava dacítico porfídico
+2629,Grupo Barroso - domo de traquiandesita
+2630,Grupo Barroso - Domo Parhuallune - andesita basáltica
+2631,Grupo Barroso - domo traquiandesítico
+2632,Grupo Barroso - domo traquita porfídica
+2633,Grupo Barroso - domo y flujo andesítico afanítico
+2634,Grupo Barroso - domo y flujo de riolita afanítica
+2635,Grupo Barroso - domo y flujo traquiandesítico porfídico
+2636,Grupo Barroso - Domos Enquellusa - riolita
+2637,Grupo Barroso - escorias
+2638,Grupo Barroso - Estrato volcán Ubinas - andesita porfídica antigua
+2639,Grupo Barroso - flujo andesítico
+2640,Grupo Barroso - flujo andesítico afanítico
+2641,Grupo Barroso - flujo andesítico porfídico
+2642,Grupo Barroso - flujo dacítico
+2643,Grupo Barroso - flujo dacítico porfídico
+2644,Grupo Barroso - flujo de bloques y ceniza
+2645,Grupo Barroso - flujo de escombros
+2646,Grupo Barroso - flujo de traquiandesita
+2647,Grupo Barroso - ignimbrita
+2648,Grupo Barroso - ignimbrita riolítica
+2649,"Grupo Barroso - ignimbrita, andesita basáltica"
+2650,Grupo Barroso - latita
+2651,"Grupo Barroso - latita, andesita basáltica"
+2652,Grupo Barroso - lava de andesita vesicular
+2653,Grupo Barroso - lava vesicular
+2654,Grupo Barroso - Miembro inferior
+2655,Grupo Barroso - Miembro inferior 1
+2656,Grupo Barroso - Miembro inferior 2
+2657,Grupo Barroso - Miembro superior
+2658,Grupo Barroso - Miembro superior 1
+2659,Grupo Barroso - Miembro superior 2
+2660,Grupo Barroso - piroclastos
+2661,Grupo Barroso - riodacita porfídica
+2662,Grupo Barroso - riolita porfídica
+2663,Grupo Barroso - toba
+2664,Grupo Barroso - toba andesítica
+2665,Grupo Barroso - toba brecha riolítica
+2666,Grupo Barroso - toba con fragmentos líticos
+2667,"Grupo Barroso - toba cristalolítica, ignimbrita, andesita"
+2668,Grupo Barroso - toba de brecha
+2669,Grupo Barroso - toba de cristales
+2670,Grupo Barroso - toba lapilli
+2671,Grupo Barroso - toba lítica
+2672,Grupo Barroso - toba riodacítica
+2673,Grupo Barroso - toba riolítica
+2674,Grupo Barroso - toba soldada
+2675,Grupo Barroso - toba soldada vitrificada
+2676,"Grupo Barroso - toba, andesita"
+2677,"Grupo Barroso - toba, brecha"
+2678,"Grupo Barroso - toba, lava andesítica"
+2679,"Grupo Barroso - Tomaromani, Capaca Koverane - domo"
+2680,Grupo Barroso - traquiandesita
+2681,Grupo Barroso - traquiandesita afanítica
+2682,Grupo Barroso - traquiandesita porfídica
+2683,Grupo Barroso - traquita a dacita porfídica masiva
+2684,Grupo Barroso - vitrofiro
+2685,Grupo Cabanillas
+2686,Grupo Calipuy
+2687,Grupo Calipuy -  Miembro superior
+2688,Grupo Calipuy - Caldera Raura - Etapa 1
+2689,Grupo Calipuy - Caldera Raura - Etapa 2
+2690,Grupo Calipuy - Caldera Raura - Etapa 3
+2691,Grupo Calipuy - Caldera Sanjo
+2692,Grupo Calipuy - Caldera Sanjo - Etapa 1
+2693,Grupo Calipuy - Caldera Sanjo - Etapa 2
+2694,Grupo Calipuy - Caldera Sanjo - Etapa 3
+2695,Grupo Calipuy - Centro Volcánica Colorado
+2696,Grupo Calipuy - Centro Volcánica Colorado - Etapa 1
+2697,Grupo Calipuy - Centro Volcánica Colorado - Etapa 2
+2698,Grupo Calipuy - Centro Volcánica Colorado - Etapa 3
+2699,"Grupo Calipuy - lavas, rocas piroclásticos"
+2700,Grupo Calipuy - Miembro Inferior
+2701,Grupo Calipuy - Miembro superior
+2702,Grupo Calipuy - piroclastos
+2703,Grupo Calipuy-Centro Volcánico Pre-Palta Cayán - Evento 1
+2704,Grupo Calipuy-Centro Volcánico Pre-Palta Cayán - Evento 2
+2705,Grupo Casma
+2706,Grupo Casma - Formación  Punta Gramadal
+2707,Grupo Casma - Formación Chilca
+2708,Grupo Casma - Formación Cochapunta
+2709,Grupo Casma - Formación Copara
+2710,Grupo Casma - Formación Copara - Miembro Espinos
+2711,Grupo Casma - Formación Copara - Miembro Repartición
+2712,Grupo Casma - Formación Huarangal
+2713,Grupo Casma - Formación Huarmey
+2714,Grupo Casma - Formación Huarmey - Miembro Inferior
+2715,Grupo Casma - Formación Huarmey - Miembro Medio
+2716,Grupo Casma - Formación Huarmey - Miembro Superior
+2717,Grupo Casma - Formación Junco
+2718,Grupo Casma - Formación Lupín
+2719,Grupo Casma - Formación Pararín - Miembro 1
+2720,Grupo Casma - Formación Pararín - Miembro 2
+2721,Grupo Casma - Formación Quilmaná
+2722,Grupo Casma - Formación Quilmaná - Miembro Inferior
+2723,Grupo Casma - Formación Quilmaná - Miembro Superior
+2724,Grupo Casma - Formación Yangas
+2725,Grupo Casma - Miembro Medio
+2726,Grupo Casma - Miembro Superior
+2727,Grupo Chicama
+2728,Grupo Chicama - Formación Punta Moreno
+2729,Grupo Chicama - Formación Sapotal
+2730,Grupo Chicama - Formación Simbal
+2731,Grupo Chicama - Formación Tinajones
+2732,Grupo Chicama - Formación Tinajones - Miembro Superior
+2733,Grupo Chicama - Formación Tinajones- Miembro Inferior
+2734,Grupo Chicama - Miembro Inferior.
+2735,Grupo Chicama - Miembro Superior
+2736,Grupo Chiriaco
+2737,Grupo Cochalupe - Cachipampa
+2738,Grupo Copa Sombrero - Formación Encuentros - Miembro Cabuyal
+2739,Grupo Copa Sombrero - Formación Encuentros - Miembro Checo
+2740,Grupo Copa Sombrero - Formación Encuentros - Miembro Culebras
+2741,Grupo Copa Sombrero - Formación Encuentros - Miembro Jabonillos
+2742,Grupo Copa Sombrero - Formación Encuentros - Miembro Quebrada Seca
+2743,Grupo Copa Sombrero - Formación Huasimal - Miembro Horquetas
+2744,Grupo Copa Sombrero - Formación Huasimal - Miembro Huasimal
+2745,Grupo Copa Sombrero - Formación Huasimal - Miembro Venados
+2746,Grupo Copa Sombrero - Formación Jahuay Negro - Miembro Chailo
+2747,Grupo Copa Sombrero - Formación Jahuay Negro - Miembro Chapangos
+2748,Grupo Copa Sombrero - Formación Jahuay Negro - Miembro Peña Blanca
+2749,Grupo Copacabana
+2750,Grupo Copacabana - Miembro inferior
+2751,Grupo Copacabana - Miembro Inferior
+2752,Grupo Copacabana - Miembro superior
+2753,Grupo Copacabana - Miembro Superior
+2754,Grupo Excelsior
+2755,Grupo Goyllarisquizga
+2756,Grupo Goyllarisquizga - Formación Carhuaz
+2757,Grupo Goyllarisquizga - Formación Chimú
+2758,Grupo Goyllarisquizga - Formación Farrat
+2759,Grupo Goyllarisquizga - Formación Santa
+2760,"Grupo Goyllarisquizga - Formación Santa, Carhuaz"
+2761,Grupo Goyllarisquizga - Indiferenciado
+2762,Grupo Goyllarisquizga - Miembro Inferior
+2763,Grupo Goyllarisquizga - Miembro Superior
+2764,Grupo Huachocolpa - Formación Chahuarma - Miembro 2
+2765,Grupo Huachocolpa - Formación Chahuarma - Miembro 3
+2766,Grupo Huachocolpa - Formación Chahuarma - Miembro 4
+2767,Grupo Huachocolpa - Formación Chahuarma - Miembro 5
+2768,Grupo Huachocolpa - Formación Chahuarma - Miembro 6
+2769,Grupo Huachocolpa - Formación Chahuarma - Miembro 7
+2770,Grupo Huayabamba
+2771,Grupo Iscay
+2772,Grupo Jauja
+2773,Grupo Los Choros - Formación Yumaque
+2774,Grupo Maure
+2775,Grupo Maure - Formación Condoroma
+2776,Grupo Maure - Formación Nequeta
+2777,Grupo Maure - Formación Quemillone
+2778,Grupo Maure - Formación Tisco
+2779,Grupo Maure - Miembro Inferior
+2780,Grupo Maure - Miembro Medio
+2781,Grupo Maure - Miembro Superior
+2782,Grupo Maure - toba
+2783,Grupo Mitu
+2784,Grupo Mitu - Miembro Inferior
+2785,Grupo Mitu - Miembro Sedimentario
+2786,Grupo Mitu - Miembro Shimayacu
+2787,Grupo Mitu - Miembro Superior
+2788,Grupo Mitu - Miembro Volcánico
+2789,Grupo Mitu - sedimentario
+2790,Grupo Mitu - Sedimentario
+2791,Grupo Moho
+2792,Grupo Morro Solar
+2793,Grupo Morro Solar - Formación Herradura
+2794,Grupo Morro Solar - Formación Marcavilca
+2795,Grupo Morro Solar - Formación Salto del Fraile
+2796,Grupo Nazca
+2797,Grupo Nazca - dacita
+2798,"Grupo Ollantaytambo - andesita, cuarcita, pizarra"
+2799,Grupo Ollantaytambo - esquisto
+2800,"Grupo Ollantaytambo - esquisto, cuarcita, metavolcánico"
+2801,"Grupo Ollantaytambo - esquisto, pizarra"
+2802,"Grupo Ollantaytambo - metavolcánico, cuarcita, mármol, esquisto"
+2803,"Grupo Ollantaytambo - micaesquisto, cuarcita, esquito, filita"
+2804,Grupo Ollantaytambo-mármol
+2805,Grupo Ollantaytambo-micaesquisto
+2806,Grupo Oriente
+2807,Grupo Oriente - Formación Agua Caliente
+2808,Grupo Oriente - Formación Cushabatay
+2809,Grupo Oriente - Formación Esperanza
+2810,Grupo Oriente - Formación Raya
+2811,Grupo Palca
+2812,Grupo Palca - Evento 3
+2813,Grupo Palca - Santa Lucía - conglomerado polimictico
+2814,Grupo Palca - Santa Lucía - toba de cristales
+2815,Grupo Pucará
+2816,Grupo Pucará - Formación Aramachay
+2817,Grupo Pucará - Formación Chambará
+2818,Grupo Pucará - Formación Chambará - Miembro inferior
+2819,Grupo Pucará - Formación Chambará - Miembro superior
+2820,Grupo Pucará - Formación Condorsinga
+2821,Grupo Puente Piedra
+2822,Grupo Puente Piedra - Formación Ancón
+2823,Grupo Puente Piedra - Formación Puente Inga
+2824,Grupo Puente Piedra - Formación Ventanilla
+2825,Grupo Pulluicana
+2826,Grupo Pulluicana - Formación Mujarrún
+2827,Grupo Pulluicana - Formación Yumagual
+2828,"Grupo Pulluicana, Quilquiñán"
+2829,Grupo Puno
+2830,Grupo Puno - Formación Chucuito
+2831,Grupo Puno - Formación Ciguaya
+2832,Grupo Puno - Formación Muñani
+2833,Grupo Puno - Formación Muñani - Miembro Inferior
+2834,Grupo Puno - Formación Muñani - Miembro Medio
+2835,Grupo Puno - Formación Muñani - Miembro Superior
+2836,Grupo Puno - Formación Saracocha
+2837,Grupo Puno - Miembro 1
+2838,Grupo Puno - Miembro 2
+2839,Grupo Puno - Miembro 3
+2840,Grupo Puno - Miembro inferior
+2841,Grupo Puno - Miembro superior
+2842,Grupo Quilquiñán
+2843,Grupo Quilquiñán - Formación Coñor
+2844,Grupo Quilquiñán - Formación Romirón
+2845,Grupo Quilquiñan – Formación Coñor
+2846,Grupo Quilquiñan – Formación Romirón
+2847,"Grupo Quilquiñán, Mujarrún"
+2848,Grupo Rímac
+2849,Grupo Rímac - Miembro Rímac 1
+2850,Grupo Rímac - Miembro Rimac 2
+2851,Grupo Rímac - Miembro Rímac 3
+2852,Grupo Salas
+2853,Grupo San Jerónimo - Formación Kayra
+2854,Grupo San Jerónimo - Formación Soncco
+2855,Grupo San Jerónimo - Formación Soncco - Miembro Inferior
+2856,Grupo San Jerónimo - Formación Soncco - Miembro Superior
+2857,Grupo San José
+2858,Grupo San José - Formación Iparo
+2859,Grupo San Pedro
+2860,Grupo Sillapaca
+2861,Grupo Tacaza
+2862,Grupo Tacaza - Carayccasa
+2863,Grupo Tacaza - Centro Volcánico Santa Bárbara - Evento 1
+2864,Grupo Tacaza - Centro Volcánico Santa Bárbara - Evento 2
+2865,Grupo Tacaza - Centro Volcánico Santa Bárbara - Evento 3
+2866,Grupo Tacaza - Centro Volcánico Santa Bárbara - Evento 4
+2867,Grupo Tacaza - dacita
+2868,Grupo Tacaza - Formación Carayccasa
+2869,Grupo Tacaza - Formación Huilacollo
+2870,Grupo Tacaza - Formación Jallua
+2871,Grupo Tacaza - Formación Llallahui
+2872,Grupo Tacaza - Formación Molla
+2873,Grupo Tacaza - Formación Orcopampa
+2874,Grupo Tacaza - Formación Orcopampa - Miembro Manto
+2875,Grupo Tacaza - Formación Pichu
+2876,Grupo Tacaza - Formación Pichu - Miembro Inferior
+2877,Grupo Tacaza - Formación Pichu - Miembro Medio
+2878,Grupo Tacaza - Formación Pichu - Miembro Superior
+2879,Grupo Tacaza - Formación Santa Rosa - Toba
+2880,Grupo Tacaza - Formación Tarata - Miembro Inferior
+2881,Grupo Tacaza - Formación Tarata - Miembro Superior
+2882,Grupo Tacaza - Miembro 1
+2883,Grupo Tacaza - Miembro 2
+2884,Grupo Tacaza - Miembro 3
+2885,Grupo Tacaza - Miembro 4
+2886,Grupo Tacaza - Miembro 5
+2887,Grupo Tacaza - Miembro 6
+2888,Grupo Tacaza - Miembro 7
+2889,Grupo Tacaza - Miembro 8
+2890,Grupo Tacaza - Miembro Inferior
+2891,Grupo Tacaza - Miembro Superior
+2892,Grupo Tacaza Inferior
+2893,Grupo Tacaza Superior
+2894,Grupo Talara
+2895,Grupo Tarma
+2896,"Grupo Tarma, Copacabana"
+2897,Grupo Toquepala - Formación Huaracane - Miembro 1
+2898,Grupo Toquepala - Formación Huaracane - Miembro 2
+2899,Grupo Toquepala - Formación Huaracane - Miembro 3
+2900,Grupo Toquepala - Formación Huaracane - Miembro 4
+2901,Grupo Toquepala - Formación Huaracane - Miembro 5
+2902,Grupo Toquepala - Formación Huaracane - Miembro 6
+2903,Grupo Toquepala - Formación Huaracane - Miembro 7
+2904,Grupo Toquepala - Formación Inogoya
+2905,Grupo Toquepala - Formación Matalaque
+2906,Grupo Toquepala - Formación Paralaque
+2907,Grupo Toquepala - Formación Quellaveco - Miembro Asana
+2908,Grupo Toquepala - Formación Quellaveco - Miembro Carpanito
+2909,Grupo Toquepala - Formación Quellaveco - Miembro Samanape
+2910,Grupo Toquepala - Formación Quellaveco - Miembro Tinajones
+2911,Grupo Toquepala - Formación Quellaveco - Miembro Yarito
+2912,Grupo Yuncaypata - Formación Paucarbamba
+2913,Grupo Yuncaypata - Formación Puquín
+2914,Grupo Yura
+2915,Grupo Yura - Formación Cachios
+2916,Grupo Yura - Formación Gramadal
+2917,Grupo Yura - Formación Hualhuani
+2918,Grupo Yura - Formación Labra
+2919,Grupo Yura - Formación Labra - Miembro Inferior
+2920,Grupo Yura - Formación Labra - Miembro Superior
+2921,Grupo Yura - Formación Puente
+2922,"Grupo Yura - Formación Puente, Cachíos"
+2923,Grupo Zaña
+2924,Hatun Quico - granito
+2925,Huacapistana - gneis
+2926,Huachocolpa - metamonzogranito
+2927,Huaclani - tonalita
+2928,Huacra - dacita porfídica
+2929,Huacuas - granito
+2930,Huantataya - monzogranito
+2931,Huarinota - dacita
+2932,Huarón - monzonita
+2933,Huenacaca - diorita
+2934,Huiscococha - andesita basáltica
+2935,Huisoroque - tonalita
+2936,Huyauniyoc - monzogranito
+2937,Intrusivo - Monzonita
+2938,Isla
+2939,Jabanillos - diorita
+2940,Jaccuypata - leucogranito
+2941,Jalcarane - dacita
+2942,Jatun Sallaco - andesita
+2943,"Kcenecata - granodiorita, granito"
+2944,"La Raya - granito, granodiorita"
+2945,Lago
+2946,Laguna
+2947,Laguna Breu
+2948,Laguna Cajocuma
+2949,Laguna Camote
+2950,Laguna Camuchero
+2951,Laguna Chirote
+2952,Laguna Garza
+2953,Laguna intermitente
+2954,Laguna Iquitococha
+2955,Laguna Palmera
+2956,Laguna Panchococha
+2957,Laguna Panduro
+2958,Laguna Reseca
+2959,Laguna San Pablo
+2960,Laguna seca
+2961,Laguna Seca
+2962,Laguna Tipishira
+2963,Laguna Vaca
+2964,Laguna Verbena
+2965,Lamproita
+2966,Latiandesita
+2967,Latita
+2968,Livichaco - sienita
+2969,Lomas - granodiorita
+2970,Machupicchu - granito
+2971,Mallingas - diorita
+2972,"Manto - monzogranito, sienogranito"
+2973,"Marca - monzodiorita, granodiorita"
+2974,Marcapata - granito
+2975,"Marcapunta - dacita, cuarzolatita"
+2976,"Metal Palina - granito, tonalita"
+2977,Microdiorita
+2978,Microgranito
+2979,Microtonalita
+2980,Migmatita
+2981,Millacase - traquita
+2982,Milonita
+2983,Molles - dacita
+2984,Montenegro - granito
+2985,Monzodiorita
+2986,Monzogranito
+2987,Monzogranito Salhuana
+2988,"Monzogranito, diorita"
+2989,"Monzogranito, monzodiorita, sienogranito"
+2990,"Monzogranito, monzonita"
+2991,Monzonita
+2992,Monzonita Canaan
+2993,Necgapata - granito
+2994,Nevado
+2995,Ninahuisa - riolita
+2996,NN
+2997,Oceano
+2998,Océano
+2999,Océano Pacífico
+3000,Ollachea - sienita
+3001,Pacapausa - tonalita
+3002,Paco-riodacita
+3003,Pacococha - monzogranito
+3004,Paconcahua - latiandesita
+3005,Paltashaco - granito
+3006,Pampa Corral - granito
+3007,"Pamparumbe - tonalita, diorita"
+3008,Patabamba - cuarzolatita
+3009,Paucartambo - granito
+3010,Peña Blanca - monzogranito
+3011,Peridotita
+3012,Pessce - diorita
+3013,"Pira - tonalita, granodiorita"
+3014,Piroxenita
+3015,Pisa - andesita
+3016,Plutón Abancay
+3017,Plutón Abuela
+3018,Plutón Acos
+3019,Plutón Alcagranja
+3020,Plutón Alto Guitarras
+3021,Plutón Anamaray
+3022,Plutón Antamina
+3023,Plutón Apocañajuay
+3024,Plutón Arapa
+3025,Plutón Aricoma
+3026,Plutón Ayacochas
+3027,Plutón Ayapata
+3028,Plutón Azapata
+3029,Plutón Azul Huanca
+3030,Plutón Bandurria
+3031,Pluton Cachicoto
+3032,Plutón Cahua
+3033,Plutón Calayoc
+3034,Plutón Caldera Carabamba
+3035,Plutón Canchacaya
+3036,Plutón Capacsaya
+3037,Plutón Carachupa
+3038,Plutón Caranpa
+3039,Plutón Carhuaso Punco
+3040,Plutón Carrizal
+3041,Plutón Catalina
+3042,Plutón Cayan
+3043,Plutón Cayash
+3044,Plutón Centinela
+3045,"Plutón Cerro Campana - granodiorita, tonalita"
+3046,Plutón Cerro Chancadora
+3047,Plutón Chacos
+3048,Plutón Chagapata
+3049,Plutón Changui - granito
+3050,Plutón Chanicocha
+3051,Plutón Characas - monzogranito
+3052,Plutón Chaupiorjo
+3053,Plutón Chonta
+3054,Plutón Choquetacarpo
+3055,Plutón Choquezafra
+3056,Plutón Chucuito
+3057,Plutón Chungui
+3058,Plutón Chupa
+3059,Plutón Cirialo
+3060,"Plutón Coasa - granito, granodiorita"
+3061,Plutón Cobriza
+3062,"Plutón Cocalita San Antonio - granodiorita, tonalita"
+3063,Plutón Cocalito - San Antonio
+3064,Plutón Cochabamba
+3065,Plutón Colca
+3066,Plutón Colcabamba
+3067,Plutón Colque
+3068,Plutón Colquepucro
+3069,Plutón Condorsenga
+3070,Plutón Conejaja
+3071,Plutón Corahuacra
+3072,Plutón Cotabambas
+3073,Plutón Coy Coy
+3074,Plutón Cruz Punta
+3075,Plutón Culebras
+3076,Plutón Cupisnique
+3077,Plutón de Huanchay
+3078,Plutón Esquinani - diorita
+3079,Plutón Garrapón
+3080,Plutón Gitano
+3081,Plutón Gompi
+3082,Plutón Granadilla
+3083,Plutón Guaneros
+3084,Plutón Hatun Quico
+3085,Plutón Higueras
+3086,Plutón Higuerón
+3087,Plutón Hilarión
+3088,Plutón Huacapistana
+3089,Plutón Huaccombra
+3090,Plutón Huachocolpa
+3091,Plutón Huanchurina
+3092,Plutón Huaura
+3093,Plutón Huayaunioc
+3094,Plutón Huayaunioc - monzogranito rico en cuarzo
+3095,Plutón Huaylla Grande
+3096,Plutón Huayllapa
+3097,Plutón Ingenio
+3098,Plutón Inhuacocha
+3099,Plutón Jabanillos
+3100,Plutón Jatunachachanan
+3101,Plutón Jatuncarcuyo
+3102,Plutón Kcenacata
+3103,Plutón Limacjirca
+3104,Plutón Limbani - granodiorita
+3105,Plutón Limón Verde
+3106,Plutón Livichaco
+3107,Plutón Machupicchu
+3108,Plutón Mal Paso
+3109,Plutón Manzanilla
+3110,Plutón Marcapomacocha
+3111,Plutón Mariposa
+3112,Plutón Millotingo
+3113,Plutón Molles
+3114,Plutón Monobamba
+3115,Plutón Mulachurco
+3116,Plutón Oso
+3117,Plutón Pacapausa
+3118,Plutón Paco
+3119,Plutón Pacococha
+3120,Plutón Paconcahua
+3121,Plutón Palacache
+3122,Plutón Pallca
+3123,Plutón Palta Cayán
+3124,Plutón Palta Orjo Chico
+3125,Plutón Pampa Corral
+3126,Plutón Pampa Hermosa
+3127,Plutón Pampa Hermosa - granito
+3128,Plutón Pampachacra
+3129,Plutón Pampaconas - granodiorita
+3130,Plutón Pampacorral
+3131,"Plutón Pampacorral - diorita, monzonita"
+3132,Plutón Pampacorral - tonalita
+3133,Plutón Pan de Azúcar
+3134,Plutón Parag
+3135,Plutón Pasaje
+3136,Plutón Pasaje - diorita
+3137,Plutón Patorumi Fortaleza
+3138,Plutón Pira
+3139,Plutón Potrero
+3140,Plutón Pre-Palta Cayán
+3141,Plutón Pucará
+3142,Plutón Pucayacu - Andesita
+3143,Plutón Pumarcana
+3144,Plutón Pumasillo
+3145,Plutón Purupata
+3146,Plutón Queroc
+3147,Plutón Queullacocha
+3148,Plutón Quijache
+3149,Plutón Quilloc Mesapelada
+3150,Plutón Ranyac
+3151,Plutón Raura
+3152,Plutón Ronatullo
+3153,"Plutón Rumipite - diorita, tonalita"
+3154,Plutón Runtucocha
+3155,Plutón Runtucocha - Granito
+3156,Plutón Runtulla
+3157,Plutón Rushos
+3158,Plutón Sacallante - Monzonita
+3159,Plutón Salinas
+3160,Plutón Salinas - granito
+3161,Plutón San José
+3162,Plutón San Juan
+3163,Plutón San Mateo
+3164,Plutón San Pedro
+3165,Plutón Sanjo
+3166,Plutón Santa Bárbara de Carhuacayán
+3167,Plutón Santa Eulalia
+3168,Plutón Santo Domingo
+3169,Plutón Sausales
+3170,Plutón Señal Roco
+3171,Plutón Siete Toldos
+3172,Plutón Siete Toldos - tonalita
+3173,Plutón Sogopegan
+3174,Plutón Solitaria
+3175,Plutón Sucllamachay
+3176,Plutón Suelloc
+3177,Plutón Sumariohuasi
+3178,Plutón Surco
+3179,Plutón Tinco
+3180,Plutón Tornamesa
+3181,Plutón Tusini
+3182,Plutón Tuturane
+3183,Plutón Uchuchacua
+3184,Plutón Usco
+3185,Plutón Utcuyacu
+3186,Plutón Versalles
+3187,Plutón Villa Azul
+3188,Plutón Yahuarcocha - Tonalita
+3189,Plutón Yanacocha
+3190,Plutón Yanacocha sur
+3191,Plutón Yanatile
+3192,Plutón Yanico
+3193,Plutón Yaurimoco
+3194,Plutón Yayamani
+3195,Plutón Yumpag
+3196,Plutón Yupanca
+3197,Pórfido
+3198,Pórfido andesítico
+3199,Porfido basalto
+3200,Pórfido Basanita
+3201,Pórfido cuarcífero
+3202,Pórfido dacita
+3203,Pórfido dacítico
+3204,"pórfido dacítico, monzonítico"
+3205,Pórfido granodiorita
+3206,Pórfido monzonita
+3207,Pórfido monzonítico
+3208,Pórfido Río Blanco
+3209,Pórfido riodacitico
+3210,Pórfido riolítico
+3211,Pórfido Suparata- Riolita
+3212,Pozo de Lodo
+3213,Pueblo
+3214,Pulpera - pórfido riodacítico
+3215,Puma Chanca - granito
+3216,Purgatorio - monzogranito
+3217,Putón Chungui
+3218,Quico - andesita
+3219,Quijache - pórfido riodacítico
+3220,"Quilloc Mesapelada - granito, granodiorita"
+3221,Ramyoc - monzogranito
+3222,Represa Agua
+3223,río
+3224,Río
+3225,Riodacita
+3226,"Riodacita, dacita"
+3227,Riolita
+3228,Riolita porfídica
+3229,Riolita porfirítica
+3230,"Riolita, dacita"
+3231,Ríos
+3232,"Roca subvolcánica, andesita"
+3233,Rocas Igneas - Riolita
+3234,Ronatullo - tonalita
+3235,Rosasane - diorita
+3236,Runtulla - pórfido ácido
+3237,San Antonio - granito
+3238,"San Antonio - tonalita, granodiorita"
+3239,San Francisco de Quenamari - monzogranito
+3240,San Gabán - granito
+3241,San José - microgranito
+3242,San José - toba de cristales
+3243,"San Ramón - monzogranito, sienogranito"
+3244,Santa Ana - microdiorita
+3245,Secuencia Volcánica  Soncolla - Evento 1
+3246,Secuencia Volcánica  Soncolla - Evento 2
+3247,Secuencia Volcánica Acocunca
+3248,Secuencia Volcánica Actapa - Evento 1
+3249,Secuencia Volcánica Actapa - Evento 2
+3250,Secuencia Volcánica Angasmaca - Evento 1
+3251,Secuencia Volcánica Angasmaca - Evento 2
+3252,Secuencia Volcánica Antapacay - Evento 1
+3253,Secuencia Volcánica Antapacay - Evento 2
+3254,Secuencia Volcánica Astobamba - Evento 1
+3255,Secuencia Volcánica Cajat
+3256,Secuencia Volcánica Cajatambo - Evento 1
+3257,Secuencia Volcánica Cajatambo - Evento 2
+3258,Secuencia Volcánica Cajatambo - Evento 3
+3259,Secuencia Volcánica Chilete - Evento 3
+3260,Secuencia Volcánica Chuquibamba
+3261,Secuencia Volcánica Coline - Evento 1
+3262,Secuencia Volcánica Colta
+3263,Secuencia Volcánica Condorhuaín - Evento 1
+3264,Secuencia Volcánica Condorhuaín - Evento 2
+3265,Secuencia Volcánica Corralmayo
+3266,Secuencia Volcánica Cullcorjo - Evento 1
+3267,Secuencia Volcánica Cullcorjo - Evento 2
+3268,Secuencia Volcánica Cullcorjo - Evento 3
+3269,Secuencia Volcánica Cullcorjo - Evento 4
+3270,Secuencia volcanica Irman - Evento 1
+3271,Secuencia volcanica Irman - Evento 2
+3272,Secuencia volcanica Irman - Evento 3
+3273,Secuencia volcanica Irman - Evento 4
+3274,Secuencia Volcánica Iruro
+3275,Secuencia Volcánica Iscay
+3276,Secuencia Volcánica Jollapata - Evento 1
+3277,Secuencia Volcánica Jollapata - Evento 2
+3278,Secuencia Volcánica Jollapata - Evento 3
+3279,Secuencia Volcánica Onza
+3280,Secuencia Volcánica Palca - Evento 2
+3281,Secuencia Volcánica Pocoto
+3282,Secuencia Volcánica Quillisani - Evento 1
+3283,Secuencia Volcánica Quinsachata
+3284,Secuencia Volcánica Ralluna
+3285,Secuencia Volcánica Río Chilli - Evento 1
+3286,Secuencia Volcánica Río Chilli - Evento 2
+3287,Secuencia Volcánica Río Chilli - Evento 3
+3288,Secuencia Volcánica Rumicolca
+3289,Secuencia Volcánica San José
+3290,Secuencia Volcánica San Pablo - Evento 1
+3291,Secuencia Volcánica San Pablo - Evento 2
+3292,Secuencia Volcánica San Pablo - Evento 3
+3293,Secuencia Volcánica Santa Rosa - Evento 1
+3294,Secuencia Volcánica Saygua - Evento 1
+3295,Secuencia Volcánica Saygua - Evento 2
+3296,Secuencia Volcánica Tablachaca - Evento 1
+3297,Secuencia Volcánica Umayo
+3298,Secuencia Volcánica Untuma
+3299,Secuencia Volcánico Tablapata - Evento 2
+3300,Sienita
+3301,Sienogranito
+3302,Sienogranito Huatziroke
+3303,Sienogranito San Ramon
+3304,Sienogranito Vitoc
+3305,Sills o coladas de basalto (N-B)
+3306,Sin denominación
+3307,Stock Ango
+3308,Stock Antapata
+3309,Stock Carmatingo
+3310,Stock Cauri
+3311,Stock Chacracocha
+3312,Stock Collque Orco - sienita
+3313,Stock Contonga
+3314,Stock Huano
+3315,"Stock Huaynapata - gabro, diorita"
+3316,Stock Llacsa
+3317,Stock Mirgas
+3318,Stock Orospuquio
+3319,Stock Patatapa
+3320,Stock Paucas
+3321,Stock Puncucolla
+3322,Stock Raura
+3323,Stock Rondoni
+3324,Stock San Cristóbal
+3325,Stock Taully
+3326,Stock Vinchos
+3327,Subvolcánico
+3328,"Sucllamachay - tonalita, granodiorita"
+3329,Suelloc - diorita
+3330,Súper Unidad Amotapes
+3331,Súper Unidad Antamina
+3332,Súper Unidad Cahuish
+3333,Super Unidad Carampayoc
+3334,Súper Unidad Catahuasi
+3335,Súper Unidad Chala
+3336,Súper Unidad Challaviento
+3337,Súper Unidad Cochahuasi
+3338,Súper Unidad Cohup
+3339,Súper Unidad Colasay
+3340,Súper Unidad Colquemarca
+3341,Súper Unidad Gollón - Callangate
+3342,Súper Unidad Humaya
+3343,Súper Unidad Ica
+3344,Súper Unidad Ilo
+3345,Súper Unidad Incahuasi
+3346,Súper Unidad Jaqui
+3347,Súper Unidad Jatun Huasi
+3348,Súper Unidad Jecuán
+3349,Súper Unidad Las Lomas
+3350,Súper Unidad Linga
+3351,Súper Unidad Médanos
+3352,Súper Unidad Monte Sarumo
+3353,Súper Unidad Paccho
+3354,Súper Unidad Paltashaco
+3355,Súper Unidad Pampahuasi
+3356,Súper Unidad Pamparrumbe
+3357,Súper Unidad Paraíso
+3358,Súper Unidad Patap
+3359,Súper Unidad Pativilca
+3360,Súper Unidad Punta Coles
+3361,Súper Unidad Puscao
+3362,Súper Unidad Sacota
+3363,Súper Unidad Sacsamayo
+3364,Súper Unidad San Ignacio
+3365,Súper Unidad San Luis
+3366,Super Unidad San Ramón - Monzogranito
+3367,Super Unidad Santa Bárbara
+3368,Súper Unidad Santa Rosa
+3369,Súper Unidad Tiabaya
+3370,Super Unidad Tingo Cancha
+3371,Super Unidad Tingocancha
+3372,Súper Unidad Toldopampa
+3373,Súper Unidad Torconta
+3374,Súper Unidad Torrecillas
+3375,Súper Unidad Ventanillas Pariatoco
+3376,Súper Unidad Yarabamba
+3377,Superunidad San Ignacio
+3378,Suruijuana - pórfido riodacítico
+3379,"Suyo - granodiorita, tonalita"
+3380,Talhuis - granodiorita
+3381,Tambo - granito
+3382,Tarma - granodiorita
+3383,Toba de cristales
+3384,Toba riolítica
+3385,Tonalita
+3386,Tonalita - Granodiorita
+3387,"Tonalita, diorita"
+3388,"Tonalita, granito"
+3389,"Tonalita, granodiorita"
+3390,"Tonalita, granodiorita, diorita"
+3391,Tonca - aplita
+3392,Tontoquere - latita
+3393,Totora - andesita
+3394,traquiandesita
+3395,Traquiandesita
+3396,traquiandesita porfídica
+3397,Traquita
+3398,"Tunasmojo - granito, monzonita"
+3399,Tusini - cuarzomonzonita
+3400,Tutumberos - diabasa
+3401,Tuturane - riolita
+3402,Uchco
+3403,Unidad  Utjujanja
+3404,Unidad Acari
+3405,Unidad Altamira
+3406,Unidad Altamisa
+3407,Unidad Ancara
+3408,Unidad Ancojarja
+3409,Unidad Anta
+3410,Unidad Aricoma
+3411,Unidad Ayancocha
+3412,Unidad Cadenas
+3413,Unidad Cala Cala
+3414,Unidad Carampayoc
+3415,Unidad Carrizal
+3416,Unidad Cayán
+3417,Unidad Cayo Orjo
+3418,Unidad Ccasccabamba
+3419,Unidad Chillhuapata
+3420,Unidad Coasa
+3421,Unidad Cocas
+3422,Unidad Colquemarca
+3423,Unidad Colquemarca - Plutón Colquemarca - tonalita
+3424,Unidad Colquemarca - Pluton Pisuropata - tonalita
+3425,Unidad Condoriquiña
+3426,Unidad Conguime
+3427,Unidad Cotabambas
+3428,Unidad Cotabambas - Pluton Aychacata - microdiorita
+3429,Unidad Cotabambas - Plutón Cajimarca - granodiorita
+3430,Unidad Cotabambas - Pluton Colca - tonalita
+3431,"Unidad cotabambas - Plutón Cotabambas - granodiorita ,tonalita"
+3432,Unidad Cotabambas - Plutón Curahuasi - diorita
+3433,Unidad Cotabambas - Plutón Curahuasi - gabro
+3434,Unidad Cotabambas - Plutón Curahuasi - granodiorita
+3435,Unidad Cotabambas - Plutón Curahuasi - sienita
+3436,Unidad Cotabambas - Plutón Curahuasi - tonalita
+3437,Unidad Cotabambas - Pluton Huanoquite - granodiorita
+3438,Unidad Cotabambas - Pluton Rocoto - granodiorita
+3439,Unidad Cotabambas - Puton Bellavista - diorita
+3440,Unidad Coyllurqui
+3441,Unidad Coyllurqui - Plutón Coyllurqui - granodiorita
+3442,"Unidad Coyllurqui - Plutón Coyllurqui - tonalita, granodiorita"
+3443,Unidad Coyllurqui - Plutón Lagua - cuarzomonzodiorita
+3444,Unidad Coyllurqui - Plutón Pasto - diorita
+3445,Unidad El Molino - Carrizal
+3446,Unidad Haquira
+3447,"Unidad Haquira - Plutón Haquira - tonalita, diorita"
+3448,"Unidad Haquira - Plutón Oscollo - tonalita, diorita"
+3449,Unidad Higuerón
+3450,Unidad Huachon
+3451,Unidad Huachón
+3452,Unidad Huaclani
+3453,Unidad Huacuto
+3454,Unidad Huanchuacaca
+3455,Unidad Huasan - Plutón Utupara - diorita
+3456,Unidad Huasani
+3457,Unidad Huasani - Plutón Huasani - diorita
+3458,Unidad Huasani - Plutón Huasani - granodiorita
+3459,Unidad Huaynagravel
+3460,Unidad Huisoroque
+3461,Unidad Jaccuypata
+3462,Unidad La Huaña
+3463,Unidad Lagartos
+3464,Unidad Lambrama
+3465,Unidad Lambrama - Plutón Lambrama - cuarzomonzonita
+3466,Unidad Lambrama - Plutón Lambrama - diorita
+3467,Unidad Lambrama - Plutón Marjune - microgranito
+3468,Unidad Lambrama - Plutón Sanjo - diorita
+3469,Unidad Lambrana - Plutón Lambrana - cuarzodiorita
+3470,Unidad Limbani
+3471,Unidad Lintere- microgranito
+3472,Unidad Llacaden
+3473,Unidad Llajua
+3474,Unidad Llajua - Plutón Anta Anta - diorita
+3475,Unidad Llajua - Plutón Charamuray - diorita
+3476,Unidad Llajua - Plutón Cochasayhuas - diorita
+3477,Unidad Llajua - Plutón Ferrobamba - diorita
+3478,Unidad Llajua - Plutón Llajua - diorita
+3479,Unidad Llajua - Plutón Pampa - diorita
+3480,Unidad Lloquesa
+3481,Unidad Los Ranchos
+3482,Unidad Lucumayo
+3483,Unidad Malingas
+3484,Unidad Mallampampa
+3485,Unidad Manto
+3486,Unidad Metal Palina
+3487,Unidad Millacase
+3488,Unidad Ninahuisa
+3489,Unidad Ocobamba
+3490,Unidad Ocobamba - Plutón Anchaca - cuarzodiorita
+3491,Unidad Ocobamba - Plutón Huayllacocha - tonalita
+3492,Unidad Ocobamba - Plutón Jichcorral - diorita
+3493,Unidad Ocobamba - Plutón Maraypata - monzodiorita
+3494,Unidad Ocobamba - Plutón Ocobamba - cuarzodiorita
+3495,Unidad Ocobamba - Plutón Ocobamba - monzodiorita
+3496,Unidad Ocobamba - Plutón San Antonio - monzogranito
+3497,Unidad Ocobamba - Plutón Taquebamba - monzodiorita
+3498,Unidad Ocobamba - Pluton Toncco Bamba - diorita
+3499,Unidad Ojeacocha
+3500,Unidad Ollachea
+3501,Unidad Pacaipampa
+3502,Unidad Pacaypampa
+3503,Unidad Pamparrumbe
+3504,Unidad Parco
+3505,Unidad Parco - Plutón Auquimarca - granodiorita
+3506,Unidad Parco - Plutón Huayllapata - tonalita
+3507,Unidad Parco - Plutón Llinque - cuarzodiorita
+3508,Unidad Parco - Plutón Negro Cocha - metacuarzodiorita
+3509,Unidad Parco - Plutón Negro Cocha - metacuarzomonzodiorita
+3510,Unidad Parco - Plutón Parco - diorita
+3511,Unidad Parco - Plutón Parco - granodiorita
+3512,Unidad Parco - Plutón Purco - monzonita
+3513,Unidad Parco - Plutón Santa Rosa - diorita
+3514,Unidad Parco - Plutón Santa Rosa - monzonita
+3515,Unidad Patabamba
+3516,Unidad Penachi
+3517,Unidad Peñón
+3518,Unidad Piscacucho
+3519,Unidad Playa Hermosa
+3520,Unidad Progreso
+3521,"Unidad Progreso - Plutón Chalcobamba - tonalita, granodiorita"
+3522,Unidad Progreso - Plutón Jatunjasa - granodiorita
+3523,Unidad Progreso - Plutón Ojococha - granodiorita
+3524,Unidad Progreso - Plutón Oyoni - tonalita
+3525,Unidad Progreso - Plutón Progreso - diorita
+3526,Unidad Progreso - Plutón Progreso - granodiorita
+3527,Unidad Progreso - Plutón Progreso - tonalita
+3528,"Unidad Progreso - Plutón Progreso - tonalita, granodiorita"
+3529,Unidad Progreso - Plutón Quello - granodiorita
+3530,Unidad Progreso - Pluton Tambobamba - granodiorita
+3531,Unidad Pucahuanca
+3532,Unidad Puesto Figueroa
+3533,Unidad Quebrada Cotrina
+3534,Unidad Querayoc
+3535,Unidad Quiparacra
+3536,Unidad Quisichupa
+3537,Unidad Rumipite
+3538,Unidad Sabanilla
+3539,Unidad Salamanca
+3540,Unidad San Gabán
+3541,Unidad San Miguel Ongoy
+3542,Unidad San Rafael
+3543,Unidad San Ramón
+3544,Unidad Sañayca
+3545,Unidad Sañayca - Congota - andesita porfirítica
+3546,Unidad Sañayca - dacita
+3547,Unidad Sañayca - Huanca Huanca - Andesita porfídica
+3548,Unidad Sañayca - latiandesita
+3549,Unidad Sañayca - Molle - andesita porfirítica
+3550,Unidad Sañayca - riodacita
+3551,Unidad Senja - cuarzomonzodiorita
+3552,Unidad Surapata
+3553,Unidad Suyo
+3554,Unidad Tabaconas
+3555,Unidad Tamarindo
+3556,Unidad Taucane
+3557,Unidad Tauromarca
+3558,Unidad Tembladera
+3559,Unidad Tingo Grande
+3560,Unidad Tontoquere
+3561,Unidad Totora
+3562,Unidad Totora - dacita
+3563,Unidad Totora - Piscocalla - dacita porfídica
+3564,Unidad Totora - riolita porfirítica
+3565,Unidad Totora - Totora - dacita porfídica
+3566,Unidad Tucto
+3567,Unidad Tupe
+3568,Unidad Turamarca
+3569,Unidad Ullasupo
+3570,Unidad Vizcachani
+3571,Unidad Yachata
+3572,Unidad Yaretani
+3573,Unidad Yurac Apacheta
+3574,Unidad Zarumilla
+3575,Utccuccacca - leucogranito
+3576,Versalles - monzonita
+3577,Vilca - monzogranito
+3578,Vitrofiro
+3579,Vizcachani - diorita
+3580,Yacchata - riodacita
+3581,Yanacocha - andesita
+3582,Yanico - granodiorita
+3583,Yaurimoco - Tonalita
+3584,Yayamari - andesita
+3585,Yayamari - granito
+3586,Yupanca - Granito
+3587,Yurac Apacheta - monzogranito
+3588,Zona de Alteración

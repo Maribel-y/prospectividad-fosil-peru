@@ -1,0 +1,5 @@
+escenario,RF_AUC,RF_TSS,GB_AUC,GB_TSS
+Sin covariables de accesibilidad,0.835,0.552,0.834,0.549
+Con covariables de accesibilidad,0.864,0.577,0.867,0.6
+Bloqueo espacial (100 km),0.864,0.582,0.865,0.597
+k-fold aleatorio,0.899,0.662,0.898,0.655
