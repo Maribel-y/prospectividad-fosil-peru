@@ -81,8 +81,11 @@ salidas/      figuras y tablas del artículo
 
 ## Licencia
 
-[Pendiente de decidir. Habitual: código con licencia MIT y datos derivados con CC-BY,
-respetando los términos de PBDB, GBIF e INGEMMET.]
+El código se distribuye con licencia [MIT](LICENSE).
+Los datos derivados (tablas y mapas en `salidas/` y `datos/procesados/`) siguen los
+términos de sus fuentes: PBDB (CC BY 4.0), GBIF (licencia de cada conjunto de datos),
+INGEMMET (obras derivadas con atribución), ESA WorldCover (CC BY 4.0) y
+OpenStreetMap (ODbL). Los límites de GADM no se redistribuyen.
 
 ## Cita
 
