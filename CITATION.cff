@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "prospectividad-fosil-peru: Code for national-scale paleontological prospectivity modelling in Peru"
+authors:
+  - family-names: "Yana-Yucra"
+    given-names: "Dina Maribel"
+    orcid: "https://orcid.org/0009-0003-6218-2735"
+    affiliation: "Universidad Nacional del Altiplano"
+version: "v1.1.1"
+doi: "10.5281/zenodo.22947851"
+date-released: "2026-09-24"
+license: MIT
+repository-code: "https://github.com/Maribel-y/prospectividad-fosil-peru"

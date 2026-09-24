@@ -89,4 +89,7 @@ OpenStreetMap (ODbL). Los límites de GADM no se redistribuyen.
 
 ## Cita
 
-[Pendiente: referencia del artículo cuando esté publicado.]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22947851.svg)](https://doi.org/10.5281/zenodo.22947851)
+
+Yana-Yucra, D. M. (2026). *prospectividad-fosil-peru* (v1.1.1) [Software]. Zenodo.
+https://doi.org/10.5281/zenodo.22947851
