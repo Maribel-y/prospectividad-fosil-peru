@@ -48,5 +48,6 @@ paso 24  R 24_calibracion.R               # Brier score, reliability (seeds 1-5)
 paso 25  R 25_dependencia_imputacion.R    # priority sets vs imputed geology
 paso 26  R 26_pliegue_debil.R             # weakest fold, department summary
 paso 27  R 27_gbif_derived_dataset.R      # datasetKey counts for the GBIF derived dataset
+paso 28  R 28_figura_area_estudio.R      # study-area figure
 paso 17  R 17b_figuras_compuestas_en.R    # composite figures (English)
 echo "Done. Tables in salidas/tablas, figures in salidas/figuras."
